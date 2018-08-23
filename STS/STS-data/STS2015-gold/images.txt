@@ -1,0 +1,750 @@
+0	5	images	0 0 0 0 0	a tattooed man in black playing a white guitar and singing.	a woman in a black and white coat and earmuffs.	0	0.622641509433962	-0.698615122544562	1.81410166754757	5.48797248338777
+0	5	images	0 0 0 0 0	two little girls in pink are dancing.	two ladies jogging on a path near the waterfront.	0	0.511627906976744	-0.698615122544562	0.398379204815247	4.23137917419951
+0	5	images	0 0 0 0 0	the two boys play in the field.	the two people have their heads covered with scarves.	0	0.5	-0.698615122544562	0.630121272473804	4.38130823777187
+0.4	5	images	0 2 0 0 0	a woman holds a baby while a man looks at it as another man holding a child watches.	a woman stands with her arms out in a store while another woman holds a camera.	0.8	0.601226993865031	1.6838877902102	0.196062817207046	2.28864822798293
+0.2	5	images	0 0 1 0 0	the boy in the orange shirt is throwing the ball.	the black and white muzzled dog is leaping above the grass.	0.4	0.5	0.492636333832817	1.22574700066249	3.45674091810366
+0	5	images	0 0 0 0 0	a young boy in a white dress shirt is playing on a grassy plain.	a woman is getting her hair done at a salon.	0	0.5	-0.698615122544562	0.630121272473804	4.38130823777187
+0	5	images	0 0 0 0 0	two people wearing hats sit and look at the camera.	a man wearing a blue shirt makes a grouchy face.	0	0.525252525252525	-0.698615122544562	0.126843044730474	4.07644170342206
+0	5	images	0 0 0 0 0	children jumping on a trampoline.	a man is sledding on an orange slide.	0	0.514285714285714	-0.698615122544562	0.345409589350436	4.19948103420441
+0	5	images	0 0 0 0 0	an elderly man in a blue shirt is holding up a piece of canvas art.	a black man is walking next to a building in a big city.	0	0.504065040650406	-0.698615122544562	0.549105752885854	4.3269079914973
+0	6	images	0 0 0 0 0	two people are in bed.	two boxers are in the ring.	0	0.653061224489796	-0.698615122544562	2.42036104670515	6.36505592641499
+0.4	5	images	1 0 1 0 0	a girl in a purple shirt and pink headband posing	a young girl wearing a hat and blue jeans is on a swing.	0.49	0.552380952380952	0.760363989191394	0.777429890732162	2.94258024432621
+0	5	images	0 0 0 0 0	two men are setting up some electronic equpitment	two dogs are wrestling on the ground in the snow.	0	0.530612244897959	-0.698615122544562	0.0200248086380124	4.02102853307394
+0	5	images	0 0 0 0 0	two men sit on the sidewalk in front of stores.	a woman in a bathing suit walks a dog on the beach.	0	0.530612244897959	-0.698615122544562	0.0200248086380124	4.02102853307394
+0	5	images	0 0 0 0 0	a person is skijoring with a dog in the mountains.	a brown dog is playing with a ball in the water.	0	0.612244897959184	-0.698615122544562	1.6068990949241	5.24419713099626
+0	5	images	0 0 0 0 0	a white and black dog is jumping into a pool.	a woman in a black apron is standing in front of a mirror.	0	0.601941747572815	-0.698615122544562	1.40155918476577	5.02628906277235
+0	5	images	0 0 0 0 0	a man wearing us flag boxer shorts is standing on a stairway.	a woman wearing a white shirt stands on the street.	0	0.660714285714286	-0.698615122544562	2.5728851626641	6.63085200960682
+0	5	images	0 0 0 0 0	two constructions workers sit on a beam taking a break.	the man is putting on his shirt near an elevator.	0	0.5	-0.698615122544562	0.630121272473804	4.38130823777187
+0.2	5	images	1 0 0 0 0	the boy is looking up at the girl as another girl ignores them.	the boy is diving into the pool as the couple watch.	0.4	0.626086956521739	0.492636333832817	1.28714307212203	3.51427977277896
+0	5	images	0 0 0 0 0	a man standing on a boat is pulling another boat close by with a bamboo stick.	a man in a black hat standing in front of a brick wall and a sign	0	0.517482517482518	-0.698615122544562	0.281697884036114	4.16221656616487
+0.2	5	images	0 1 0 0 0	a man in a dress suit is riding a bike down the paved road.	a man is using a large pole to remove letters from a sign.	0.4	0.512820512820513	0.492636333832817	0.970236515808189	3.23538052531416
+0.4	5	images	0 0 0 2 0	a man and woman with their hands on their chins are standing next to a christmas tree.	the man with a white beard and blue cap is standing in the doorway of a workshop.	0.8	0.526946107784431	1.6838877902102	1.28434170978614	3.08625313583464
+0	5	images	0 0 0 0 0	a man in a wet suit is throwing a baby wearing a wet suit up into the air.	a man in a white print shirt and a woman in a black dress dancing.	0	0.542857142857143	-0.698615122544562	0.224013776896302	4.129486402417
+0	5	images	0 0 0 0 0	a man in a grey suit kneels in front of a woman in a white dress.	a woman in red with a beer followed by a man in white.	0	0.621848739495798	-0.698615122544562	1.79830190710787	5.4684815170926
+0	5	images	0 0 0 0 0	a man blowing a large bubble.	a man walking a large black horse.	0	0.73015873015873	-0.698615122544562	3.95690028895825	10.2424923111177
+0	5	images	0 0 0 0 0	two dogs run through the snow, one with a tennis ball.	the boy is doing a stunt, through the air, on his bicycle.	0	0.607142857142857	-0.698615122544562	1.50521635095146	5.13349456786013
+0	5	images	0 0 0 0 0	the man is wearing a black shirt and hat and smiling.	a man is lifting a little girl above his head.	0	0.525252525252525	-0.698615122544562	0.126843044730474	4.07644170342206
+0	5	images	0 0 0 0 0	two kids splashing in the water.	two dogs play together on the bed.	0	0.606060606060606	-0.698615122544562	1.48364728404818	5.11072707482068
+0	5	images	0 0 0 0 0	the black dog is running through the snow.	a race car driver is driving his car through the mud.	0	0.568421052631579	-0.698615122544562	0.733497841432858	4.45400139421999
+0	5	images	0 0 0 0 0	a boy in red jumping into a sandbox.	a dog swimming in a pond	0	0.566666666666667	-0.698615122544562	0.698533248768585	4.42899305750588
+0	5	images	0 0 0 0 0	four kids holding hands jump into a swimming pool.	four dogs playing in the snow.	0	0.525	-0.698615122544562	0.131875827007908	4.07912623369854
+0	5	images	0 0 0 0 0	a girl swings her long, wet hair in a lake.	a person riding a dirt bike.	0	0.507042253521127	-0.698615122544562	0.489770442765101	4.28844051493996
+0	5	images	0 0 0 0 0	a grey hound is active in a grassy field.	a bunch of bikes racing on a track.	0	0.5	-0.698615122544562	0.630121272473804	4.38130823777187
+0	5	images	0 0 0 0 0	an older man is standing outside in front of a truck.	a woman dressed in green is roller skating outside at an event.	0	0.53448275862069	-0.698615122544562	0.0571138247205343	4.03993440712568
+0	5	images	0 0 0 0 0	a woman is attempting to ride a small wave.	a man and woman sitting back to back outside in the sun.	0	0.505050505050505	-0.698615122544562	0.529465626925138	4.31404860001769
+0	5	images	0 0 0 0 0	man is carrying a tool box down the sidewalk.	a woman is riding a blue bicycle in a park.	0	0.545454545454545	-0.698615122544562	0.275779537464188	4.15881485137555
+0	5	images	0 0 0 0 0	a black dog is running through some water.	a man in a football uniform is running with a football during a game.	0	0.504504504504504	-0.698615122544562	0.540347318335806	4.32115779475109
+0	5	images	0 0 0 0 0	a boy wearing a red shirt runs across the grass with a furry dog.	a sports fan is wearing face paint in the stands.	0	0.508771929824561	-0.698615122544562	0.455298309152437	4.26661054786992
+0	5	images	0 0 0 0 0	a person is squeezing through an opening in the rock face.	a medium sized brown dog is running through an open white wooded area.	0	0.625	-0.698615122544562	1.86110595485568	5.54687692848896
+0	5	images	0 0 0 0 0	a blue and white soccer team playing against each other.	a topless woman with her face painted is covered in mud.	0	0.535714285714286	-0.698615122544562	0.0816579353346184	4.05263976731442
+0	5	images	0 0 0 0 0	a skier is jumping in the air over a snowfield near a mountain range.	a woman is sitting near a flower bed overlooking a tunnel.	0	0.503937007874016	-0.698615122544562	0.551657422794136	4.32858798796696
+0	5	images	0 0 0 0 0	two soccer players battle for the ball during an intense match.	two little orange and white dogs are in the snow.	0	0.5	-0.698615122544562	0.630121272473804	4.38130823777187
+0.4	5	images	2 0 0 0 0	two skinny young boys playing with sand in the water.	two dogs are shaking water off.	0.8	0.5	1.6838877902102	1.82137272885118	3.67167906911425
+0.4	5	images	0 0 0 2 0	a dog standing in the water.	a girl playing on a parachute.	0.8	0.551724137931034	1.6838877902102	0.790520083059674	2.67042104245891
+0	5	images	0 0 0 0 0	man rowing a boat.	a man doing a trick on skateboard	0	0.549019607843137	-0.698615122544562	0.346830581380895	4.20032576957113
+0	5	images	0 0 0 0 0	a family is playing on the beach with their dog.	a naked little girl being thrown into the air.	0	0.51063829787234	-0.698615122544562	0.418101933977679	4.24347365106906
+0	5	images	0 0 0 0 0	two men on the side of a barge	a man is lying the grass with long hair and beard.	0	0.5	-0.698615122544562	0.630121272473804	4.38130823777187
+0.4	5	images	0 2 0 0 0	the girl with the blue bucket splashes beneath the pier.	the girl in the ski jacket is walking near the buildings.	0.8	0.601769911504425	1.6838877902102	0.206883066850695	2.29463175296147
+0	5	images	0 0 0 0 0	a woman holding a newspaper.	a man rollerblading on a metal bar.	0	0.603174603174603	-0.698615122544562	1.42612977230608	5.05120061016168
+0.4	5	images	2 0 0 0 0	three people stand in an outdoor glass structure.	a girl stands high on an obstacle course platform.	0.8	0.505050505050505	1.6838877902102	1.72071708330252	3.54965893696547
+0.2	5	images	0 0 1 0 0	a little girl with her hands in the air is sitting on a man's back while he is laying on a blanket.	a kid runs in the opposite direction of others who were playing a game.	0.4	0.505882352941176	0.492636333832817	1.10851277819993	3.35165957354067
+0	5	images	0 0 0 0 0	a dog with a stick follows another dog through the water.	a four wheel drive car is driving through the mud.	0	0.523364485981308	-0.698615122544562	0.164471323440257	4.09667747728394
+0.4	5	images	2 0 0 0 0	this over the top photo shows two men taking a break.	a person with swim cap and goggles taking a breath.	0.8	0.538461538461538	1.6838877902102	1.05484127428827	2.88020659227468
+0	5	images	0 0 0 0 0	a brown and white dog is walking next to a man on a skateboard.	a blond child is laying on a branch of a tree in a green field.	0	0.571428571428571	-0.698615122544562	0.793437143143041	4.49790324163213
+0	5	images	0 0 0 0 0	a young pitcher is throwing the baseball.	a brown dog is walking on the grass beside a fence.	0	0.5	-0.698615122544562	0.630121272473804	4.38130823777187
+0	5	images	0 0 0 0 0	a climber is standing on the rock face next to the pink rope.	the children are running in the snow with fences in the background.	0	0.515625	-0.698615122544562	0.318717869057619	4.18372465170432
+0.2	5	images	0 1 0 0 0	two tan and white dogs and one tan dog racing down the beach near the water.	lady in a pink tinkerbell jacket stands next to the railing and looks out at the water.	0.4	0.52760736196319	0.492636333832817	0.675537306282977	3.01282959370408
+0	5	images	0 0 0 0 0	a man in red swim trunks playing volleyball.	a man and woman sitting on a motorcycle.	0	0.5	-0.698615122544562	0.630121272473804	4.38130823777187
+0.4	5	images	0 0 0 2 0	a man and a woman are standing in front of a building	two girls are sitting on an atv on the sand in front of a bridge.	0.8	0.627118644067797	1.6838877902102	0.712078688772017	2.61331451752082
+0	5	images	0 0 0 0 0	a boy skateboards down the metal handrail at night.	a brown dog runs on the sand, holding a stick.	0	0.536082474226804	-0.698615122544562	0.0889958653120248	4.05646865222184
+0	5	images	0 0 0 0 0	many football players sitting on the ground.	a dog rolls on the ground.	0	0.628571428571429	-0.698615122544562	1.93228387563652	5.638752549734
+0	5	images	0 0 0 0 0	a baby in a red hat sitting in a stroller is holding a doll.	a man in a gray shirt sitting in a field of flowers.	0	0.607142857142857	-0.698615122544562	1.50521635095146	5.13349456786013
+0	5	images	0 0 0 0 0	a girl in a pink shirt is sprawling her limbs out in midair.	a man dressed in a santa suit is climbing up a large concrete building.	0	0.50381679389313	-0.698615122544562	0.554053265532447	4.33016734147995
+0	5	images	0 0 0 0 0	a group of seven people are rafting in the rapids in a green boat.	a group of people are standing and sitting around on the ground at night.	0	0.633093525179856	-0.698615122544562	2.02240843720075	5.7598751473116
+0.4	5	images	0 0 0 0 2	a yellow dog is playing in a grassy area near flowers.	a girl is playing on a swing.	0.8	0.530120481927711	1.6838877902102	1.22107701142239	3.02707354831029
+0	5	images	0 0 0 0 0	a brown dog digging a hole in front of a plant	a group of people walking on the side of a railroad track.	0	0.5	-0.698615122544562	0.630121272473804	4.38130823777187
+0	5	images	0 0 0 0 0	the couple is sitting near the water in lawn chairs.	the boy hops from one picnic table to the other in the park.	0	0.5	-0.698615122544562	0.630121272473804	4.38130823777187
+0	5	images	0 0 0 0 0	the woman is holding the harness that the brown and white dog is wearing.	a man and woman are looking at artwork that is on easels and clipped to a fencing wall.	0	0.525	-0.698615122544562	0.131875827007908	4.07912623369854
+0	5	images	0 0 0 0 0	a blond haired lady in white poses for the camera.	a black and white dog runs with its mouth open.	0	0.556701030927835	-0.698615122544562	0.499919944046785	4.29493985770462
+0	5	images	0 0 0 0 0	a group of people are firing up a hot air balloon.	a large group of people riding brown and white horses.	0	0.615384615384615	-0.698615122544562	1.66947309121495	5.3151727518091
+0	5	images	0 0 0 0 0	two dogs are playing around in the dirt.	a dancer posing for the camera in a red and white dress.	0	0.5	-0.698615122544562	0.630121272473804	4.38130823777187
+0.4	5	images	0 1 0 1 0	a man in a red jacket holds his bike for the picture.	a woman in a red jacket is video taping a natural landscape.	0.49	0.654867256637168	0.760363989191394	1.2651034819995	3.34990410574552
+0	5	images	0 0 0 0 0	a brown and white dog is running across a brown field.	a person hanging from a rocky cliff.	0	0.511111111111111	-0.698615122544562	0.40867885226674	4.23768029867333
+0.2	5	images	0 0 0 1 0	a girl runs along a river bank with two black dogs.	a little boy is petting a tiger that is laying down.	0.4	0.504854368932039	0.492636333832817	1.12900031222251	3.36958198683717
+0.4	5	images	0 0 2 0 0	a woman stands with her arms out at her sides while another takes a picture.	a man stands in a crowd holding a white object.	0.8	0.520325203252033	1.6838877902102	1.41629513091143	3.21587771046659
+0	5	images	0 0 0 0 0	a young boy climbing on a rock wall	five greyhounds are racing on a sand track.	0	0.512820512820513	-0.698615122544562	0.374610787619499	4.21696136931459
+0	5	images	0 0 0 0 0	two people are racing a sidecar motorcycle in the mud.	the dog carrying a long stick in its mouth.	0	0.515463917525773	-0.698615122544562	0.321928213422735	4.18560864319149
+0.2	5	images	0 0 0 0 1	a man and woman walking past a record shop	a man and woman kissing in front of a crowd of people.	0.4	0.645833333333333	0.492636333832817	1.68068476455523	3.92817362914674
+0	5	images	0 0 0 0 0	two racing dogs run in the mud.	the man is going into the water.	0	0.53968253968254	-0.698615122544562	0.160744513979998	4.09465624085336
+0	5	images	0 0 0 0 0	a woman in a black and orange jacket throws a stick for a brown and black dog to fetch.	the man in a blue jacket is standing in a crowd.	0	0.518518518518518	-0.698615122544562	0.261050572128697	4.15039258807502
+0.4	5	images	0 0 0 2 0	a person is riding their bike on a trail next to the woods.	a small child in a yellow shirt is holding their arms out to the sides.	0.8	0.523076923076923	1.6838877902102	1.36145385611343	3.16096392079306
+0.4	5	images	0 0 2 0 0	a man and a dog are playing tug of war.	a man dances on a colorful wall.	0.8	0.563380281690141	1.6838877902102	0.558215261472855	2.50760041843336
+0	5	images	0 0 0 0 0	a man in a blue cap is sitting on a stool under a tree.	a dog standing on a beach with a ball nearby.	0	0.5	-0.698615122544562	0.630121272473804	4.38130823777187
+0	5	images	0 0 0 0 0	children play fight with swords.	a child and parent pet a horse.	0	0.53968253968254	-0.698615122544562	0.160744513979998	4.09465624085336
+0.2	5	images	0 0 1 0 0	a skier speeds through the snow.	a brown dog carrying a frisbee runs through the snow.	0.4	0.611764705882353	0.492636333832817	1.00170322612622	3.26113937488477
+0	5	images	0 0 0 0 0	a red haired women in black is posing for a man while resting on a tree.	a man in a black shirt is holding a child wearing sunglasses.	0	0.556390977443609	-0.698615122544562	0.493740634592126	4.29097894338128
+0	5	images	0 0 0 0 0	man in red shorts and white shirt kicking a soccer ball.	a black dog stands in the surf holding a red rubber ball.	0	0.566371681415929	-0.698615122544562	0.692654246462203	4.42483088520786
+0	5	images	0 0 0 0 0	a group of people in boats racing towards the shore.	a classroom of students watching a presentation.	0	0.5	-0.698615122544562	0.630121272473804	4.38130823777187
+0.2	5	images	0 1 0 0 0	some children are raising their hands and clapping.	three children are playing soccer in the sand.	0.4	0.618556701030928	0.492636333832817	1.13706645206237	3.37668873815093
+0.4	5	images	0 2 0 0 0	a little girl and a little boy hold hands on a shiny slide.	a little girl in a paisley dress runs across a sandy playground.	0.8	0.634146341463415	1.6838877902102	0.852139417551186	2.71687831121751
+0.4	5	images	0 0 0 2 0	a skier going down the snowy hill.	a brown dog is laying in the snow.	0.8	0.588235294117647	1.6838877902102	0.0628593919127262	2.21757962408582
+0.2	5	images	1 0 0 0 0	two birds interacting in the grass	two dogs play with each other outdoors.	0.4	0.520547945205479	0.492636333832817	0.816230196169977	3.1149936900359
+0	5	images	0 0 0 0 0	the girl is wearing a blue striped shirt and rollerblades.	a man wearing a black and white shirt jumping on a dogs back	0	0.508474576271186	-0.698615122544562	0.461224511298925	4.2703366677692
+0.2	5	images	1 0 0 0 0	a man in a suit dances with a young girl in front of an audience.	a women dangles from a blue fabric connected to a tree.	0.4	0.5	0.492636333832817	1.22574700066249	3.45674091810366
+0	5	images	0 0 0 0 0	a guy and two girls are smiling at the camera.	three dogs, one white and two brown, are running together on a field of grass.	0	0.5	-0.698615122544562	0.630121272473804	4.38130823777187
+0.4	5	images	0 0 0 0 2	a young boy is riding a bike.	a young girl laying on a blue inflatable toy	0.8	0.520547945205479	1.6838877902102	1.41185592435867	3.21137640956304
+0	5	images	0 0 0 0 0	a little girl walks on a boardwalk with blue domes in the background.	a man going over a jump on his bike with a river in the background	0	0.607407407407407	-0.698615122544562	1.51048878952782	5.13909740094384
+0	5	images	0 0 0 0 0	a black dog retrieves in the snow.	a skateboarder jumping in the street.	0	0.507042253521127	-0.698615122544562	0.489770442765101	4.28844051493996
+0.4	5	images	0 2 0 0 0	the girl is playing along with the images on the big screen.	three girls holding umbrellas with their backs to the camera.	0.8	0.628099173553719	1.6838877902102	0.731620462792251	2.62733243059312
+0.4	5	images	0 0 2 0 0	a woman in jeans plays a video game in front of a large screen.	a man and a woman are posing for a photograph in front of a yellow flower-bed.	0.8	0.553191489361702	1.6838877902102	0.761276036370553	2.64886865109125
+0	5	images	0 0 0 0 0	a boy in a red sled is riding down the hill.	a multicolour dog in a red collar crouching on the grass.	0	0.554455445544555	-0.698615122544562	0.455165836461812	4.26652738130761
+0	5	images	0 0 0 0 0	a man stands astride a bike on a rocky trail by a lake.	a woman is wearing a white headband, purple tank top and black gloves.	0	0.512	-0.698615122544562	0.390963458650174	4.22686241539569
+0	6	images	0 0 0 0 0	a woman and a dog standing in the grass.	a man carries a sign while standing in the rain.	0	0.704545454545455	-0.698615122544562	3.44643237224716	8.61348409791748
+0.4	5	images	0 0 0 2 0	a man is scalling a sheer rock face with a rope support.	a young man is doing a ski jump with a purple board.	0.8	0.611111111111111	1.6838877902102	0.393051473219467	2.4028174460276
+0	5	images	0 0 0 0 0	child sliding in the snow.	man sleeping on the street.	0	0.566037735849057	-0.698615122544562	0.685998772153091	4.42013373373254
+0	5	images	0 0 0 0 0	a black dog lays in the sand.	kids play in the water	0	0.588235294117647	-0.698615122544562	1.12839206446465	4.76899964881283
+0.4	5	images	0 0 2 0 0	a man in a gray suit locking up a bicycle	a man and a woman standing on a city street.	0.8	0.564705882352941	1.6838877902102	0.531796281762982	2.49025296610179
+0.4	5	images	0 2 0 0 0	a boy in black waves his arms while other people are behind him on a field.	a man in a black shirt is roller blading past a bench in the city.	0.8	0.524822695035461	1.6838877902102	1.32666093902689	3.12689764340307
+0	5	images	0 0 0 0 0	a lady with a yellow outfit is in the air above the bed in a yellow room.	a dog with a red leash still attached chases over the grass toward a tennis ball.	0	0.506493506493506	-0.698615122544562	0.500706871054092	4.29544515402274
+0.4	5	images	0 0 2 0 0	a rugby player in dark gear is carrying a light colored rugby ball with arm outstretched.	a brown dog splashes in the water while carrying a ball in it's mouth.	0.8	0.553459119496855	1.6838877902102	0.755942216534173	2.64497157977007
+0.2	5	images	0 0 0 0 1	a dog runs through a field chasing a ball.	a child runs through the grass.	0.4	0.602739726027397	0.492636333832817	0.821837021800092	3.11921588307024
+0	5	images	0 0 0 0 0	a black dog is walking on the grass with a stick in it's mouth.	a boy holds a net with a snake in it close to the ground.	0	0.55	-0.698615122544562	0.366369618457989	4.21200218710117
+0.4	5	images	0 0 2 0 0	a woman in an red tracksuit squeezing lemons in a press.	a young woman in a pink hoodie takes a picture.	0.8	0.543689320388349	1.6838877902102	0.950652532891365	2.79418972396786
+0	5	images	0 0 0 0 0	a tent and a campsite in a sunlit forest.	a white dog on a beach is carrying a stick in its mouth.	0	0.515463917525773	-0.698615122544562	0.321928213422735	4.18560864319149
+0	5	images	0 0 0 0 0	a blonde dog is catching a ball in its mouth in the snow.	a little blonde girl is sitting on a green chair.	0	0.509433962264151	-0.698615122544562	0.442104123241391	4.25835420686138
+0.4	5	images	0 0 0 0 2	a young boy is punching a yellow ball.	a small dog jumps over a yellow beam.	0.8	0.533333333333333	1.6838877902102	1.15704546822999	2.96905272480605
+0	5	images	0 0 0 0 0	the large brown dog is jumping through the tall grass.	the girl wearing a blue shirt is running through a science center.	0	0.55	-0.698615122544562	0.366369618457989	4.21200218710117
+0	5	images	0 0 0 0 0	a brown dog laying on a blue cover.	a person is diving into clear blue water.	0	0.605263157894737	-0.698615122544562	1.4677542873826	5.09410744702311
+0	5	images	0 0 0 0 0	two girls on the shore watch people in a boat fish.	two males, one in red and one in white playing a basketball game.	0	0.517241379310345	-0.698615122544562	0.286503723876634	4.1649862558139
+0.2	5	images	0 0 0 0 1	two girls are jumping high in the air.	two dogs nussle one another in the grass near a lake.	0.4	0.505494505494505	0.492636333832817	1.11624250715351	3.35839995190793
+0	5	images	0 0 0 0 0	a little boy and a little girl playing together outside.	a woman wearing a white shirt stands on the street.	0	0.504672897196262	-0.698615122544562	0.536991282667096	4.3189611128306
+0.4	5	images	0 0 0 0 2	a man and a woman watch two dogs.	a man in a maroon bathing suit swings on a rope on a lake.	0.8	0.527472527472527	1.6838877902102	1.27385026130624	3.07630920445376
+0	5	images	0 0 0 0 0	a man in jeans is playing with a ball while a woman in jeans stands nearby looking away.	a man is tying a red arm band around another mans arm in the street.	0	0.5	-0.698615122544562	0.630121272473804	4.38130823777187
+0.4	5	images	2 0 0 0 0	two people are walking by the ocean.	two men in fleeces and hats looking at the camera.	0.8	0.604651162790698	1.6838877902102	0.264305880075823	2.32693365357272
+0.166666666666667	6	images	0 0 0 1 0	two dogs share a toy in a field of vegetation.	two snowboarders are in the air over the snow.	0.4	0.5	0.492636333832817	1.12647604596438	3.36736383929957
+0.4	5	images	2 0 0 0 0	a woman in a blue bathing suit is jumping off a dock into a lake.	a boy in a blue shirt and blue jeans runs across a playground	0.8	0.523809523809524	1.6838877902102	1.3468532569789	3.14659605195455
+0.6	5	images	0 2 0 0 1	a man wearing a grey jacket standing on the side of a street.	a boy wearing a blue life jacket is holding onto the side of a green boat.	0.8	0.740740740740741	-0.526314024000105	2.97959371822681	7.12887586697045
+1.4	5	images	2 0 2 2 1	a man is wind sailing in the ocean.	a dog is running through the ocean.	0.8	0.628571428571429	-0.526314024000104	1.55934951663026	4.87344448709053
+0.6	5	images	1 0 1 0 1	a brown dog jumping into the air to catch a ball.	three young woman jumping into the air to catch a ball.	0.49	0.826923076923077	-1.81714997109021	3.90838173676581	14.2124992122546
+1.4	5	images	1 2 1 2 1	the white and brown dog is shaking its ears.	the brown dog is running across the sand.	0.49	0.611764705882353	-1.81714997109021	1.7404757584566	9.54177223462196
+1.2	5	images	0 1 2 2 1	dog is jumping down a ramp.	a girls is jumping in the sand.	0.75	0.620689655172414	-0.741390274070187	0.811768158276988	4.59948005402545
+1.2	5	images	2 0 2 0 2	a group of people are camping out on some rocks.	a group of people are standing beside a fire truck.	0.98	0.707070707070707	0.222107361969065	0.119161421795995	2.86222080447729
+1.2	5	images	0 0 2 2 2	two people are walking through some water.	two girls are walking by a tree in front of a brick building.	0.98	0.524271844660194	0.222107361969065	1.85086400023756	4.3237873242006
+1	5	images	0 2 3 0 0	a japanese swordsman jumps into the air.	a woman is getting her dog to jump in the air.	1.26	0.604651162790698	1.40893248889713	0.152091853294453	2.32341617640752
+1.2	5	images	0 2 2 1 1	a young boy in a brown jacket playing with snow.	two dogs are playing in the snow.	0.75	0.617283950617284	-0.741390274070187	0.84847147505406	4.62727332351654
+1.4	5	images	2 0 2 2 1	three dogs racing on a dirt track	cars racing on a dirt track	0.8	0.833333333333333	-0.526314024000104	0.647371862954038	4.07489474124584
+1.2	5	images	1 0 2 1 2	a little girl with a ribbon in her hair is picking her nose.	a little girl in a purple shirt and helmet is riding on a scooter.	0.75	0.603174603174603	-0.741390274070187	1.0005280731305	4.74800811668613
+0.8	5	images	0 0 2 2 0	woman in a black dress walking on the street.	a woman watches a dog jump down the stairs.	0.98	0.568181818181818	0.222107361969065	0.287400924555761	2.95536761007414
+0.8	5	images	0 2 1 0 1	a snowboarder rides a snowboard down a railing beside a flight of steps.	a boy is grinding a skateboard down a concrete wall.	0.75	0.516129032258065	-0.741390274070187	0.273572542156404	4.24543453017747
+0.8	5	images	0 0 0 2 2	the child in the red coat laid in the red mat.	the toddler is ready to climb the red piece of equipment.	0.98	0.543689320388349	0.222107361969065	0.0234449968986349	2.81262085730113
+0.6	5	images	1 0 2 0 0	a man with a grey beard rides his bike on the beach of the ocean.	a spotted dog stands on his hind legs to catch a ball on the beach.	0.8	0.515151515151515	-0.526314024000105	0.548416064891043	4.00817004999155
+0.8	5	images	0 0 2 2 0	a boy and a girl playing on the beach.	a dog playing in the waves with a ball.	0.98	0.571428571428571	0.222107361969065	0.322391221272213	2.97574415326294
+1	5	images	2 1 0 1 1	little white dog wearing a leash jumping after a red ball.	a black and white dog returns a stick in the snow.	0.63	0.5	-1.22373740762618	1.2799186265271	6.29627444012862
+1.2	5	images	1 1 2 2 0	a woman sits alone against a brick wall	a woman is walking with a red bag.	0.75	0.63013698630137	-0.741390274070187	0.709954163107716	4.52499943462054
+0.6	5	images	3 0 0 0 0	a woman with a young girl pose with bear statues in front of a store.	a man in a jersey stands in front of a large crowd.	1.2	0.6	1.13873261607459	1.46282915241435	3.39824265672268
+1.4	5	images	0 2 1 2 2	a white dog running through the snow	the black and white dog runs through the grass.	0.8	0.698795180722892	-0.526314024000104	0.802547339938977	4.18640761245711
+1.4	5	images	0 1 4 2 0	a brown furry animal stands behind some plants.	a dog pants while standing in the woods.	1.5	0.505747126436782	2.37362675600912	2.88302841954048	5.32023398549715
+0.8	5	images	2 2 0 0 0	a young woman leans over her plate at a meal.	a young woman, topless except for paint or mud.	0.98	0.630434782608696	0.222107361969065	0.958301831162531	3.41553218208332
+0.8	5	images	1 0 1 1 1	a white dog runs along a rocky shoreline.	a dog jumps over a hurdle.	0.4	0.537313432835821	-2.1913606640748	0.0452680158678291	10.9702713139315
+0.6	5	images	1 0 2 0 0	three dolphins are jumping out of a pool in front of a crowd of people.	a man is giving a presentation in front of a lot of people.	0.8	0.6	-0.526314024000105	1.46282915241435	4.77069965639352
+1.2	5	images	0 2 0 1 3	a dog with floppy ears walking towards the camera in the woods.	a child in front of his own reflection turning towards the camera and smiling.	1.17	0.567375886524823	0.997996126325177	1.38633125016486	3.36865425358963
+1.4	5	images	2 1 0 2 2	a dog is running through a pond	a pale dog is running along a dirt path.	0.8	0.647887323943662	-0.526314024000104	1.35118189222139	4.65787556856254
+0.8	5	images	0 0 2 0 2	a girl is running on a desert path.	a young girl is talking on a cell phone.	0.98	0.64	0.222107361969065	1.0613862879237	3.50093970260879
+1	5	images	1 0 2 1 1	two black and white dogs are playing together outside.	two children and a black dog are playing out in the snow.	0.63	0.612612612612613	-1.22373740762618	0.0662912178933715	5.43357176527554
+0.6	5	images	1 0 0 2 0	a man wearing an orange coat speaks to another as they walk in the snow.	a man and woman dressedin old fashion clothing sit outside at a table.	0.8	0.507042253521127	-0.526314024000105	0.461022459946664	3.95192522041796
+0.8	5	images	1 0 1 0 2	a dog is running toward the camera.	a brown and white dog running on grass.	0.75	0.513513513513513	-0.741390274070187	0.301760017453703	4.2617085828132
+1.2	5	images	1 0 2 2 1	a girl bounces in a bounce house.	a girl dances like a man in costume	0.75	0.617647058823529	-0.741390274070187	0.844558253780033	4.62428572079267
+1.33333333333333	6	images	1 2 0 1 2	a man sits by a dock looking at the water.	a man jumps off a rock into the water	0.75	0.708860759493671	-0.741390274070187	0.416562709546962	4.33041109179662
+0.6	5	images	0 0 0 3 0	the clowns are striking a pose for the camera.	a child in orange is on a boogie board in the waves.	1.2	0.530612244897959	1.13873261607459	0.715036525445581	2.75000129009346
+0.6	5	images	2 0 0 1 0	the man is sitting with a little girl in the park.	the man is playing with the shaggy little dog.	0.8	0.645833333333333	-0.526314024000105	1.95677550772827	5.35284555563912
+1.4	5	images	1 1 2 0 3	three dogs running in the dirt.	the yellow dog is running on the dirt road.	1.02	0.783783783783784	0.388645350241991	0.113375803155199	2.73630012807663
+1.4	5	images	0 2 3 0 2	a group of young ballerinas are in a dance studio.	a group of young ladies in bikinis.	1.2	0.635294117647059	1.13873261607459	1.48689901989972	3.42340256141824
+0.8	5	images	0 2 0 2 0	a skateboarder jumps off the stairs.	a dog jumps off the stairs.	0.98	0.793650793650794	0.222107361969065	2.7172826409761	5.69173259945909
+0.8	5	images	0 2 2 0 0	a crowd of people stand on a rural road, a field behind them, a forest in front.	a bunch of people standing next to a car with it's trunk open.	0.98	0.535211267605634	0.222107361969065	0.0679230744944167	2.83537419562125
+0.8	5	images	2 0 0 2 0	a man with a messenger bag in front of a gray tile wall.	man in red jacket standing in front of lighthouse.	0.98	0.528301886792453	0.222107361969065	0.142385550206708	2.87461758664959
+1.4	5	images	1 1 2 1 2	a skier wearing blue snow pants is flying through the air near a jump.	a skier stands on his hands in the snow in front of a movie camera.	0.49	0.510948905109489	-1.81714997109021	2.82696879154339	11.2645457442393
+0.6	5	images	1 0 0 0 2	two girls are in pajama pants and appear to be dancing.	two girls with baseball caps are eating a snack outside.	0.8	0.522522522522523	-0.526314024000105	0.627853495274342	4.06147107775185
+0.6	5	images	0 0 1 0 2	a dog and cat laying down together.	two grey dogs are carrying a stick in the water.	0.8	0.530120481927711	-0.526314024000105	0.70973679031469	4.11867458629049
+1.4	5	images	0 2 2 2 1	a man riding a motorcycle while wearing a black uniform.	a white motorcycle is being ridden around a race track.	0.8	0.540540540540541	-0.526314024000104	2.50805939949365	6.19711798056982
+0.8	5	images	2 0 2 0 0	three dogs playing in the snow.	the boy is playing in the sand.	0.98	0.806451612903226	0.222107361969065	2.85523721584383	5.96958929123137
+1.4	5	images	2 2 2 1 0	a group of men walk and hang onto ropes.	a group of men play a college football game.	0.8	0.619047619047619	-0.526314024000104	1.66198772033185	4.98828072334477
+0.8	5	images	2 0 0 2 0	a man is skating down a set of stairs.	the man is skiing down a snowy hill.	0.98	0.702702702702703	0.222107361969065	1.73713402905096	4.18432227556976
+1.2	5	images	0 0 2 2 2	a woman and a man are amused by headphones.	a man and a woman resting after exercise.	0.98	0.619047619047619	0.222107361969065	0.829464400294505	3.31479462782856
+1.4	5	images	3 2 2 0 0	two children splashing in the water.	two dolphins jumping into the water.	1.2	0.722222222222222	1.13873261607459	0.550073846897905	2.63680389888695
+0.5	6	images	1 0 2 0 0	a woman is sitting on a sidewalk with a cell phone at her ear.	a woman is riding her bicycle.	0.8	0.5	-0.526314024000105	0.80138967356627	4.18554324446326
+1	5	images	1 0 2 1 1	three dogs running through water.	a black dog running through water.	0.63	0.805970149253731	-1.22373740762618	2.01752515657266	7.14207637075806
+0.6	5	images	0 0 3 0 0	a person holding a net is standing in the water.	a black woman and two black children are sitting in a thatched tent.	1.2	0.5	1.13873261607459	0.385128013547597	2.53257871236743
+1.4	5	images	2 0 2 0 3	two girls holding up a scary movie flyer	two girls holding sacks are standing in a field.	1.2	0.636363636363636	1.13873261607459	1.47537280451077	3.41131658025354
+1.2	5	images	2 2 0 1 1	two dogs playing in the snow.	two kids playing with a dog.	0.75	0.736842105263158	-0.741390274070187	0.440008119172592	4.34493325496269
+0.6	5	images	0 0 2 0 1	a man on skis on a snow-covered hill with mountains in the background	a dog enjoys a romp in the water with mountains and sand in the background.	0.8	0.638888888888889	-0.526314024000105	1.88193515086252	5.25514120411041
+1.4	5	images	2 3 0 0 2	a woman with two men in hats socializing outside.	a young woman with a knit cap stands against the wall of a domino's pizza.	1.2	0.504065040650406	1.13873261607459	2.90115627721696	5.58580451112921
+0.5	6	images	0 2 1 0 0	young boys running along the pavement.	a black dog running along the edge of the ocean.	0.8	0.604651162790698	-0.526314024000105	1.92921644679891	5.31644113944052
+1.2	5	images	2 1 2 0 1	a black dog swimming through a river.	a black dog digging through the snow.	0.75	0.72972972972973	-0.741390274070187	0.363357967048357	4.29808062557248
+1	5	images	1 0 2 2 0	the dog is in the air above the grass.	the dog is laying on a bed with a blue sheet.	0.89	0.626506024096386	-0.133249831234851	0.0834382358946936	3.18513699325305
+1.4	5	images	2 0 1 2 2	a dog swims through the water.	a dog wearing a cape is running through the snow.	0.8	0.607594936708861	-0.526314024000104	1.78541340832744	5.13441136703049
+1	5	images	2 0 1 0 2	a young boy is standing on a gray tiled area.	a young boy is practicing his karate in a gym.	0.89	0.637362637362637	-0.133249831234851	0.200440080707447	3.24794953074089
+0.6	5	images	0 0 1 0 2	a bird lands in the water.	a boat floats in the water.	0.8	0.792452830188679	-0.526314024000105	3.53689549513903	8.55442899613893
+1.2	5	images	1 1 1 1 2	a child is jumping into a swimming pool.	a dog jumping into a swimming pool.	0.4	0.88	-2.1913606640748	1.9828223811292	12.6424142113403
+1.4	5	images	2 0 2 0 3	a woman in a pink bikini is laying on a deck lounge chair that is covered with a pink towel.	a woman in a white shirt and black skirt on a tennis court.	1.2	0.503311258278146	1.13873261607459	2.90927979842739	5.60316550976263
+1	5	images	0 1 1 2 1	three dogs in the snow by a fence.	two dogs drink water in a lake.	0.63	0.584615384615385	-1.22373740762618	0.368017662870617	5.60189715953985
+1.4	5	images	1 0 2 3 1	a black dog is chasing after a red frisbee.	a black poodle is running in the snow.	1.02	0.54320987654321	0.388645350241991	2.4792919349927	5.13236495274751
+1	5	images	0 2 1 2 0	a dog in in a car.	a dog is biting a mop.	0.89	0.7	-0.133249831234851	0.8754836512064	3.6917402944551
+0.6	5	images	0 3 0 0 0	a dog is on the beach near a ball.	a guy is going up for a lay-up on a basketball court.	1.2	0.505747126436782	1.13873261607459	0.447064860608905	2.57071080553556
+0.6	5	images	0 0 2 1 0	a young girl holds up a peace sign.	a little girl holds onto a pole on a city street.	0.8	0.571428571428571	-0.526314024000105	1.15491454130956	4.47418439926065
+0.8	5	images	0 4 0 0 0	a black and brown dog walks through the snow near a building.	an older man stands outside a old boarded up building.	1.6	0.539130434782609	2.80377925614928	0.025686165194066	2.07350658872925
+1.2	5	images	0 1 1 2 2	the black and white dog has a stick in his paws.	a black dog and a white dog are standing on snow.	0.75	0.65979381443299	-0.741390274070187	0.390342188581495	4.31437040285909
+1.4	5	images	2 2 0 2 1	the white dog runs across the snow.	a white bear walks along snow-covered ground and casts a shadow on the snow.	0.8	0.504504504504504	-0.526314024000104	2.89642017025644	6.94817234003792
+0.6	5	images	0 0 2 1 0	a man is spraying a fluid from a long hose at the beach.	a guy is sitting on his bike with one wheel in the air.	0.8	0.522522522522523	-0.526314024000105	0.627853495274342	4.06147107775185
+0.8	5	images	0 2 1 1 0	the brown dog is laying down on a blue sheet.	a brown dog and two black dogs in an overgrown grassy field.	0.75	0.514285714285714	-0.741390274070187	0.293438000937358	4.25687997764612
+1	5	images	2 0 1 2 0	a dog and a red ball in the air.	a dog digs a hole in a yard.	0.89	0.633333333333333	-0.133249831234851	0.157016225295234	3.2242075340601
+0.8	5	images	2 0 0 2 0	a group of people in boats racing towards the shore.	a group of people stand together and pose in front of a house.	0.98	0.614035087719298	0.222107361969065	0.781562132568823	3.27896424552743
+1	5	images	2 0 2 1 0	a lady dressed in a kimono is looking at the camera.	two girls dressed in black are sitting in a room making suggestive poses at the camera.	0.89	0.60431654676259	-0.133249831234851	0.155698014040201	3.22349483277038
+1.4	5	images	1 2 2 1 1	a dog running along the beach.	boy and girl running along the beach.	0.49	0.835820895522388	-1.81714997109021	0.674180348995499	8.55515889742224
+1	5	images	0 2 2 0 1	a man with long hair is looking through a camera.	a woman stands against a wall near a video camera.	0.89	0.525252525252525	-0.133249831234851	1.00777187428802	3.79767596603866
+1	5	images	0 1 1 2 1	two men in a running contest.	dogs in a race.	0.63	0.5	-1.22373740762618	1.2799186265271	6.29627444012862
+0.6	5	images	0 0 0 3 0	a man is hanging by a line off a cliff above water.	man sitting by himself on a pier with a bottle of water.	1.2	0.598130841121495	1.13873261607459	1.44268520589347	3.37741796346689
+1.4	5	images	1 0 2 2 2	a golden dog is running through the snow.	a pack of sled dogs pulling a sled through a town.	0.8	0.615384615384615	-0.526314024000104	1.70146395252477	5.03404165675529
+1.4	5	images	2 2 0 2 1	three dogs are playing in the water.	three dogs run in the snow.	0.8	0.73015873015873	-0.526314024000104	0.464542010479909	3.95414315713753
+0.8	5	images	1 1 1 0 1	the man is standing on the shore hitting a ball with a paddle.	two teenage girls are standing on beside the beach listening to ipods.	0.4	0.545454545454545	-2.1913606640748	0.0424688475405897	10.9688406917179
+1.4	5	images	0 0 2 2 3	group of little girls and a dog standing on the road.	a group of people white water rafting in a blue raft.	1.2	0.547169811320755	1.13873261607459	2.43661567279672	4.70168551682766
+0.6	5	images	0 2 0 1 0	kids playing ball in the park.	two dogs playing by the shore.	0.8	0.633333333333333	-0.526314024000105	1.82206286536993	5.17956787871722
+0.6	5	images	0 0 0 3 0	girl playing in a puddle with her bare feet.	a child is playing with two white and black geese.	1.2	0.531914893617021	1.13873261607459	0.729075185526346	2.76007267029776
+1.2	5	images	0 2 1 2 1	a brown dog is walking on the grass.	a dog chases another by a tree.	0.75	0.507462686567164	-0.741390274070187	2.03201648844006	5.86099837837742
+0.8	5	images	2 1 0 0 1	a young boy in red swim trunks is jumping into a pool.	a dog is being squirted with a hose as it jumps into a paddling pool.	0.75	0.601626016260163	-0.741390274070187	0.64782942813093	4.48138085758911
+1	5	images	0 0 1 2 2	the dog returns the play toy to its master.	three dogs race in the snow together.	0.89	0.6	-0.133249831234851	0.202217487660349	3.24893235277249
+1.2	5	images	0 2 2 2 0	a young boy jumps into a pool with outstretched arms.	a dog jumps into a backyard pool.	0.98	0.534883720930233	0.222107361969065	1.73649968882023	4.18356642272675
+1.4	5	images	0 2 2 2 1	a red and white race car racing on a dirt racetrack.	a person is riding a dirt bike in a race on a dirt track.	0.8	0.623853211009174	-0.526314024000104	1.61019780103288	4.92959933213767
+1.2	5	images	0 3 2 1 0	a man and a woman laughing.	a man and a woman kiss.	1.17	0.8	0.997996126325177	1.1206614700358	3.11986896896107
+0.6	5	images	0 0 0 1 2	a group of people are in the water.	a group of people ride in a race	0.8	0.805970149253731	-0.526314024000104	3.68257179664735	8.99732178896472
+0.6	5	images	0 0 2 0 1	a white dog with red ears is running in the snow.	a wet black dog with a red collar is in the river	0.8	0.63265306122449	-0.526314024000105	1.81473156510553	5.170468511482
+0.6	5	images	0 1 0 0 2	a group of people sitting around a desk.	a group of girls on a beach.	0.8	0.617647058823529	-0.526314024000105	1.65301170633201	4.97800114313219
+0.6	5	images	2 0 0 1 0	a man in a straw hat shades his phone while others walk on a busy sidewalk.	a man lies on a street with his headand shoulders under a parked car that is jacked up.	0.8	0.530864197530864	-0.526314024000105	0.717751821839804	4.1244007417781
+0.6	5	images	0 2 1 0 0	a child wearing blue and white shorts is jumping in the surf.	a girl wearing green twists something in her hands.	0.8	0.642857142857143	-0.526314024000105	1.92470106907152	5.31052418860457
+1	5	images	1 2 0 0 2	many people run in a race on a street.	a puppy running along a street.	0.89	0.695652173913043	-0.133249831234851	0.828627079951324	3.65586694614996
+1	5	images	2 3 0 0 0	a child in a red shirt is using a black wake board to splash over a beach wave.	a man in a rowboat is rowing across blue water.	1.26	0.507936507936508	1.40893248889713	1.1943867901091	3.06141605046726
+1.2	5	images	2 1 0 2 1	two girls in blue and teal dresses and large hats are standing next to a large tree trunk.	a woman, a little boy, and a tiny baby are standing in front of a cow statue.	0.75	0.514970059880239	-0.741390274070187	1.95110944074607	5.75148974123287
+0.6	5	images	2 0 0 0 1	a person is riding a skateboard in the air above a ramp.	a biker is riding along a track element located with a wooded area.	0.8	0.601626016260163	-0.526314024000105	1.48035274816828	4.78898682774261
+0.8	5	images	0 2 2 0 0	a group of people are wearing bunny ears.	a group of people ride in a race	0.98	0.712328767123288	0.222107361969065	1.84087423493965	4.31121686546454
+1	5	images	0 0 5 0 0	the smiling woman at the beach is buried in seaweed.	a girl in a cowboy hat with a sheep on a leash.	2	0.505050505050505	4.46882589622398	1.22548927607928	2.85695041925474
+0.8	5	images	0 0 0 3 1	a girl wearing green twists something in her hands.	a young boy wearing only green shorts poses awkwardly with a brick background.	1.17	0.527131782945736	0.997996126325177	0.154995772688694	2.44919731268669
+1.4	5	images	2 1 2 0 2	the black and white dog is running on the grass.	a black and white dog swims in blue water.	0.8	0.711111111111111	-0.526314024000104	0.669818417883099	4.09049508243624
+1.2	5	images	0 2 2 1 1	a man on a bike nest to a river.	a man on a bike does a very high jump.	0.75	0.714285714285714	-0.741390274070187	0.196917636721446	4.202320426607
+0.6	5	images	0 0 0 0 3	the black and white dog is swimming in the river.	a black man and his dog on the beach.	1.2	0.604651162790698	1.13873261607459	1.51295478678024	3.45098177792877
+1	5	images	0 0 2 2 1	a woman wearing large sunglasses holds newspapers in both hands.	a fat woman wearing faint blue top is blowing soap bubble.	0.89	0.508196721311475	-0.133249831234851	1.19158246760359	3.95700144771067
+0.6	5	images	0 0 0 3 0	a girl is jumping.	a boy is rock climbing.	1.2	0.536585365853659	1.13873261607459	0.779408918011042	2.79676896227541
+0.8	5	images	2 2 0 0 0	a woman is sitting in the water.	the woman is skating in the park.	0.98	0.8	0.222107361969065	2.7857081101105	5.82715440449325
+0.8	5	images	0 0 2 2 0	a man riding his bike on the beach by the ocean.	a man walking his cow down the side of the road.	0.98	0.666666666666667	0.222107361969065	1.34877325828816	3.76365804586462
+1.4	5	images	2 2 0 1 2	a little girl in a red shirt pulls a kite.	a girl in a red shirt takes a picture on a phone.	0.8	0.659340659340659	-0.526314024000104	1.22774916620972	4.54025774762471
+1	5	images	0 2 1 0 2	a man in swimming trunks is standing against some rocks.	a man in a gray shirt climbs a large rock wall.	0.89	0.524271844660194	-0.133249831234851	1.01834068020022	3.80644554630948
+1.2	5	images	2 1 0 3 0	two people holding hands and walking in a field.	two men walking past a mural of a car.	1.17	0.534883720930233	0.997996126325177	1.73649968882023	3.75135440583137
+1.2	5	images	0 2 2 1 1	three dogs play in a grassy field.	some kids play in a field.	0.75	0.7	-0.741390274070187	0.042960331169053	4.12056399087471
+0.8	5	images	0 0 0 0 4	three little girls are sitting on the grass.	two poodles are running through the snow.	1.6	0.517647058823529	2.80377925614928	0.257212752572088	2.19782307002264
+1.4	5	images	1 2 2 0 2	two little girls are playing on a trampoline.	two little boys are playing on a playground.	0.8	0.764044943820225	-0.526314024000104	0.0993498999311624	3.74361104814085
+1	5	images	1 0 2 2 0	a group of people are walking down the sidewalk of a big city.	a group of people are riding in the back of a truck.	0.89	0.736842105263158	-0.133249831234851	1.27253143920994	4.03194749827297
+1.4	5	images	2 2 2 1 0	a man dressed in black wearing a hat and glasses in front of a red wall.	a woman in a white shirt standing in front of a brick wall.	0.8	0.656488549618321	-0.526314024000104	1.25848638516909	4.56887173916629
+0.8	5	images	0 3 0 1 0	a boy jumps into a not-so-crowded public pool.	a man jumps while on a snowboard.	1.17	0.506329113924051	0.997996126325177	0.379186373650082	2.57737512324357
+1	5	images	2 2 1 0 0	a black dog is running in the grass.	a boy running through green grass.	0.89	0.657142857142857	-0.133249831234851	0.413611734549222	3.3722792187965
+1	5	images	1 2 0 0 2	a young girl dressed in a minnie mouse outfit and an older woman walking down the sidewalk.	a man wearing a white suit holding a newspaper walking through the streets.	0.89	0.518072289156627	-0.133249831234851	1.08515336046684	3.86296956827742
+0.8	5	images	0 0 0 2 2	two teenage girls, one is smiling.	a little girl on a kid swing.	0.98	0.603174603174603	0.222107361969065	0.664518566944196	3.19494365354376
+1	5	images	0 0 2 0 3	a man in a blue shirt is running in a stadium field.	a man wearing a blue hat and shirt is riding a white horse.	1.26	0.648648648648649	1.40893248889713	0.322069552869422	2.41912986885814
+1.2	5	images	0 2 3 1 0	an old man in a black trench coat standing in a marketplace.	the baby is wearing a red shirt and walking in a plaza.	1.17	0.521739130434783	0.997996126325177	1.87815909028906	3.92624351933033
+2.4	5	images	3 3 3 0 3	an owl has its wings up and widespread during the day.	the bird has its wings spread as it flies.	1.2	0.5625	1.09048178276451	2.03876536463498	4.10753789950586
+2.2	5	images	3 2 3 0 3	a dog with a red toy in it's mouth.	a brown dog is carrying a stick in its mouth.	1.17	0.65	0.991706648708757	0.603336367233455	2.72305558015756
+2.4	5	images	1 2 2 4 3	two boys, one wearing a hat, in a playground.	boy in tan hat laughs while sitting near playground equipment.	1.02	0.542056074766355	0.564037145925493	2.23762682904882	4.63012730677708
+2	5	images	2 3 1 2 2	an elderly woman rides a bicycle along a city street.	an elderly woman walking uphill crossing the street.	0.63	0.666666666666667	-0.567604856380995	0.1430850039418	3.83820066967193
+2	5	images	2 2 1 2 3	girl stands in subway waiting on something.	a girl stands in a dimly lit area.	0.63	0.597402597402597	-0.567604856380995	0.530658129419256	4.06789682535383
+2.2	5	images	3 2 2 2 2	this dog is jumping through the water.	two dogs running through the water on a beach.	0.4	0.714285714285714	-1.24672593607649	0.0219814784172742	5.48998539772636
+2.2	5	images	3 1 3 2 2	a black and white dog is running through a cow field.	a large black and white dog runs in the ocean water	0.75	0.673076923076923	-0.229072164090368	0.378863294435757	3.46599528978435
+2.4	5	images	4 2 2 3 1	the skateboarder gets to the top of the ramp.	the skateboarder rides the pipe wall at a skater park.	1.02	0.646464646464647	0.564037145925493	1.22202726937568	3.41120552787318
+2.2	5	images	2 2 2 2 3	a dog is running in the snow.	two dogs running in the dirt	0.4	0.736842105263158	-1.24672593607649	0.241391248821038	5.60721547723017
+2.4	5	images	3 3 3 2 1	a golden colored dog jumps around in the grass while holding a stick in its mouth.	a black dog is running through the grass carrying something red in its mouth.	0.8	0.60377358490566	-0.0781220766559924	1.63729033270513	4.34868041741586
+2	5	images	3 3 2 2 0	a bloody man and woman pose for a picture.	a man in woman dressed warmly pose for a picture.	1.1	0.725274725274725	0.785023677464028	0.713175347555	2.88455566450809
+1.6	5	images	0 2 1 4 1	three dogs are playing in the white snow.	two dogs are playing in the grass.	1.36	0.746666666666667	1.54759870157479	2.08986218239432	4.05596085219209
+2	5	images	2 2 2 2 2	a woman standing in front of trees and smiling.	a man is walking by trees in front of the city skyline.	0	0.647058823529412	-2.415329795497	0.0476437507229103	13.2175691848206
+2.4	5	images	2 2 3 3 2	a dog running across the snow with a snowball in it's mouth.	a tan dog is running through the grass with a yellow toy in its mouth.	0.49	0.707692307692308	-0.984088211983319	0.626455614949461	5.04320449854657
+1.8	5	images	2 2 2 0 3	a woman runs on the beach.	a dog runs across the land.	0.98	0.641509433962264	0.447153371530358	0.482678342761478	2.91239853919513
+1.8	5	images	1 2 2 2 2	the black and white dog has its mouth wide open.	a black and white dog jumps in the snow.	0.4	0.704545454545455	-1.24672593607649	1.09584020970888	6.2085858181873
+1.8	5	images	2 1 2 2 2	the man is riding a bike down a dirt hill.	a trick bicyclist grinds down a handrail.	0.4	0.506024096385542	-1.24672593607649	0.835210092516662	5.99725492791073
+2.4	5	images	3 3 2 2 2	a woman wearing a pink shirt jumps in the air with her arms and legs spread to her sides.	a man wearing suspenders and sunglasses leaps up in the air with his arms and legs spread out to the side.	0.49	0.748717948717949	-0.984088211983319	0.227392374420221	4.79578307817806
+2	5	images	3 2 2 2 1	a little boy and a little girl playing together outside.	a young boy and a young girl walking towards each other	0.63	0.576576576576577	-0.567604856380995	0.733236301274438	4.20688372961835
+1.6	5	images	2 2 0 2 2	two terriers play on the wood floor of their home.	two puppies play with a red chew toy in a field.	0.8	0.510204081632653	-0.0781220766559924	0.210248750390797	3.19210341036128
+1.6	5	images	2 2 2 0 2	a group of four children dancing in a backyard.	a group of children do stretches on colored mats.	0.8	0.604166666666667	-0.0781220766559924	0.703740957868536	3.50297901510258
+2.4	5	images	2 3 2 3 2	brown dog splashing into the water.	four dogs splashing in the water	0.49	0.835820895522388	-0.984088211983319	0.619872490733278	5.0387095926398
+1.6	5	images	1 2 1 2 2	a woman dressed in green is playing with her tan dog.	a tan dog licks a girls hand while laying down.	0.49	0.52	-0.984088211983319	0.114962221529733	4.73453666404909
+2.4	5	images	3 3 2 2 2	a brown and white dog is running through the snow.	a brown and white dog is running on the grass.	0.49	0.854166666666667	-0.984088211983319	0.798324861002592	5.1659471143105
+1.8	5	images	3 2 2 0 2	a black and brown dog is chewing on a large stick.	a black and white dog playing in the sand.	0.98	0.608695652173913	0.447153371530358	0.163493224208559	2.72462663127755
+2	5	images	3 1 2 2 2	two dogs in a yard.	two dogs in a stream.	0.63	0.8	-0.567604856380995	1.44004053566183	4.81851171583286
+2	5	images	2 3 2 1 2	two black dogs are jumping and playing with a yellow tennis ball in the snow.	a brown dog and a black dog playing with a yellow soccer ball.	0.63	0.60431654676259	-0.567604856380995	0.463404992905697	4.02478146290197
+2.4	5	images	2 3 2 2 3	two dogs fighting in the snow.	two dogs standing in the snow.	0.49	0.866666666666667	-0.984088211983319	0.919914442101346	5.25937762182821
+2.4	5	images	3 2 3 2 2	the black and brown dog is playing in the yard.	the black and tan dog is chasing something he has spotted.	0.49	0.704761904761905	-0.984088211983319	0.654960132130121	5.06283879374258
+2.2	5	images	3 3 1 2 2	a girl runs with dogs in a dry field.	a grey dog and a tan dog playing on a grassy field.	0.75	0.613636363636364	-0.229072164090368	0.957051512248009	3.87112644695197
+2.2	5	images	3 2 2 2 2	the two dogs are running through the grass.	three dogs run in the snow.	0.4	0.6	-1.24672593607649	1.08969469162847	6.20327917224226
+2.2	5	images	3 2 4 0 2	two large black dogs are playing in a grassy field.	two white dogs are running together.	1.33	0.505747126436782	1.46049073476204	2.0065080847409	3.95926397626265
+1.8	5	images	2 2 1 2 2	a black dog is running in snow.	a black dog is swimming with a ball in it's mouth.	0.4	0.617283950617284	-1.24672593607649	0.247033033015002	5.61040273075959
+1.8	5	images	0 2 2 4 1	a black dog is running after a white dog in the snow.	black dog chasing brown dog through snow	1.33	0.623655913978495	1.46049073476204	0.309014181484299	2.39920488978542
+1.8	5	images	2 2 2 1 2	the brown dog runs on the snow with a white ball in his mouth.	four dogs play in the snow with the city skyline behind them.	0.4	0.601626016260163	-1.24672593607649	0.09472569866667	5.52743642691863
+2	5	images	1 3 2 2 2	a brown dog sits on the beach.	a dog running on the beach	0.63	0.714285714285714	-0.567604856380995	0.606283408127526	4.11814319907992
+1.6	5	images	0 2 2 2 2	two dogs are sniffing something in the rocks.	two dogs running down a path in the woods.	0.8	0.666666666666667	-0.0781220766559921	1.3116888633623	4.00802350184288
+1.6	5	images	2 1 1 3 1	a brown dog chases a frisbee	a brown dog squating on grass.	0.8	0.586206896551724	-0.0781220766559924	0.529043283876075	3.38406226473398
+2.4	5	images	2 3 3 2 2	a black dog walking through water.	two black dogs walking through the snow.	0.49	0.810810810810811	-0.984088211983319	0.376595232867279	4.88256414269473
+2.4	5	images	2 2 1 4 3	two dogs running on the shore.	a white dog running on the beach.	1.02	0.73015873015873	0.564037145925493	0.407920983231068	2.79515736353949
+2.2	5	images	2 2 2 3 2	two white standard poodles play with a toy in the snow	two dogs fighting in the snow.	0.4	0.547619047619048	-1.24672593607649	1.59921293623276	6.70359931794871
+2.2	5	images	3 1 3 0 4	the two dogs are playing fetch in the snow.	two dogs are playing together in the grass.	1.47	0.790697674418605	1.87839495504404	0.765253336296694	2.61896579103192
+1.8	5	images	2 1 2 2 2	a man wearing a orange vest is canoeing in the blue water.	a man in an orange jacket raising his hands to the sky in the sand.	0.4	0.608	-1.24672593607649	0.156726499695237	5.56044948610774
+1.8	5	images	3 0 0 3 3	a little boy is standing in front of a wedding party laughing.	a person standing on a stage in front of a seated crowd	1.47	0.547008547008547	1.87839495504403	0.436547517891567	2.39676277369824
+1.8	5	images	2 2 3 1 1	a bulldog is running through a grassy park while people stand in the background.	a dog is running in a large body of water causing it to splash.	0.75	0.503496503496504	-0.229072164090367	0.859796409361973	3.79453382312109
+1.8	5	images	2 2 2 1 2	a teenage girl running on a beach shouting, with an older man walking behind her.	a young child running along the shore at a beach	0.4	0.527131782945736	-1.24672593607649	0.629892111171238	5.8491194335753
+2.2	5	images	2 3 2 1 3	a black and a yellow dog	a black dog and a brown-and-white dog play in a field.	0.75	0.512820512820513	-0.229072164090368	1.9377040777531	4.89235071639347
+2.2	5	images	3 2 2 2 2	a black and white dog is running in a grassy garden surrounded by a white fence.	a black and white dog is jumping over a hurdle.	0.4	0.614173228346457	-1.24672593607649	0.951829339831456	6.08841971101138
+2.4	5	images	1 3 3 2 3	two dogs on the beach.	a dog walks on the beach.	0.8	0.808510638297872	-0.0781220766559924	0.354221071883033	3.27501768612125
+1.8	5	images	0 3 2 0 4	a black and tan dog standing in a field near trees	a white dog is standing by a river shaking himself dry.	1.6	0.514285714285714	2.25908564218501	0.754847959742271	2.56296850457704
+1.8	5	images	0 3 2 2 2	two girls walking in the ocean.	two girls walking in the street	0.98	0.838709677419355	0.447153371530358	2.40087794232306	4.96102050621986
+2	5	images	1 3 1 1 4	a hockey player looks intently downward.	a hockey player during a game.	1.26	0.6	1.28012008273501	0.505392761918216	2.56549622528305
+1.6	5	images	0 3 2 2 1	a man is swinging on a rope above the water.	a man in warm clothes swinging on monkey bars at night.	1.02	0.606060606060606	0.564037145925493	0.722163621671378	3.00378850306302
+2	5	images	1 3 2 3 1	four black dogs run across the grass.	a dog runs across the grassy field.	0.89	0.75	0.197747872935854	0.95368221126682	3.43155416513265
+1.6	5	images	0 1 2 2 3	a black and white dog running through some red and white poles	black and white dog in living room standing on hind legs.	1.02	0.672268907563025	0.564037145925493	1.3661827932665	3.5488968710296
+2.2	5	images	1 3 2 2 3	a dog runs through the grass.	a dog runs through the snow.	0.75	0.87719298245614	-0.229072164090368	1.60660759800002	4.49033860498922
+2.2	5	images	2 2 2 3 2	a little girl holds a wooden stick.	a little girl swimming in a pool.	0.4	0.617647058823529	-1.24672593607649	0.918038812430228	6.06145545169621
+2.2	5	images	2 3 2 1 3	a dog runs on brown grass.	a wet dog runs through the yellow grass holding a tennis ball.	0.75	0.5	-0.229072164090368	2.06241134041849	5.06187781024849
+2.2	5	images	2 1 3 3 2	a black dog standing in the grass near a volleyball.	a brown and black down with a blue collar near a soccer ball on a grassy field.	0.75	0.50381679389313	-0.229072164090368	2.02528475077002	5.01029829432832
+2.4	5	images	4 2 3 0 3	the man is jumping into the water.	the man is up in the air.	1.36	0.813559322033898	1.54759870157479	0.403330459128113	2.4361966255295
+1.6	5	images	2 2 1 2 1	a small boy playing in the snow.	the brown and white dog is playing in the snow.	0.49	0.632911392405063	-0.984088211983319	0.983345690774952	5.31042051824035
+2.33333333333333	6	images	3 2 1 3 2	a man playing fetch with two brown dogs.	a woman plays with a brown dog.	0.75	0.76056338028169	-0.229072164090368	0.082597420424747	3.29959614112324
+2.2	5	images	0 2 3 3 3	an infant sitting on a cot reaching over to touch the face of an older boy.	a boy who seems ill is being touched in the face by a toddler.	1.17	0.510948905109489	0.991706648708757	1.95590951755827	4.02995543609152
+2	5	images	1 2 2 4 1	a black and white dog runs through the water.	black and brown dog runs through field.	1.1	0.738095238095238	0.785023677464028	0.837882610220389	2.97646001748575
+1.6	5	images	0 2 2 2 2	a white dog runs through a field of yellow flowers.	a dog with a red collar runs in a forest in the middle of winter.	0.8	0.5	-0.0781220766559921	0.309505551287738	3.24862396986325
+2.4	5	images	2 3 2 3 2	a black dog jumps through the water.	a dog walks through the snow.	0.49	0.676923076923077	-0.984088211983319	0.925753045346391	5.26400857003894
+2.2	5	images	2 2 2 3 2	a black and white dog runs with its mouth open.	a black and white dog swims in blue water.	0.4	0.719101123595506	-1.24672593607649	0.0688217664809988	5.51394382600845
+2	5	images	1 2 2 2 3	a black and white dog is running through the grass.	a tan dog is walking through snow.	0.63	0.611764705882353	-0.567604856380995	0.390955509119389	3.97992861143614
+1.8	5	images	1 3 3 1 1	a young girl going down a tube slide.	a young girl swinging off a tire swing	0.98	0.72	0.447153371530358	1.24616914634006	3.50411672194805
+1.8	5	images	2 1 2 2 2	a black and white dog is running on the beach.	the black and brown dog is running through the snow.	0.4	0.714285714285714	-1.24672593607649	1.19058533783778	6.29249567888267
+1.6	5	images	2 2 2 1 1	a woman reads while on public transportation.	a man who has fallen asleep on public transportation.	0.49	0.755102040816326	-0.984088211983319	2.17191447113579	6.63764545650005
+2.2	5	images	3 2 2 1 3	a child and two dogs play in the water.	a child in red and blue floaties looking down at the water.	0.75	0.612244897959184	-0.229072164090368	0.970586530552138	3.88208417005495
+1.6	5	images	0 2 3 1 2	a white dog is playing with a ball on the beach.	a black and white dog is playing with a tan dog.	1.02	0.708333333333333	0.564037145925493	1.71698746702481	3.92851148160296
+1.8	5	images	1 2 2 3 1	a black dog wearing an orange collar is entangled with fishing wire.	the black dog wearing a red collar shakes water off.	0.75	0.666666666666667	-0.229072164090367	0.72738693365205	3.6960659350026
+1.6	5	images	1 2 2 0 3	a girl is wearing a purple sash and matching skirt.	a group of girls stands wearing jean skirts and superman shirts.	1.02	0.608695652173913	0.564037145925493	0.74779515391881	3.02229594057131
+2.4	5	images	2 2 3 2 3	a black dog running through the snow.	a black dog runs through the water.	0.49	0.833333333333333	-0.984088211983319	0.595675559171338	5.02231466886581
+1.8	5	images	3 1 3 0 2	a black dog running in the snow.	a black dog running on a beach.	1.17	0.761904761904762	0.991706648708757	1.6537837420235	3.65714495657509
+2.2	5	images	2 2 2 2 3	a tan girl in a floral bikini is swimming in dark blue waters.	a little girl in a flowered bathingsuit runs through the sand at the beach	0.4	0.514705882352941	-1.24672593607649	1.91936477441996	7.08980113539746
+2.2	5	images	3 2 3 1 2	a young boy riding a bike on a brick road	a person does tricks on a bike on a ramp surrounded by trees.	0.75	0.549019607843137	-0.229072164090368	1.58558945375671	4.4669957075341
+2	5	images	4 0 2 2 2	a group of old men walking down the street	a couple walking down the street.	1.26	0.826666666666667	1.28012008273501	1.69943164200584	3.61698598287166
+2	5	images	3 1 0 3 3	a black and white dog is jumping over a hurdle.	a white dog running over a bridge.	1.26	0.691358024691358	1.28012008273501	0.383261954260324	2.48922738030292
+2.2	5	images	2 2 3 2 2	two dogs running in the snow	a dog laying in the snow.	0.4	0.754716981132076	-1.24672593607649	0.415263142348551	5.70969367713934
+2.2	5	images	2 3 1 3 2	two women sitting on a bench, their faces obscured, with one woman carrying an inflatable tiger and the other woman in a disney snow white costume.	a girl sits on a bench holding an inflatable tiger next to another girl in a colorful outfit.	0.75	0.541666666666667	-0.229072164090368	1.65711273675598	4.54744319861118
+2.2	5	images	3 2 2 2 2	the dog is running with food in his mouth.	the dog is running with a yellow ball in his mouth.	0.4	0.838709677419355	-1.24672593607649	1.23227408290256	6.33069497037319
+2	5	images	1 3 2 2 2	two white dogs walking in the snow.	a tan dog with a black collar barking in the snow.	0.63	0.635294117647059	-0.567604856380995	0.162081003521737	3.84845168224898
+2.4	5	images	3 2 3 2 2	a boy swinging on a swing.	the girl is on a swing.	0.49	0.612244897959184	-0.984088211983319	1.55488846026239	5.85127544339603
+2.2	5	images	2 2 2 2 3	a black dog is running through the snow.	a black pit bull dog is running through the dirt.	0.4	0.808988764044944	-1.24672593607649	0.9431738103372	6.08146928640619
+1.8	5	images	2 3 2 1 1	the dogs are playing in the snow.	two dogs playing on the shore.	0.75	0.761904761904762	-0.229072164090367	1.6537837420235	4.54363465283265
+1.8	5	images	2 1 2 2 2	a brown and white dog is catching a tennis ball while standing on its hind legs.	the brown and white dog is carrying a stick in his mouth.	0.4	0.642335766423358	-1.24672593607649	0.490716216184892	5.75701296012867
+2.4	5	images	3 2 2 3 2	three children playing in snow.	three children playing in hay	0.49	0.866666666666667	-0.984088211983319	0.919914442101346	5.25937762182821
+2.2	5	images	0 3 1 3 4	three dogs standing in snow next to a blue fence.	three dogs play in the shallows next to a rocky shore.	1.47	0.640776699029126	1.87839495504404	0.693052951345156	2.56698215021656
+2.2	5	images	2 3 1 3 2	a boy is jumping into the water with a ball in his hand.	a little boy swimming underwater with a toy in his hand.	0.75	0.714285714285714	-0.229072164090368	0.0219814784172742	3.26848413649402
+2.4	5	images	2 2 3 2 3	a group of people are at a convention waving american flags.	a crowd of people at an outdoor event	0.49	0.556701030927835	-0.984088211983319	2.09517290225811	6.52613375436709
+2	5	images	1 3 2 2 2	two big brown dogs running through the snow.	a brown dog running through the grass.	0.63	0.804878048780488	-0.567604856380995	1.48749012828574	4.86783650994086
+2	6	images	3 2 2 2 2	woman playing tennis and hitting the ball.	a woman is playing volley ball.	0.4	0.575342465753425	-1.24672593607649	0.745240702715756	5.93046720107907
+2.4	5	images	3 3 2 1 3	a brown dog is splashing water everywhere by shaking the water off of itself.	a white dog is standing by a river shaking himself dry.	0.8	0.575757575757576	-0.0781220766559924	1.90980671801509	4.67967410351517
+2.2	5	images	3 2 1 3 2	a man chases a dog trying to pass the barrier to enter a play area.	a man follows his black and white dog as it takes on an obstacle course.	0.75	0.503597122302158	-0.229072164090368	2.02742153290806	5.01324100296291
+2.2	5	images	2 2 4 3 0	a person in a red vest is touching the blue ice skates on another person.	a lady fastens someone's ice skates in the snow.	1.33	0.545454545454545	1.46049073476204	1.6202674091503	3.48033089862834
+1.8	5	images	2 2 2 2 1	the tan dog runs through the leaves.	the white dog runs through the ocean.	0.4	0.821917808219178	-1.24672593607649	2.2375406349699	7.54002176039147
+2.4	5	images	3 2 1 3 3	two shirtless young people playing in the water.	lots of people play in the water at the beach.	0.8	0.659574468085106	-0.0781220766559924	1.09450585184679	3.80975282393864
+1.8	5	images	3 1 2 0 3	two dogs running together and one has a duck toy in its mouth.	a black and white dog walking through the grass with a long stick in his mouth.	1.17	0.553191489361702	0.991706648708757	0.376405008237338	2.57802100982433
+2	5	images	2 2 2 2 2	a man with long hair is looking through a camera.	a man with sunglasses looking straight ahead.	0	0.702127659574468	-2.415329795497	0.488019985782234	13.4698183869471
+1.6	5	images	1 2 1 2 2	a man is riding a bicycle on a dirt path.	two dogs running along dirt path.	0.49	0.621621621621622	-0.984088211983319	0.873528210754183	5.22306234242522
+2.2	5	images	2 1 2 3 3	a woman is sitting up asleep with her head resting on her hand.	a man who is resting his head on his hand.	0.75	0.60952380952381	-0.229072164090368	0.997055010791322	3.90372810128831
+2	5	images	0 2 2 4 2	a black and white dog swimming in the pool	a black and white dog running with something in his mouth.	1.26	0.7	1.28012008273501	0.467323886871807	2.5412212960687
+2.33333333333333	6	images	3 2 2 2 2	a man and a woman looking at the camera.	a man and a woman laughing.	0.4	0.686567164179104	-1.24672593607649	0.637176093079748	5.85411873456853
+2.4	5	images	3 2 3 2 2	a woman in a black shirt stands in front of bananas at a fruit stand.	a woman wearing black stands in front of a pickup truck.	0.49	0.672	-0.984088211983319	0.9736406342099	5.30250561532888
+2	5	images	2 1 3 2 2	a dog is standing in the sand.	a tan dog is standing in front of some plants.	0.63	0.710526315789474	-0.567604856380995	0.569715113060231	4.09360949155602
+2	5	images	2 2 2 2 2	large group of people standing outside of a building.	a group of people are ice skating in a big city.	0	0.633663366336634	-2.415329795497	0.177943593018604	13.286511130095
+2	5	images	2 2 2 1 3	a tan and white dog retrieving a ball on a gravel path.	a large dog walks along a gravel path in the woods.	0.63	0.566037735849057	-0.567604856380995	0.835749359620488	4.28276720076411
+2.2	5	images	2 3 3 1 2	a skateboarder doing a trick on a stone wall.	a skateboarder riding up to a slope.	0.75	0.740740740740741	-0.229072164090368	0.279313925187121	3.40731205681622
+2.4	5	images	3 3 1 3 2	two dogs in the snow	two dogs play in the grass.	0.8	0.723404255319149	-0.0781220766559924	0.473622884534007	3.34845680104643
+2.2	5	images	4 3 1 1 2	a black and white dog is swimming in a large green lake.	a black dog runs fast into shallow water.	1.17	0.515463917525773	0.991706648708757	1.91199124009014	3.9722022408189
+2.4	5	images	3 2 2 4 1	many people are on the beach, near a building with flags flying.	a busy beach has people scattered on it watching the sky.	1.02	0.528925619834711	0.564037145925493	2.3653489502308	4.83199725325142
+2.4	5	images	3 2 3 1 3	a man picking up a big rock.	a woman picking up a large rock.	0.8	0.866666666666667	-0.0781220766559924	0.919914442101346	3.66526086798831
+2.4	5	images	3 2 3 2 2	a dog emerges form the water with a stick in its mouth.	a dog runs toward the camera with a stick in its mouth.	0.49	0.836363636363636	-0.984088211983319	0.625151821255883	5.04231310304348
+2	5	images	5 0 2 0 3	three clowns in bright, multi-colored costumes.	three women in brightly colored dresses.	1.9	0.71264367816092	3.12784502185101	0.590311049362501	2.38714737396438
+2.4	5	images	3 0 4 1 4	the man is sitting at the top of a rocky mountain.	a person sticks their head out of a tent at the top of a mountain.	1.62	0.620689655172414	2.33156152137198	1.4727449008994	3.18549011449022
+1.6	5	images	3 1 0 2 2	a baseball player throws the ball.	the basketball player holds the ball.	1.02	0.845070422535211	0.564037145925493	3.04705189876234	6.15728274303979
+1.8	5	images	1 1 2 2 3	a young girl with a pink hat on with a yellow building in the background.	a young girl in a pink dress with something in her hand.	0.75	0.666666666666667	-0.229072164090367	0.72738693365205	3.6960659350026
+2.4	5	images	0 3 3 2 4	a young laughing girl and a boy are playing on a big drum.	a baby girl and little boy are standing next to a guitar and a drum.	1.36	0.603174603174603	1.54759870157479	1.64311672772634	3.4867991177932
+2	5	images	3 1 2 2 2	dog running towards camera with a ball in its mouth.	the black and white dog swims with a brown object in its mouth.	0.63	0.521739130434783	-0.567604856380995	1.26664926966693	4.64790020297077
+2.4	5	images	2 3 2 3 2	a brown dog is running through green grass.	a brown dog is running though a river.	0.49	0.839506172839506	-0.984088211983319	0.655719796750968	5.06336589878766
+2.4	5	images	1 3 3 3 2	two dogs playing in snow.	two dogs playing in grass.	0.8	0.862745098039216	-0.0781220766559924	0.881768691168404	3.63533560218836
+2.4	5	images	4 2 2 2 2	a boy doing a back flip into a swimming pool.	a boy wearing red and blue swim trunks jumping head first into a swimming pool.	0.8	0.629032258064516	-0.0781220766559921	1.39159501362548	4.08656232950958
+3.2	5	images	2 3 3 4 4	the dog plays in the park.	the dog leaps over the fence in the park.	0.75	0.716417910447761	-0.0761270419527107	0.379186155828274	3.28785728376923
+2.8	5	images	2 3 3 3 3	two dogs play in the grass.	two dogs playing in the snow.	0.4	0.821428571428571	-1.14371500265937	1.86650921437225	6.68117736869842
+3	5	images	3 3 2 3 4	a boy plays baseball.	a man is playing baseball.	0.63	0.723404255319149	-0.431270840898914	0.301630135796424	3.70199397772239
+2.8	5	images	1 3 3 4 3	a boy skateboards down the railing of some graffiti stairs	a skateboarder is jumping over an obstacle in front of a white house.	0.98	0.503937007874016	0.633279497308799	1.21662711536448	3.36817826163155
+3	5	images	3 3 3 3 3	a black and white dog is carrying a stick in its mouth.	the black and white dog has a stick in his paws.	0	0.737864077669903	-2.36965986278384	0.442048366479546	12.941107916868
+2.8	5	images	3 1 3 4 3	a boy pushes a wagon with two pumpkins.	a child squats behind a wagon with two pumpkins in it.	0.98	0.709677419354839	0.633279497308799	0.78130231000279	3.00879087904377
+3	5	images	2 3 3 4 3	a large brown dog is crouching in a grassy field.	a brown dog is running in a field.	0.63	0.771084337349398	-0.431270840898914	0.764647771498188	4.00489909847783
+3.4	5	images	4 3 3 3 4	a man wearing a t-shirt that says "gigolo" stands at the counter talking to someone.	a man wearing a shirt that says "gigolo" is standing at a front desk area with his back to the camera.	0.49	0.720430107526882	-0.868190182737518	0.953196446430146	4.99318110568052
+3	5	images	4 2 2 4 3	black and white dog running through water.	a tan and white dog runs through water.	0.89	0.839506172839506	0.371636181120939	1.42908699118969	3.73285880324163
+3.2	5	images	3 4 3 4 2	a man holds on to a handle in the water.	a man is holding onto handles in the air.	0.75	0.814814814814815	-0.0761270419527107	0.576338668804001	3.41308283061916
+2.8	5	images	3 4 4 3 0	a man is kite surfing away from the camera.	a man is sky surfing on the water.	1.47	0.753246753246753	2.13474917735512	1.20440078443362	2.94440684327141
+3.2	5	images	3 1 4 4 4	a man and a woman are smiling.	a man and a woman laughing.	1.17	0.807017543859649	1.20455288977547	0.500619965965015	2.5842495292433
+2.6	5	images	3 1 2 3 4	a brown and white dog is walking up snowy steps.	a black and white dog frolics in the snow.	1.02	0.666666666666667	0.755898519397876	0.976600605049971	3.09913262346779
+3.4	5	images	3 2 4 4 4	a man in red shorts is walking along rocks by a river carrying a stick.	a man is walking on rocks with water flowing around them.	0.8	0.609375	0.0822298574650943	2.03164411535572	4.68269290765317
+2.8	5	images	2 2 3 4 3	a dog is running through a backyard full of leaves.	three dogs run through a field.	0.75	0.560975609756098	-0.0761270419527107	0.662729608006559	3.47196747977171
+2.8	5	images	2 3 3 3 3	a brown dog is in the middle of a line of dogs chasing a dirty tennis ball over dirt.	there are two white dogs and one brown dog chasing a ball.	0.4	0.531468531468531	-1.14371500265937	0.949270592070057	5.74583377662915
+2.6	5	images	4 4 4 1 0	a young girl with glasses sits and holds two american flags.	a girl in glasses is looking over two american flags near a wooded area.	1.74	0.651515151515151	2.97410989285181	0.829465398396942	2.56505889419337
+2.6	5	images	2 3 2 3 3	several people are sitting around a fire at night.	a group of people are standing and sitting around on the ground at night.	0.49	0.650406504065041	-0.868190182737518	0.818699407666233	4.88843311360962
+2.8	5	images	2 3 3 4 2	the brown and black dog sprints across the snow.	a black dog is running quickly along the ground.	0.75	0.541666666666667	-0.0761270419527107	0.85023727989975	3.60887155733637
+3.2	5	images	4 4 2 4 2	a woman in a blue shirt and tan shorts sits at a table.	a smiling young woman in a tourquoise shirt and bandanna poses at table outdoors.	0.98	0.617647058823529	0.633279497308799	1.33834235372006	3.48346630310794
+3	5	images	3 1 4 3 4	a tan dog jumps up to catch a tennis ball.	a red dog jumps an catches a tennis ball in its mouth.	1.1	0.708333333333333	0.987728407954589	0.155277563221337	2.45315392890397
+3.4	5	images	3 4 4 2 4	a white and brown dog playing with a black toy.	a white and brown dog is playing tug-o-war.	0.8	0.733333333333333	0.0822298574650943	0.827894205925632	3.43383732513607
+3.4	5	images	3 3 4 3 4	a man sits with fishing poles near a body of water.	a man sits on a rock next to a folding deck chair and a fishing pole.	0.49	0.5	-0.868190182737518	3.09377638838228	8.0794266778284
+3.2	5	images	3 3 3 4 3	a dog swims in the water.	three dogs swim in the water.	0.4	0.851851851851852	-1.14371500265937	0.936002507289183	5.73520532587449
+3.4	5	images	4 3 4 2 4	three dogs playing in the snow while one dog wears a jacket.	three dogs playing in the snow, with a city in the background.	0.8	0.704918032786885	0.0822298574650943	1.10383301971426	3.65763822131822
+3	5	images	4 2 3 4 2	a female dj holds up a michael jackson album.	a girl holding a picture of michael jackson smiling	0.89	0.604166666666667	0.371636181120939	0.856276982518238	3.2240036552835
+3.2	5	images	3 3 3 4 3	a smiling man and a baby girl posing for photo.	a smiling man holds a small child wearing pink and red.	0.4	0.568627450980392	-1.14371500265937	1.81436802230338	6.61574247104751
+3.2	5	images	2 4 2 5 3	the white and brown dog runs across the grass.	three dogs are running on the grass.	1.17	0.609756097560976	1.20455288977547	1.41497087597981	3.32870911142842
+2.8	5	images	2 2 2 4 4	two dogs playing by the shore.	two dogs playing in the snow.	0.98	0.847457627118644	0.633279497308799	2.11927538657642	4.4161734556446
+2.6	5	images	2 3 3 2 3	a boy skateboards down the railing of some graffiti stairs	a skateboarder slides down a handrail on his feet.	0.49	0.574074074074074	-0.868190182737518	0.0774410088370168	4.42207480079298
+3.2	5	images	3 4 2 4 3	a woman playing with two young boys at a park	a woman and three kids play at a park.	0.75	0.626506024096386	-0.0761270419527107	1.25231361843391	3.94950806848494
+3.2	5	images	4 3 3 4 2	a black dog with a blue collar is running in the snow.	a black dog with a red collar plays in the snow.	0.75	0.823529411764706	-0.0761270419527107	0.660965454329926	3.47073940503362
+3.4	5	images	4 3 4 3 3	a dog is jumping into a swimming pool after a duck.	a dog jumping into a swimming pool.	0.49	0.813953488372093	-0.868190182737518	0.0449980365718397	4.40534891790219
+3.2	5	images	3 3 3 3 4	three people racing on ice skates.	three ice skaters round a corner.	0.4	0.507462686567164	-1.14371500265937	2.40833437892378	7.47238726813631
+2.6	5	images	4 3 2 2 2	two dogs fighting in the snow.	two dogs playing in the snow.	0.8	0.847457627118644	0.0822298574650943	2.73224781663866	5.84118666154043
+3.2	5	images	3 4 4 3 2	a white dog running in the snow	the dogs are running in the snow.	0.75	0.8125	-0.0761270419527107	0.553859678898677	3.3981734772197
+3	5	images	2 4 3 4 2	a white dog walking in the snow.	a black and tan dog walking through the snow.	0.89	0.675324675324675	0.371636181120939	0.165266994129905	2.77574874899243
+2.6	5	images	2 2 3 4 2	a skateboarder on a city street.	a skateboarder in the air at a big, outdoor ramp.	0.8	0.592592592592593	0.0822298574650943	0.257272928079607	3.05833682985742
+3.4	5	images	4 2 3 4 4	two black dogs playing in the snow.	a black dog digs in the snow.	0.8	0.8125	0.0822298574650943	0.0591127511635547	2.95105772233832
+3.2	5	images	3 4 3 3 3	a dog running through a forest in the winter time	a dog running through a lot of twigs.	0.4	0.720930232558139	-1.14371500265937	0.335367340379368	5.32096839308267
+2.8	5	images	2 3 3 2 4	two dogs are running on the grass in front of the trees.	a brown dog is running on the grass in front of some trees.	0.75	0.834782608695652	-0.0761270419527107	1.99618925054657	4.79220707050462
+3.4	5	images	4 4 3 3 3	a man is standing in water near a waterfall.	a man wades in the water and watches a water fall.	0.49	0.702127659574468	-0.868190182737518	1.13093012090464	5.142861110391
+2.8	5	images	3 3 2 3 3	a man jumps off of one rooftop onto another.	a young man jumps from one balcony to another.	0.4	0.711111111111111	-1.14371500265937	0.795224781169958	5.62667297314184
+2.6	5	images	3 2 2 4 2	a surfer is riding on a breaking wave.	a group of surfers catching a wave	0.8	0.555555555555556	0.0822298574650943	0.102390910405574	2.97358881716467
+3	5	images	3 3 3 3 3	a young boy plays in a red ball pit.	a laughing boy lies on a pit of blue balls.	0	0.607594936708861	-2.36965986278384	0.822985313924277	13.2028229482373
+3.4	5	images	4 4 3 3 3	many middle eastern people are sitting in the back of a blue truck.	a group of people are riding in the back of a truck.	0.49	0.722689075630252	-0.868190182737518	0.931259779675154	4.97561218612728
+3.2	5	images	4 4 3 4 1	a brown dog is jumping up to catch a green strap in it's mouth.	a grey dog jumps to bite a green leash.	1.17	0.588235294117647	1.20455288977547	1.62395775487005	3.55218675015653
+3.4	5	images	2 4 4 3 4	the tan and white dog is running in the field.	the brown and white dogs run through the field.	0.8	0.774193548387097	0.0822298574650943	0.431103777661334	3.16160657354752
+3.4	5	images	3 4 2 4 4	a brown and white dog is running on the grass.	the tan and black dog is running across the grass.	0.8	0.729166666666667	0.0822298574650943	0.868356387755214	3.4647541422098
+2.6	5	images	3 3 2 3 2	black and white dog running through water.	a black and white dog is running through grass.	0.49	0.853932584269663	-0.868190182737518	2.79512563109864	7.42792361822945
+3.2	5	images	3 3 3 3 4	a small white dog running across a lawn.	a small white dog running	0.4	0.769230769230769	-1.14371500265937	0.133675482976085	5.20752791132657
+3.4	5	images	3 4 3 3 4	one man and two women dressed in vampire costumes	a man and two women dressed in costumes.	0.49	0.853932584269663	-0.868190182737518	0.343235910849714	4.56981906179551
+2.8	5	images	3 3 3 2 3	a dog running across the sand	a dog running through the water.	0.4	0.721311475409836	-1.14371500265937	0.894279739965877	5.70223893865722
+3.4	5	images	4 4 3 3 3	a black and white dog jumping in the air to catch a frisbee	a black and white dog jumping in a yard.	0.49	0.747474747474748	-0.868190182737518	0.69056801304947	4.79498587875871
+3.2	5	images	3 3 4 3 3	a young boy jumping into a pool that says "no diving".	a boy jumps into a pool while lifeguards watch.	0.4	0.574257425742574	-1.14371500265937	1.75969576729777	6.54893891841268
+2.8	5	images	3 3 3 3 2	a small white dog climbs over a log.	a small dog steps onto a log.	0.4	0.676923076923077	-1.14371500265937	0.463227391799021	5.3990385685625
+3.4	5	images	4 3 4 3 3	two people ride their bikes down a dirt road.	two people riding their bikes on a hill.	0.49	0.8	-0.868190182737518	0.180499296652303	4.47704236437357
+2.6	5	images	3 2 4 1 3	three dogs playing in the snow.	three dogs are playing in the water.	1.02	0.835820895522388	0.755898519397876	2.61924440469871	5.17436228369629
+3	5	images	2 4 3 4 2	a brown and white dog with a pink frisbee in it's mouth is humping over a man's back.	a dog with a frisbee in its mouth, jumps over a man.	0.89	0.715328467153285	0.371636181120939	0.223206773592169	2.80767441987676
+2.6	5	images	2 3 4 3 1	two dogs play in the grass.	two tan dogs play in the snow.	1.02	0.807017543859649	0.755898519397876	2.33953725615171	4.6908357368746
+2.6	5	images	3 4 2 1 3	a black dog is chasing two birds on the shore of the ocean.	a dog is running along the beach beside the ocean.	1.02	0.605504587155963	0.755898519397876	0.382660321312974	2.68044765489731
+3.2	5	images	4 3 4 3 2	a group of people stand in the sand looking out at the water.	a group of people are standing on the beach in front of some boats.	0.75	0.6875	-0.0761270419527107	0.660005775988812	3.47007180195477
+2.8	5	images	3 3 3 2 3	three dogs are running in a field.	two dogs are running in a grassy field	0.4	0.805555555555556	-1.14371500265937	1.71236756930717	6.49256547104618
+2.6	5	images	3 2 5 1 2	a dog runs through the long grass.	a dog lays down in the long green grass.	1.36	0.675675675675676	1.7877214284564	1.06408640360042	2.86974815293756
+2.6	5	images	3 3 2 3 2	a dog bounds across the brown grass.	two dogs bound across the grass.	0.49	0.823529411764706	-0.868190182737518	2.49988274451662	6.8727332203252
+3.4	5	images	3 4 3 3 4	a group of men playing brass instruments.	a group of guys play instruments outside.	0.49	0.707317073170732	-0.868190182737518	1.08053612173961	5.09906180592594
+2.6	5	images	2 3 2 3 3	boat sails in rough water.	a man is kayaking in rough waters.	0.49	0.7	-0.868190182737518	1.30029805968663	5.29842121082681
+2.8	5	images	5 0 3 2 4	a black and white dog is jumping into the water.	a white dog runs across the water.	1.72	0.658536585365854	2.90332836034103	0.284677576295871	2.20780758138569
+3	5	images	2 3 3 4 3	a harnessed dog leaps over a log as another dog follows behind.	a brown and white dog is leaping over a log in a field while another dog follows behind it.	0.63	0.714285714285714	-0.431270840898914	0.213080680120741	3.65163517591447
+3.2	5	images	4 3 3 4 2	a black dog is walking on the grass with a stick in it's mouth.	the black dog is running on the grass with a toy in it's mouth.	0.75	0.857142857142857	-0.0761270419527107	0.987383055644208	3.71745275286611
+3.2	5	images	4 3 2 4 3	a black dog is running in the grass.	a black and a brown dog running in the grass.	0.75	0.814814814814815	-0.0761270419527107	0.576338668804001	3.41308283061916
+3.2	5	images	3 2 4 4 3	a brown dog running through the woods.	a brown dog runs through the grass.	0.75	0.821917808219178	-0.0761270419527107	0.645315295362803	3.45989220882361
+3	5	images	3 2 4 4 2	a small white and brown dog is jumping over a horizontal pole.	a brown and white dog jumping over a red and yellow pole	0.89	0.627118644067797	0.371636181120939	0.633392082609518	3.06219038751562
+3.4	5	images	3 3 3 4 4	two hikers stand at the top of a snowy mountain.	two mountain climbers stand on the top of a mountain looking around.	0.49	0.655172413793103	-0.868190182737518	1.58690892714264	5.59361602880121
+3.2	5	images	4 1 4 4 3	two girls playing with people and flowers behind them.	two young girls wearing skirts are playing in a garden.	1.17	0.532110091743119	1.20455288977547	2.16898530935812	4.25776476643953
+3.2	5	images	3 3 3 3 4	a man plays his white guitar.	a man playing a white guitar and singing as well	0.4	0.623376623376623	-1.14371500265937	1.28270298985967	6.03745161774585
+3.2	5	images	3 3 3 3 4	three boys are running on the beach playing a game.	two young boys and one young man run on a beach with water behind them.	0.4	0.508196721311475	-1.14371500265937	2.40120622357332	7.46052584971293
+2.6	5	images	4 2 4 1 2	a brown dog carrying a stick in its mouth.	a dog swimming with a stick in its mouth.	1.2	0.746987951807229	1.30817471758956	1.75659447164434	3.67711100980118
+3	6	images	4 3 4 2 2	two people walking along the shore at sunset.	two people walking along the beach at sunset towarn a group of people.	0.89	0.71304347826087	0.371636181120939	0.201017420941734	2.79533836136004
+3.4	5	images	4 4 2 4 3	one child pulls another, sitting in a red wagon, along the sand.	a young boy pulls another boy wearing a silly hat in a radio flyer wagon.	0.8	0.54014598540146	0.0822298574650943	2.70392178973228	5.78605717937145
+3.2	5	images	3 3 3 3 4	german shephard jumping through black hoop while people watch	a dog jumps through a hoop.	0.4	0.522727272727273	-1.14371500265937	2.2601011483405	7.23421898571236
+3.4	5	images	5 3 2 4 3	a woman holds a dog while another dog stands nearby in a field.	a lady holding one dog while another dog is playing in the yard.	1.02	0.677165354330709	0.755898519397876	1.37333716098269	3.45667317237546
+2.6	5	images	0 4 3 2 4	a young boy with his hair standing up, is sliding down a blue slide	the kid in the orange shirt is sliding down a teal slide.	1.5	0.612903225806452	2.21740577887841	0.454507936281159	2.36403982587421
+2.6	5	images	2 2 4 3 2	man riding a bicycle down a narrow path.	a man riding a unicycle down a paved road	0.8	0.765432098765432	0.0822298574650943	1.93570417434379	4.55334468716781
+3.2	5	images	3 2 4 4 3	a child is walking from one picnic table to another.	the boy hops from one picnic table to the other in the park.	0.75	0.625	-0.0761270419527107	1.26693850343256	3.96323545162973
+3.4	5	images	4 2 4 3 4	a group of teenagers are dancing on a wooden floor.	a group of people in dark colored clothing are line dancing on a wooden floor.	0.8	0.728682170542636	0.0822298574650943	0.873061292619119	3.46838988350461
+2.6	5	images	2 3 3 3 2	a group of people standing in the street	a woman addressing a diverse group of people standing in the street.	0.49	0.740740740740741	-0.868190182737518	1.69592828202033	5.71748339394374
+3	5	images	4 3 3 3 2	a man walks toward a policeman standing in a crosswalk on a city street.	a policeman stands in a crosswalk in a city.	0.63	0.724137931034483	-0.431270840898914	0.308754804643892	3.70614358140217
+3	5	images	3 3 4 3 2	two dogs are playing on the beach together.	two black dogs are playing in a grass.	0.63	0.691358024691358	-0.431270840898914	0.00956836275103921	3.54400801901442
+2.6	5	images	3 3 2 2 3	a dog swimming with a stick in it's mouth.	a dog running with a stick in it's mouth.	0.49	0.891566265060241	-0.868190182737518	3.16058343151421	8.23896717273169
+2.6	5	images	2 1 4 3 3	a large gray dog is playing in the deep snow.	four dogs playing in the snow.	1.02	0.72	0.755898519397876	1.49451653246863	3.58079220652068
+3.4	5	images	4 5 2 3 3	six dogs running on the sandy beach.	six dogs walking beside the beach.	1.02	0.685714285714286	0.755898519397876	1.29031914112086	3.37587968370519
+2.8	5	images	5 2 1 4 2	a softball player swinging at a pitch.	a baseball player hitting the ball	1.47	0.638888888888889	2.13474917735512	0.0938802961238527	2.16633353134071
+3.4	5	images	5 3 3 3 3	a light brown dog runs down a path happily.	a pale dog runs down a path.	0.8	0.704225352112676	0.0822298574650946	1.11055958884779	3.66348866013343
+3.4	5	images	5 2 4 3 3	a pitcher on a mound throws a baseball.	a boy in the middle of a pitch at a baseball game.	1.02	0.561797752808989	0.755898519397876	2.49366312978621	4.94889002430263
+3	5	images	3 3 4 1 4	a man is swinging on a rope over water.	a man in a maroon bathing suit swings on a rope on a lake.	1.1	0.618556701030928	0.987728407954589	0.716536457642874	2.80327108514668
+3.4	5	images	3 3 4 4 3	a group of people are standing by a window watching something.	a group of people stand and wait to see something.	0.49	0.75	-0.868190182737518	0.666045478607299	4.77777391129883
+2.8	5	images	2 3 3 3 3	one man in an orange shirt wearing a white helmet is riding a bike.	the man wearing a blue helmet is riding a polaris.	0.4	0.666666666666667	-1.14371500265937	0.363628174987739	5.33779711269857
+3.4	5	images	4 4 4 3 2	a golden dog is running on the grass.	the large beige dog is running through the grass.	0.8	0.744186046511628	0.0822298574650943	0.722504336974159	3.35618553042603
+3	5	images	3 2 3 4 3	two girls with ponytails ride an amusement park ride.	a young girl is on a ride at an amusement park.	0.63	0.72	-0.431270840898914	0.268571672344168	3.68293206455574
+3	5	images	4 4 3 0 4	two puppies playing with a plastic bag.	two dogs playing in a yard.	1.55	0.606060606060606	2.3784041638468	0.837885081686609	2.61305138505907
+2.83333333333333	6	images	1 3 3 4 3	a black, brown and white dog running through a field.	a white and brown dog runs in a field.	0.98	0.615384615384615	0.633279497308799	0.236529980745695	2.65639035827494
+2.8	5	images	4 2 2 3 3	a young girl doing a back flip in the water.	a young girl wearing purple running through water	0.75	0.645161290322581	-0.0761270419527107	0.154791107480215	3.15956903195673
+3.4	5	images	4 4 3 2 4	brown and black dogs on snow, showing teeth and barking at each other.	a black dog fighting with a brown dog in the snow.	0.8	0.533333333333333	0.0822298574650943	2.77007893374561	5.91604379300863
+2.8	5	images	3 2 2 3 4	two women holding checkered flags near an orange car.	two ladies in skimpy clothes pose next to an old fashioned car.	0.75	0.517241379310345	-0.0761270419527107	1.08742938028006	3.80149280652988
+3	5	images	3 3 3 3 3	a person on a bmx bike.	a man on a bike in mid-air	0	0.530612244897959	-2.36965986278384	1.5705583556323	13.886773419179
+3.4	5	images	4 4 2 3 4	the brown dog is running along a grassy pathway.	a brown dog is running along a grassy stretch divided by strings.	0.8	0.725663716814159	0.0822298574650943	0.902373266284509	3.49123452310739
+3.2	5	images	4 3 3 3 3	a group of people standing outside of a building.	a large group of people have formed a line outside.	0.4	0.62	-1.14371500265937	1.31549312162806	6.06884322764714
+2.6	5	images	3 2 4 1 3	a dog running on the grass	two dogs are running on the grass.	1.02	0.833333333333333	0.755898519397876	2.59508787823329	5.1298842003273
+3.4	5	images	2 4 4 4 3	a boy jumps into the blue pool water.	the young boy is jumping into the pool on his belly.	0.8	0.584269662921348	0.0822298574650943	2.27544012666037	5.0407078735995
+3.2	5	images	3 3 4 3 3	two dogs fighting in the snow.	two dogs play in the snow.	0.4	0.785714285714286	-1.14371500265937	0.293745652851358	5.2966125817525
+2.8	5	images	3 3 3 2 3	a dog runs through the grass.	two dogs run through the brush.	0.4	0.8	-1.14371500265937	1.65841799353439	6.42991135635625
+2.8	5	images	3 3 2 4 2	the blonde woman is wearing a black, american flag, tartan cap.	a red-haired woman is wearing a black beret adorned with the american flag.	0.75	0.623188405797101	-0.0761270419527107	0.0585858962774739	3.10882586304728
+3.4	5	images	3 4 3 4 3	a small white dog and large brown dog play on the grass.	a small light tan dog is running past a large brown dog standing in the grass.	0.49	0.701492537313433	-0.868190182737518	1.13709774468304	5.14829781888102
+3.2	5	images	3 3 3 4 3	a dog jumping for a frisbee in the snow.	a dog is jumping in the snow.	0.4	0.753623188405797	-1.14371500265937	0.0178885426062994	5.14739031219155
+3.2	5	images	3 3 4 4 2	a skateboard performs a trick off a quarter pipe.	a skateboarder attempts to do a trick over a homemade ramp.	0.75	0.62962962962963	-0.0761270419527107	1.22198052362191	3.92135446676699
+2.8	5	images	2 3 2 2 5	three sheep graze on the grassy field with a dog walking behind them.	a small group of goats in the grass with a black and white dog in the backgroud.	1.17	0.523489932885906	1.20455288977547	1.02675015365296	2.97074720096274
+3.4	5	images	3 4 3 4 3	a brown and white dog with a pink collar is barking at a brown dog with a blue collar in the snow.	the dog with the red collar is bearing it's teeth at the dog with the blue collar.	0.49	0.644444444444444	-0.868190182737518	1.69108741829007	5.71183878934806
+3.4	5	images	2 4 4 3 4	three children in a ball pit.	several children playing in a ball pit.	0.8	0.764705882352941	0.0822298574650943	0.523237778032301	3.22009159474836
+3	5	images	3 3 5 3 1	a person is out in the water at the beach while the sun sets.	a person above their surfboard on the water.	1.26	0.514285714285714	1.50711818098601	1.72910404769924	3.59548989690082
+3.4	5	images	3 2 4 4 4	the white and brown dog is running quickly through the grass.	the big white dog is running in the grass.	0.8	0.718446601941748	0.0822298574650943	0.972458117705112	3.54723266454226
+3	5	images	3 3 4 1 4	a black dog is jumping out of water.	a black dog is shaking off water.	1.1	0.811594202898551	0.987728407954589	1.15803598247622	3.15670710735146
+3	5	images	3 2 3 4 3	a dog in the snow.	two dogs in snow.	0.63	0.742857142857143	-0.431270840898914	0.490535641237881	3.81717590753136
+2.6	5	images	3 3 3 2 2	many people are in the bicycle racing, including one man in a three-wheeled bike.	a man riding on a three-wheeled wheelchair.	0.49	0.532258064516129	-0.868190182737518	0.32863106687206	4.56118102755268
+2.8	5	images	3 3 1 3 4	a little girl is riding a toy tricycle on springs.	a little girl is playing on a toy outdoors.	0.98	0.688172043010753	0.633279497308799	0.572465242495265	2.86225016019744
+4	5	images	4 4 4 4 4	a boy with a broken arm is resting in a bed.	a boy with a broken arm is sleeping.	0	0.8	-2.03357120148795	0.716876441085021	10.0724190234839
+4	5	images	4 4 4 4 4	two different breeds of brown and white dogs play on the beach.	two dogs playing in the sand at the beach.	0	0.533333333333333	-2.03357120148795	1.81580908909017	11.1204486028327
+4.2	5	images	4 5 4 4 4	two people sit on the end of a dock.	two people sitting on a dock.	0.4	0.8	-0.453942905204942	0.0729377070564836	3.61165009889211
+4.2	5	images	4 4 4 5 4	a man walks two dogs on leashes down the street	a man walks two dogs in the city.	0.4	0.7	-0.453942905204942	1.02269478087218	4.24204460338147
+3.8	5	images	4 4 3 4 4	a person wearing scuba gear is swimming underwater water.	a person is scuba diving in very clear blue water.	0.4	0.635514018691589	-0.453942905204942	0.0555266536852765	3.60266041825933
+4.2	5	images	5 4 4 4 4	two black dogs playing in the grass.	two dogs play in the grass.	0.4	0.857142857142857	-0.453942905204942	0.4697806208382	3.83927812772092
+3.8	5	images	3 4 4 4 4	three children and playing and laughing on the floor.	three children playing on the floor.	0.4	0.808988764044944	-0.453942905204942	1.59206201159198	4.79123337434814
+4.2	5	images	4 3 5 4 5	a child with his hands on his head.	a little boy stands with his hands on top of his head	0.75	0.727272727272727	0.921642740084276	0.763670124376991	2.86283535149512
+4.2	5	images	4 4 4 4 5	a dog is running along the grass.	a brown dog is running in the grass.	0.4	0.840579710144927	-0.453942905204942	0.312470960578871	3.74360956972274
+4.2	5	images	5 4 4 4 4	a lady is running her dog through an agility course.	trainer runs her dog through training course with green pipe	0.4	0.589285714285714	-0.453942905204942	2.07421154116813	5.39554854807108
+3.6	5	images	3 4 3 4 4	a small black dog is in the grass.	a black dog is running in the grass.	0.49	0.8	-0.0989295469103027	2.29650473736803	5.25666689036784
+3.8	5	images	4 3 4 4 4	a bird sits in a tree.	a bird sits in a leafless tree.	0.4	0.830188679245283	-0.453942905204942	1.79340970585013	5.02601979437457
+3.8	5	images	3 5 4 3 4	two people sit on a dock near the water.	two people sit on the end of a dock in the middle of still water.	0.75	0.704761904761905	0.921642740084276	0.602160042735386	2.74918238679166
+3.6	5	images	5 5 2 4 2	a woman in a black dress smiles in front of a silver truck.	a girl wearing a black top is smiling with a silver truck in the background.	1.36	0.607407407407407	3.32320897654872	0.467342965574833	2.29926643553081
+3.8	5	images	3 4 5 4 3	a dog with big ears is holding a small stick in it's mouth.	a puppy with big ears chewing on a stick.	0.75	0.62	0.921642740084276	0.20287214364173	2.50462407834009
+4	5	images	4 4 3 5 4	a young boy wearing a red winter coat is eating and holding up a candy bar.	a young boy wearing a red coat eats a chocolate bar.	0.63	0.724409448818898	0.464040434864847	0.00105016589377391	2.62926335183882
+4	5	images	4 4 4 4 4	the two dogs are playing fetch in the snow.	the dogs play in the snow.	0	0.753623188405797	-2.03357120148795	0.2764093923589	9.78953696674781
+3.8	5	images	3 4 4 4 4	three children wrestle on a floral carpet.	three children playing on the floor.	0.4	0.666666666666667	-0.453942905204942	0.240347824138928	3.70220105263339
+4	5	images	3 3 4 5 5	the large brown and white dog is running through the snow.	st. bernard dog running in the snowy field.	0.89	0.594059405940594	1.49858504818303	1.23905891885226	3.08149964858016
+3.6	5	images	4 4 4 2 4	four dogs stand in the snow.	four dogs playing in the snow.	0.8	0.862068965517241	1.12568539107807	2.88600912801225	5.55782626747924
+4.4	5	images	5 4 4 4 5	a cyclist is making his bike jump between two rocks.	a man jumps his bicycle in the air between two rocks.	0.49	0.628571428571429	-0.0989295469103027	2.49090683888204	5.57849836996201
+4.4	5	images	4 5 3 5 5	a dog wearing a green sweater and a backpack walking on snow.	a small dog wearing a green sweater and a backpack walks through snow.	0.8	0.870229007633588	1.12568539107807	0.195746887327423	2.42725323670265
+3.6	5	images	3 4 3 3 5	a brown dog wades in the water.	a dog splashes in the murky water.	0.8	0.707692307692308	1.12568539107807	1.41980589999969	3.35822389906411
+3.6	5	images	3 4 3 4 4	two surfers on riding a small wave.	two surfers perform tricks in the waves.	0.49	0.666666666666667	-0.0989295469103027	1.03016197228043	3.77776256622542
+4	5	images	4 4 4 4 4	a girl in orange lights a candle.	a girl in an orange shirt lights candles.	0	0.837837837837838	-2.03357120148795	1.0762439825288	10.3541136167329
+4.2	5	images	4 4 4 5 4	three dogs are playing in the water.	three dogs swim in the water.	0.4	0.8	-0.453942905204942	0.0729377070564836	3.61165009889211
+4	5	images	5 4 4 3 4	a child in a blue and white team uniform chasing a soccer ball.	a young boy in a blue soccer uniform chasing a ball.	0.63	0.660869565217391	0.464040434864847	0.604524705093342	2.98165425215528
+4.4	5	images	5 4 4 5 4	the beagle is walking on the beach at the waterline.	a beagle walks along the calm shore.	0.49	0.613636363636364	-0.0989295469103025	2.63275367458179	5.83387141081443
+4.2	5	images	5 4 4 3 5	two boys are jumping into a pool.	two boys are in midair jumping into an inground pool.	0.75	0.767441860465116	0.921642740084276	0.382160940391827	2.60842177721759
+4	5	images	4 4 3 5 4	the # 2 greyhound dog is running around a track.	a muzzled greyhound dog is running around a track	0.63	0.845360824742268	0.464040434864847	1.14769408281585	3.40382088074354
+3.8	5	images	3 4 3 4 5	the young man is skateboarding at a skate park.	a boy in a blue t shirt is airborne on a skateboard in a skate park.	0.75	0.608695652173913	0.921642740084276	0.310235986768722	2.56566066045617
+4	5	images	3 3 5 4 5	two puppies playing around in the grass	two dogs are wrestling in the grass.	0.89	0.613333333333333	1.49858504818303	1.05600343003762	2.91898684952612
+4	5	images	4 4 4 4 4	a dog jumps in midair to catch a frisbee.	the brown dog jumps for a pink frisbee.	0	0.6	-2.03357120148795	1.18263770654638	10.4476955872318
+4.2	5	images	4 4 4 5 4	a dog digging in the sand.	a brown dog digs in the sand.	0.4	0.8	-0.453942905204942	0.0729377070564836	3.61165009889211
+4.2	5	images	4 4 4 4 5	a small boy in a bathrobe is sitting in a metal chair.	a boy in a robe sits in a chair.	0.4	0.720930232558139	-0.453942905204942	0.823908416585176	4.0842733987064
+3.6	5	images	4 3 4 3 4	a dog is running across the sand with a stick in it's mouth.	a dog is running through a creek with a stick in its mouth.	0.49	0.823529411764706	-0.0989295469103027	2.51997699003055	5.62936944509521
+3.6	5	images	3 5 3 3 4	a large white and grey dog runs through a yellow tunnel in an obstacle course.	a white and black dog is running out of a yellow and orange tube.	0.8	0.601398601398601	1.12568539107807	0.410273905454335	2.55212321907163
+3.6	5	images	4 3 3 4 4	a man and a woman are riding bikes on a street.	a man and woman are riding bicycles across a junction in the city.	0.49	0.707964601769911	-0.0989295469103027	1.42239203226332	4.14041391776683
+4.2	5	images	4 5 4 4 4	two brown dogs chase each other in the snow.	two brown dogs are playing with each other in the snow.	0.4	0.828282828282828	-0.453942905204942	0.195680455234825	3.67729467488491
+4	5	images	4 4 4 4 4	a young men jumps off rocks into a lake.	a young man in red swimming trunks jumped off a large rock into the water.	0	0.614035087719298	-2.03357120148795	1.0493384681161	10.3312262008412
+3.8	5	images	4 4 4 3 4	a grey dog swimming through a river with a stick in his mouth	dog swimming through water carrying stick in its mouth	0.4	0.765217391304348	-0.453942905204942	1.17634030268194	4.37519850665397
+3.6	5	images	4 4 3 3 4	a wet, blond dog carries a stick on the shore.	the wet, brown dog has a stick in his mouth and is running in the sand next to the water.	0.49	0.533333333333333	-0.0989295469103027	0.236180792807166	3.22933435140265
+3.6	5	images	4 4 2 4 4	a brown dog running through the dirty muddy grass	the large brown dog is running outside in the dirt.	0.8	0.62	1.12568539107807	0.586942004499773	2.66550432040002
+4	5	images	4 5 4 4 3	four girls in swimsuits are playing volleyball at the beach.	four ladies in swimsuits play sand volleyball on the beach.	0.63	0.823529411764706	0.464040434864847	0.940348693747538	3.22901130253354
+4.4	5	images	5 4 4 4 5	the two dogs are running on the grass.	two dogs are playing in the grass.	0.49	0.805555555555556	-0.0989295469103027	0.809987573319339	3.60328170182589
+4.2	5	images	4 4 5 4 4	person with two ski poles skiing down a snowy hill.	a person skiing down a snowy hill.	0.4	0.752941176470588	-0.453942905204942	0.519882212381518	3.87136180645325
+3.6	5	images	4 4 4 3 3	a person on a snowmobile.	a person on a snowmobile in mid jump.	0.49	0.806451612903226	-0.0989295469103027	2.35777938729162	5.354751373172
+4	5	images	4 5 3 4 4	a skateboarder attempts a trick on the side of a low wall.	a boy does skateboard tricks on a railing.	0.63	0.54	0.464040434864847	1.75249195083579	4.030604227472
+4	5	images	4 4 4 4 4	a small boy is building with some wooden blocks.	a small boy wearing a blue shirt stacks wooden blocks.	0	0.705882352941177	-2.03357120148795	0.177012569565047	9.73386752518459
+4.2	5	images	4 4 5 4 4	three little boys cover themselves with bubbles.	three children standing by a pool are covered in foam bubbles.	0.4	0.545454545454545	-0.453942905204942	2.49050116767826	6.04831326840917
+3.8	5	images	4 4 3 4 4	two people in snowsuits laying in the snow making snow angels	two children lying in the snow making snow angels	0.4	0.8	-0.453942905204942	1.50669058922653	4.69860196294553
+4.2	5	images	4 4 4 4 5	two dogs are running through the grass near a house and trees.	two dogs are running through a green yard	0.4	0.718446601941748	-0.453942905204942	0.84749687405181	4.1021853371032
+3.6	5	images	4 5 3 3 3	close-up of a hummingbird.	a closeup of a hummingbird flying.	0.8	0.833333333333333	1.12568539107807	2.61309042863993	5.01782179818373
+4.4	5	images	4 4 5 5 4	a group of youngsters swim in lake water	many children are playing and swimming in the water.	0.49	0.521739130434783	-0.0989295469103025	3.50555414755471	7.87459436031593
+3.6	5	images	3 4 3 4 4	a black person in black and red is sleeping on a bench with an open black umbrella.	a man sitting up taking a nap on a park bench with an open umbrella protecting him from the sun.	0.49	0.536312849162011	-0.0989295469103027	0.207882630458839	3.21352385759497
+4.2	5	images	4 5 4 4 4	a man and woman blow bubbles.	a man and a woman in glasses blow bubbles.	0.4	0.816901408450704	-0.453942905204942	0.0875846152785638	3.61927344126438
+4.2	5	images	5 4 4 4 4	a black and white dog swimming in clear water.	a small black and white dog is swimming in water.	0.4	0.842105263157895	-0.453942905204942	0.326960008234336	3.75210990645568
+4	5	images	3 5 4 4 4	a brown dog is running through the field.	a brown dog with his tongue wagging as he runs through a field	0.63	0.660194174757282	0.464040434864847	0.61093927376411	2.98600040478572
+3.6	5	images	4 4 2 4 4	a man in red and black is hitting a soccer ball with his head.	a man in a red striped soccer shirt heads a ball.	0.8	0.576576576576577	1.12568539107807	0.174524968842866	2.41561309037658
+4	5	images	5 4 4 3 4	two dogs playing in the snow.	two black dogs in the snow.	0.63	0.75	0.464040434864847	0.241997904177172	2.75736186068079
+4	5	images	4 4 4 4 4	a black and brown dog runs through the woods.	a dog running through the woods.	0	0.727272727272727	-2.03357120148795	0.0261440237645136	9.65448423034719
+3.66666666666667	6	images	4 4 4 4 3	a young child slides down an orange slide.	a little boy in denim overalls slides down an orange slide.	0.4	0.712871287128713	-0.453942905204942	1.20572224083456	4.40184766544365
+3.8	5	images	4 4 4 3 4	a brown dog about to catch a green frisbee.	a brown dog waits for the frisbee to come down before catching it.	0.4	0.532110091743119	-0.453942905204942	1.03761276448158	4.25452924805163
+4.2	5	images	4 5 4 4 4	a little boy clowns with a colander on his head.	a boy with a metal colander on his head.	0.4	0.772727272727273	-0.453942905204942	0.331962363551675	3.7550589843345
+4	6	images	4 4 4 4 4	a brown dog chews on an orange ball.	a dog has an orange ball in its mouth.	0	0.648648648648649	-2.03357120148795	0.720593724690089	10.0750813854679
+4.2	5	images	5 4 4 4 4	three dogs playing in the snow.	three dogs run in the snow.	0.4	0.862068965517241	-0.453942905204942	0.516566683587742	3.86921370955977
+4.4	5	images	4 4 5 4 5	a large tan dog is running with a green item in its mouth	the tan dog is carrying a green squeak toy in its mouth.	0.49	0.707964601769911	-0.0989295469103027	1.7368645603027	4.48716029509664
+4.4	5	images	4 4 5 5 4	boy lies on stomach in grass.	small boy lying on his stomach on the grass.	0.49	0.712328767123288	-0.0989295469103025	1.695415591146	4.43827856226519
+4.2	5	images	5 4 4 4 4	several people are sitting around a fire at night.	a group of people sit around a blazing fire at night.	0.4	0.699029126213592	-0.453942905204942	1.03191572333641	4.2497504826823
+3.8	5	images	4 4 4 3 4	two dogs playing with a ball in a puddle.	two dogs stand in a puddle, and one has a yellow tennis ball.	0.4	0.509803921568627	-0.453942905204942	1.24946719361119	4.44225641572212
+4.4	5	images	5 4 5 4 4	a surfer on a wave.	a surfer is riding a wave.	0.49	0.8	-0.0989295469103025	0.862751855197989	3.6433626518363
+4	5	images	4 4 4 4 4	a dog in a "superman" shirt sleeps on a blanket.	a brown dog in a superman shirt is laying on a blue blanket.	0	0.777777777777778	-2.03357120148795	0.505819313570422	9.92909333678711
+4	5	images	4 4 4 4 4	a dog is jumping up in the air to catch a toy.	a black dog jumps in the air to catch a toy.	0	0.822222222222222	-2.03357120148795	0.92793356859962	10.2316965505172
+4	5	images	5 4 4 4 3	a brown dog runs towards the camera on a dirt trail with mountains in the background.	a brown dog runs toward the camera down a rocky trail through the brush with mountains in the background.	0.63	0.852631578947368	0.464040434864847	1.21674858519855	3.46617995759112
+3.6	5	images	4 4 4 3 3	two dogs are running on the grass.	two dogs running in the dirt	0.49	0.774193548387097	-0.0989295469103027	2.05140613767366	4.89304418694649
+3.8	5	images	4 3 4 4 4	the black dog is walking through the tall grass.	the black dog is running through the grass.	0.4	0.857142857142857	-0.453942905204942	2.04940891712121	5.36077997876024
+3.8	5	images	4 4 4 4 3	a boy goes down an inflatable slide.	a boy in red slides down an inflatable ride.	0.4	0.8	-0.453942905204942	1.50669058922653	4.69860196294553
+4.2	5	images	4 4 4 5 4	a young girl running on the beach.	a little girl running at on the shore of a beach.	0.4	0.698795180722892	-0.453942905204942	1.03413763718321	4.25161263900337
+4	5	images	4 4 4 4 4	brown dog running on grass.	the dog is running on grass.	0	0.8	-2.03357120148795	0.716876441085021	10.0724190234839
+4.2	5	images	5 4 4 4 4	two dogs running through a field.	two dogs play in a field.	0.4	0.689655172413793	-0.453942905204942	1.12094551264622	4.32600843614897
+3.8	5	images	3 4 4 4 4	a person climbs up a snowy hill while their dog follows.	a person climbs a snowy hill while a black dog follows.	0.4	0.864864864864865	-0.453942905204942	2.12274923170157	5.46484946752066
+3.8	5	images	4 3 4 4 4	the dogs play in the snow on hind legs.	two dogs play in the snow.	0.4	0.738461538461539	-0.453942905204942	0.922224697647635	4.16034510688659
+4	5	images	4 4 4 4 4	a light-colored dog runs through the grass.	a dog runs through the grass.	0	0.805555555555556	-2.03357120148795	0.769640722963671	10.1106767520253
+3.8	5	images	4 4 4 4 3	two girls are sitting in front of a statue.	two blonde girls are sitting next to a statue	0.4	0.795454545454545	-0.453942905204942	1.46351981314399	4.6532438697941
+4.2	5	images	4 4 4 5 4	kids play soccer on a field.	three boys playing soccer in a field	0.4	0.71875	-0.453942905204942	0.844615329531739	4.09998588694966
+4.4	5	images	5 5 5 3 4	a pair of dogs playing with a purple ball.	two dogs play with purple football.	0.8	0.753246753246753	1.12568539107807	1.30679412347546	3.24648913438608
+4	5	images	5 4 4 3 4	a man and a woman walk with a white dog on a leash.	a man, woman and dog walk down a paved road.	0.63	0.589473684210526	0.464040434864847	1.28261213536908	3.52769756093262
+4.4	5	images	4 4 5 4 5	a girl in a black and blue wet suit is surfing.	a woman wearing a black and blue striped suit is surfing on a wave.	0.49	0.719298245614035	-0.0989295469103027	1.62922247617206	4.36228607900727
+4.4	5	images	5 4 5 4 4	a girl jumping rope on a sidewalk near a parking garage.	a girl jumping rope on a sidewalk with a parking garage to the left.	0.49	0.838709677419355	-0.0989295469103025	0.495103955656428	3.38487445573961
+3.6	5	images	3 3 4 4 4	a large black and white dog is swimming in the water.	a black and white dog with a stick is in muddy water.	0.49	0.716981132075472	-0.0989295469103027	1.50802716665311	4.22950236405266
+4.2	5	images	4 4 4 5 4	a group of people in front of a red fire truck.	a group of people are standing around a red fire truck.	0.4	0.823529411764706	-0.453942905204942	0.150534545606033	3.65268037719704
+4.4	5	images	5 4 4 4 5	boy and white dog running in grassy field	a boy and a dog running on grass	0.49	0.767123287671233	-0.0989295469103027	1.17500075617849	3.90347327491079
+4.2	5	images	4 4 5 4 4	two brown dogs are biting each other.	two brown dogs biting each other on sand.	0.4	0.846153846153846	-0.453942905204942	0.365411711627684	3.77496934613812
+3.8	5	images	4 4 4 3 4	a dog has it's head inside a red and green gift bag.	a pet playfully investigates the contents of a gift bag.	0.4	0.5	-0.453942905204942	1.34258063222057	4.53126863074562
+4.4	5	images	4 4 4 5 5	a shirtless man playing football on a lawn.	a shirtless man catches a football	0.49	0.675324675324675	-0.0989295469103025	2.04686457060457	4.88671803063937
+4	5	images	4 4 4 4 4	a little blonde girl is standing in front of a water fountain.	a young girl standing in front of a fountain	0	0.773584905660377	-2.03357120148795	0.465997214039365	9.90370612706829
+4.4	5	images	2 5 5 5 5	three individuals are posing on skis behind a "no skiing" sign.	three people on skis are standing behind a no skiing sign.	1.2	0.710743801652893	2.70531368736107	1.71046891281861	3.4187750907623
+4.4	5	images	4 5 4 5 4	a yellow car speeds along a snowy field.	a yellow car drives quickly in the snow.	0.49	0.625	-0.0989295469103025	2.52482673437546	5.6379284162156
+4	5	images	4 3 4 4 5	a skier is falling into the snow.	a skier is falling face first into the snow.	0.63	0.857142857142857	0.464040434864847	1.2595947689797	3.50596831578893
+4	5	images	4 4 4 4 4	a girl holds up a yellow balloon animal.	a child holds a yellow balloon.	0	0.788732394366197	-2.03357120148795	0.609861559528322	9.99785750656594
+4	5	images	4 4 4 4 4	a girl in a pink dress rides her bike along a white picket fence.	a girl in a red dress rides her bike in front of a white fence.	0	0.796875	-2.03357120148795	0.68719653252828	10.0513384785065
+3.8	5	images	4 4 3 4 4	woman in black dress with red accessories is walking down the street.	woman in a black dress walking on the street.	0.4	0.754385964912281	-0.453942905204942	1.07346806432814	4.28491967963599
+3.8	5	images	4 4 4 5 2	a brown dog is resting its paws on a laptop keyboard.	a dog sits with its paws on a laptop computer.	0.98	0.707070707070707	1.83571210766735	0.624088055983655	2.52571472363116
+4	5	images	4 4 4 4 4	a dog splashing in the water.	a dog splashes in the murky water.	0	0.825396825396825	-2.03357120148795	0.958084586815991	10.2558538241938
+4	5	images	4 4 4 5 3	a black dog is biting a light brown dogs ear in a playful manner.	a black dog playfully bits another dog in a living room setting	0.63	0.53125	0.464040434864847	1.83559569479467	4.13250876049309
+4.4	5	images	4 5 4 4 5	a boy waves around a sparkler.	a young boy is twisting a sparkler around in the air.	0.49	0.506024096385542	-0.0989295469103027	3.65480879508992	8.32171546559075
+4	5	images	4 4 5 3 4	a dog leaps off a dock and into the water.	the black dog leaps off the dock and into the water.	0.63	0.872340425531915	0.464040434864847	1.40393474980276	3.64645654475286
+3.6	5	images	3 4 3 4 4	four children on stools in a diner.	four children sit on tall bar stools at a yellow and grey bar.	0.49	0.639175257731959	-0.0989295469103027	0.769060371231442	3.57291255507579
+4.4	5	images	3 4 5 5 5	two dogs run side-by-side on the grass.	two dogs running on grass.	0.8	0.707692307692308	1.12568539107807	1.73945069256633	3.71068539929712
+4.4	5	images	4 5 3 5 5	a dog is jumping over a barrier at a agility competition.	a dog jumping over an obstacle course fence.	0.8	0.613861386138614	1.12568539107807	2.63061650744899	5.05032936028786
+4	5	images	4 5 4 4 3	a wet black dog with a red collar is in the river	a black dog with a red collar wading through the water.	0.63	0.75	0.464040434864847	0.241997904177172	2.75736186068079
+4.4	5	images	4 5 4 5 4	a seated young woman in a hat is reading at a coffee shop.	a woman enjoying her reading at a coffee shop	0.49	0.718446601941748	-0.0989295469103025	1.63731102219332	4.37143774432828
+4	5	images	5 3 4 4 4	a snowboarder jumps into the air.	a snowboarder flies through the air.	0.63	0.782608695652174	0.464040434864847	0.551701297812726	2.94638918771638
+4.4	5	images	5 4 4 4 5	a woman sings into a microphone by a guy playing a guitar.	a woman sings into a microphone with a guitar player in the background.	0.49	0.75968992248062	-0.0989295469103027	1.24559966789889	3.96812854204276
+4.2	5	images	4 4 4 4 5	two large dogs running in some grass.	two brindle dogs running in the grass.	0.4	0.826666666666667	-0.453942905204942	0.180330845961035	3.66886339893962
+4	5	images	4 3 5 4 4	a white dog with light brown markings has a stick in his mouth and his paws in the snow.	a white dog holds a stick in its mouth while it runs through snow.	0.63	0.649350649350649	0.464040434864847	0.713926423364602	3.05772143000705
+4.2	5	images	4 4 5 4 4	three children playing on a floor with toys.	three children sitting in floor playing with several toys.	0.4	0.725490196078431	-0.453942905204942	0.780599840487789	4.05193193544947
+4	5	images	4 4 4 3 5	a black dog is running through the snow.	the black and brown dog is running through the snow.	0.63	0.847826086956522	0.464040434864847	1.17110808508383	3.42472389356897
+3.8	5	images	5 2 4 4 4	a small dog runs through an obstacle course.	a small dog jumping over an obstacle.	0.98	0.716049382716049	1.83571210766735	0.709363663060261	2.58522684097415
+4.2	5	images	4 4 5 4 4	a dog carries a leash in its mouth.	a fluffy dog carries a black leash in its mouth.	0.4	0.843373493975904	-0.453942905204942	0.339005120140687	3.7592234786754
+3.6	5	images	5 4 3 4 2	a man and a woman on a bench.	a man and woman sit on a park bench.	1.02	0.830769230769231	1.99370655199724	2.58873768315747	4.78488203892154
+4	5	images	4 4 4 4 4	child holding an object that is on fire.	a child in pink holds an object that appears to be on fire.	0	0.727272727272727	-2.03357120148795	0.0261440237645136	9.65448423034719
+4.2	5	images	4 5 3 5 4	the man in the red shirt is climbing the side of a mountain.	a man is climbing the side of a mountain.	0.75	0.792079207920792	0.921642740084276	0.148165990130994	2.47476109416409
+4	5	images	4 4 4 4 4	man riding a surfboard on a wave.	a man in black on a surfboard riding a wave.	0	0.727272727272727	-2.03357120148795	0.0261440237645136	9.65448423034719
+3.8	5	images	3 4 4 4 4	the man in the backpack looks to his left.	an adult male wearing a backpack walks and looks to the left.	0.4	0.660194174757282	-0.453942905204942	0.178874874377395	3.66806701374356
+5	5	images	5 5 5 5 5	the black and white dog runs through the grass.	a black and white dog is running through grass.	0	0.829787234042553	-1.44936118537247	0.61587716114154	6.62100946295269
+4.8	5	images	5 5 5 4 5	a young boy jumping in the air at the beach.	a boy jumping in the air on the beach.	0.4	0.878048780487805	0.284619443134696	0.990733259737783	3.39340029794888
+4.6	5	images	5 4 4 5 5	two homeless men stand outside with a cardboard sign.	two homeless young men holding a cardboard sign.	0.49	0.752475247524752	0.674322696484045	0.0667218008551269	2.54342500624344
+4.6	5	images	4 5 5 4 5	a black dog running into the water.	a black dog running through water.	0.49	0.869565217391304	0.674322696484045	1.72771087642649	3.88179069068217
+4.6	5	images	4 5 4 5 5	a white fluffy dog is running in pure white snow.	a fluffy, white dog running in the snow.	0.49	0.719101123595506	0.674322696484045	0.578188484316922	2.84471894723679
+5	5	images	5 5 5 5 5	two people are playing golf on a golf course.	two people are on a golf course playing golf.	0	0.711111111111111	-1.44936118537247	2.43461802548694	8.63847715254014
+4.8	5	images	4 5 5 5 5	a group of teenagers are jumping in the air on the beach.	a group of young people jump up in the air while on the beach.	0.4	0.756302521008403	0.284619443134696	0.875058204685948	3.30117586684884
+4.6	5	images	5 4 5 4 5	a black dog and a white dog playing in the street.	a black dog and a white dog play in the street together.	0.49	0.886792452830189	0.674322696484045	1.99172250992498	4.2165561928099
+4.6	5	images	4 4 5 5 5	a man in a black suit is surfing along a crashing wave.	a surfer wearing a black wet suit is riding a a white wave in the ocean.	0.49	0.614173228346457	0.674322696484045	2.18623436739184	4.49306128735267
+4.8	5	images	5 4 5 5 5	a girl bounces upside down on her head on a trampoline.	a girl is bouncing on her head on a trampoline.	0.4	0.843137254901961	0.284619443134696	0.455705516572505	3.00820088386005
+5	5	images	5 5 5 5 5	five men in tuxedos are walking down steps.	five men in tuxedos walk down a set of steps	0	0.804597701149425	-1.44936118537247	1.00191296762782	6.91069104525251
+4.8	5	images	5 4 5 5 5	three dogs running on a racetrack.	three dogs round a bend at a racetrack.	0.4	0.794520547945205	0.284619443134696	0.289357512519171	2.90796875240449
+4.8	5	images	4 5 5 5 5	a boy riding on a swing.	a young boy riding in a swing.	0.4	0.851851851851852	0.284619443134696	0.589258864942529	3.09492922484688
+4.8	5	images	5 5 5 5 4	a black dog emerges from the water with a white ball in its mouth.	a black dog walking out of the water with a white ball in his mouth.	0.4	0.835820895522388	0.284619443134696	0.343580503948417	2.93972923922503
+4.8	5	images	4 5 5 5 5	a little boy jumping from one chair to another.	a young boy jumping from one chair to another in his house	0.4	0.761904761904762	0.284619443134696	0.78920248073379	3.23609288939353
+4.6	5	images	5 4 4 5 5	smiling man with reflective classes.	a gentleman smiling and showing his reflective sunglasses.	0.49	0.702127659574468	0.674322696484045	0.838311008225044	3.03017819875544
+5	5	images	5 5 5 5 5	scuba diver submerged in water.	the scuba diver is underwater.	0	0.721311475409836	-1.44936118537247	2.2782949259194	8.38449586024069
+5	5	images	5 5 5 5 5	two kids are walking on a path in the woods.	two children walking down a path in the woods.	0	0.888888888888889	-1.44936118537247	0.289870281261547	6.41635663762939
+4.6	5	images	5 3 5 5 5	a man climbing a rock-face.	a man is climbing a rock wall.	0.8	0.807017543859649	2.01860007164186	0.769152347450329	2.60183289552894
+4.8	5	images	5 4 5 5 5	boy doing tricks on a skateboard	a boy does a trick on a skateboard.	0.4	0.835820895522388	0.284619443134696	0.343580503948417	2.93972923922503
+4.8	5	images	4 5 5 5 5	a black and white dog is running through the field.	a black and white dog is running in the grass.	0.4	0.804123711340206	0.284619443134696	0.142186664145875	2.82598192307395
+4.8	5	images	5 5 5 5 4	a girl does a back bend on the beach.	a girl doing a back bend at the beach.	0.4	0.88	0.284619443134696	1.02063618017771	3.41812148479541
+5	5	images	5 5 5 5 5	a yellow shirted man wearing a golden sun mask.	a man in a yellow shirt wears a gold, sun-shaped mask.	0	0.712871287128713	-1.44936118537247	2.40764289373696	8.59322089158218
+5	5	images	5 5 5 5 5	a dog jumps over a chain.	a dog leaping over a chain.	0	0.807692307692308	-1.44936118537247	0.954487358839925	6.87201816125362
+5	5	images	5 5 5 5 5	there is a black dog jumping into a swimming pool.	a black dog is leaping into a swimming pool.	0	0.808510638297872	-1.44936118537247	0.941946240406652	6.86194398263254
+5	5	images	5 5 5 5 5	a golden retriever jumping off a wood porch.	a golden retriever is jumping off a wooden porch	0	0.934782608695652	-1.44936118537247	0.993202860449337	6.9035195321646
+4.5	6	images	4 5 4 5 5	children are playing on a trampoline in the snow.	several children and jumping on a trampoline in the snow.	0.49	0.830188679245283	0.674322696484045	1.557750871271	3.68852182925635
+4.6	5	images	5 4 5 5 4	a boy plays with a noodle by the pool.	a boy plays with a foam noodle toy by a pool.	0.49	0.843373493975904	0.674322696484045	1.32631625292046	3.45041370286636
+4.6	5	images	5 5 3 5 5	two brown dogs runs through the water.	two brown dogs running through water.	0.8	0.88	2.01860007164186	1.88762649443129	3.7026031994607
+4.8	5	images	5 5 5 5 4	two dogs running down a beach.	two dogs running on the beach	0.4	0.88135593220339	0.284619443134696	1.04141617573765	3.43551958781507
+5	5	images	5 5 5 5 5	a white dog running on sand.	a white dog runs on the sand.	0	0.842105263157895	-1.44936118537247	0.427100325777529	6.49845764658466
+5	5	images	5 5 5 5 5	two people walking on the beach at sunset.	two people walking along the shore at sunset.	0	0.873563218390805	-1.44936118537247	0.0550005996452994	6.28827396821666
+4.8	5	images	5 5 5 5 4	the group of hikers is resting in front of a mountain.	several hikers rest with their gear in front of a mountain.	0.4	0.707964601769911	0.284619443134696	1.61584874321121	3.99554749690703
+4.6	5	images	4 5 5 5 4	two black dogs are playing on the grass.	two black dogs are playing in a grassy plain.	0.49	0.847058823529412	0.674322696484045	1.3827948375926	3.50600492720698
+5	5	images	5 5 5 5 5	a dog shaking off water.	a dog shaking water off.	0	0.833333333333333	-1.44936118537247	0.561532314597354	6.58453597126324
+5	5	images	5 5 5 5 5	a black dog walking beside a pool.	a black dog is walking along the side of a pool.	0	0.804878048780488	-1.44936118537247	0.997616571012889	6.90714968087157
+4.6	5	images	5 5 4 5 4	children are playing in a swimming pool while two adult men watch them.	children play in a pool while adults look on.	0.49	0.655172413793103	0.674322696484045	1.55791173487908	3.68869709884978
+4.8	5	images	5 5 5 4 5	the woman holding a black purse is smoking a cigarette.	a woman with a black bag is smoking a cigarette	0.4	0.784313725490196	0.284619443134696	0.445779584925157	3.00198333464629
+4.6	5	images	5 4 5 4 5	a man and a dog on rocks on a beach.	a man and dog on a rocky seashore.	0.49	0.742857142857143	0.674322696484045	0.214121627917545	2.62250332932823
+4.6	5	images	5 4 5 5 4	people are standing on an escalator moving up.	people ride up an escalator.	0.49	0.648648648648649	0.674322696484045	1.65789004529681	3.80040200754329
+4.8	5	images	5 5 5 4 5	two women contestants are walking their dogs in a dog show.	two women walk there dogs at a dog show.	0.4	0.747474747474748	0.284619443134696	1.01034601212571	3.40957270676934
+5	5	images	5 5 5 5 5	two dogs are peeing at a red fire hydrant.	two dogs are urinating on the red fire hydrant.	0	0.808988764044944	-1.44936118537247	0.934618845366986	6.85608711621521
+4.8	5	images	5 5 4 5 5	a blonde haired toddler swinging on a tire swing.	a blonde haired child is swinging on a tire swing.	0.4	0.868686868686869	0.284619443134696	0.847259651566439	3.27979654243006
+5	5	images	5 5 5 5 5	a black poodle plays in the snow.	a black poodle frolics in the snow.	0	0.882352941176471	-1.44936118537247	0.189705269984029	6.35988886075706
+5	5	images	5 5 5 5 5	a brown and black dog is jumping to catch a red ball.	a brown and black dog jumps for a red ball.	0	0.833333333333333	-1.44936118537247	0.561532314597354	6.58453597126324
+4.6	5	images	4 5 5 4 5	two gray dogs run together over the green grass.	two grey dogs running in green grass.	0.49	0.729411764705882	0.674322696484045	0.420175365402725	2.7432876277772
+5	5	images	5 5 5 5 5	two puppies playing around in the grass	two puppies play in the grass	0	0.852941176470588	-1.44936118537247	0.261037280764801	6.39981122383199
+4.6	5	images	4 5 4 5 5	man standing on top of jagged rocks near the ocean.	a man is standing on top of rocks overlooking the ocean.	0.49	0.785046728971963	0.674322696484045	0.432444188537119	2.75087944219022
+5	5	images	5 5 5 5 5	a deer jumps a fence.	a deer jumping over a fence.	0	0.816326530612245	-1.44936118537247	0.822165762309263	6.76884241841304
+5	5	images	5 5 5 5 5	two dogs play in the grass.	two dogs are playing in the grass.	0	0.885245901639344	-1.44936118537247	0.23404060284457	6.3845342960726
+5	5	images	5 5 5 5 5	two dogs are running in a grassy field	two dogs running through a grassy field.	0	0.82051282051282	-1.44936118537247	0.75800983671864	6.72122226554086
+4.6	5	images	5 5 5 3 5	the brown and white dog is walking in shallow waters.	a white and brown dog appears to be walking on the water.	0.8	0.618181818181818	2.01860007164186	2.12480173914376	4.02615041826127
+5	5	images	5 5 5 5 5	a dog jumps into the water.	a dog is jumping into the water.	0	0.88135593220339	-1.44936118537247	0.174425861484069	6.35152103481705
+4.6	5	images	4 4 5 5 5	a young girl smiling with her head upside down	a girl poses with her head upside down.	0.49	0.8	0.674322696484045	0.661606756394469	2.90158744178137
+4.6	5	images	4 5 5 5 4	a woman placing a baby on a skateboard on the beach.	a woman holds a small baby on a skateboard at the beach	0.49	0.822429906542056	0.674322696484045	1.00535060818049	3.16263939773418
+5	5	images	5 5 5 5 5	a deer jumps a fence.	a deer is jumping over a fence.	0	0.769230769230769	-1.44936118537247	1.54391992520378	7.42439551083055
+4.8	5	images	5 5 5 4 5	a man and dog on a rocky seashore.	man and dog standing on rocks next to water	0.4	0.597402597402597	0.284619443134696	3.31023873860171	6.98600512152259
+5	5	images	5 5 5 5 5	a man eating an apple, sitting in public.	a man sits in a public place eating an apple.	0	0.627906976744186	-1.44936118537247	3.70974191323841	11.6512655424124
+5	5	images	5 5 5 5 5	woman in red overalls standing on the sidewalk.	a woman in red overalls stands on sidewalk.	0	0.888888888888889	-1.44936118537247	0.289870281261547	6.41635663762939
+4.6	5	images	4 5 4 5 5	two white dogs are walking through deep white snow.	two white dogs walk through a huge bank of mountain snow.	0.49	0.685185185185185	0.674322696484045	1.0979586083806	3.24098618718956
+4.8	5	images	5 4 5 5 5	the man and two young boys jump on a trampoline.	a man and two boys are bouncing on a trampoline.	0.4	0.75	0.284619443134696	0.971645894132126	3.37781266200135
+4.6	5	images	5 4 5 4 5	two asian men and asian woman sit in black massage chairs.	two asian men and a woman are relaxing in massage chairs.	0.49	0.8	0.674322696484045	0.661606756394469	2.90158744178137
+4.6	5	images	4 5 4 5 5	a man crouching and holding a camera.	the crouching man is holding a large camera.	0.49	0.765432098765432	0.674322696484045	0.131845141193373	2.57764539906376
+4.6	5	images	5 4 5 5 4	a young man and woman sitting on a bench outside are kissing.	the man and woman sitting on a bench are kissing.	0.49	0.836363636363636	0.674322696484045	1.21888845550211	3.34891021312325
+4.6	5	images	5 4 5 5 4	two young girls hug each other in the grass.	two young girls holding each other on the grassy ground	0.49	0.828282828282828	0.674322696484045	1.09504807792264	3.23846825014843
+4.8	5	images	5 5 5 5 4	one white boy and one black boy stand with arms around each other.	two young boys, one white and one black, are standing with their arms around each other.	0.4	0.766233766233766	0.284619443134696	0.722859421316212	3.18768061948222
+5	5	images	5 5 5 5 5	a dog swimming with a stick in it's mouth.	dog swimming in the water with a stick in its mouth.	0	0.829787234042553	-1.44936118537247	0.61587716114154	6.62100946295269
+5	5	images	5 5 5 5 5	a dog running through snow.	a dog runs in the snow.	0	0.8	-1.44936118537247	1.0723738721127	6.96986812228169
+4.8	5	images	4 5 5 5 5	two hockey players fighting on the ice.	two hockey players in a struggle on the ice.	0.4	0.819277108433735	0.284619443134696	0.0900428850413243	2.79835078259145
+4.6	5	images	4 5 5 5 4	a little white curly haired dog runs across the pavement with a stick in its mouth.	a white curly haired dog runs with a stick in it's mouth.	0.49	0.8	0.674322696484045	0.661606756394469	2.90158744178137
+5	5	images	5 5 5 5 5	two dogs playing in snow.	two dogs play in the snow.	0	0.862745098039216	-1.44936118537247	0.110789763848523	6.3173499507786
+4.8	5	images	5 5 4 5 5	a black dog is running in the grass.	the black dog is running through the grass.	0.4	0.835443037974684	0.284619443134696	0.337789743802768	2.93629615413666
+4.8	5	images	5 5 4 5 5	a black and white dog is running through the grass.	the black and white dog is running on the grass.	0.4	0.888888888888889	0.284619443134696	1.15686059551513	3.53553757440586
+4.8	5	images	5 5 5 4 5	two dogs are running through a grassy area.	two dogs running through a grassy field.	0.4	0.867469879518072	0.284619443134696	0.828608992292421	3.26561834915914
+5	5	images	5 5 5 5 5	two dogs are running in the field.	two dogs running in a field.	0	0.870967741935484	-1.44936118537247	0.0152242825973856	6.26803323222742
+4.6	5	images	4 5 5 4 5	three children stand on or near a fence.	the three children are standing on and by a fence.	0.49	0.755555555555556	0.674322696484045	0.0195153202926535	2.51930681218449
+4.8	5	images	5 5 4 5 5	the white and brown dog runs across the grass.	a brown and white dog runs across the grass.	0.4	0.777777777777778	0.284619443134696	0.545944596202674	3.0661643407657
+5	5	images	5 5 5 5 5	a white dog runs on a beach.	the white dog is running along the beach.	0	0.72463768115942	-1.44936118537247	2.22732000214738	8.30587654269945
+5	5	images	5 5 5 5 5	a man practicing boxing	a man practices boxing	0	0.888888888888889	-1.44936118537247	0.289870281261547	6.41635663762939
+4.8	5	images	5 4 5 5 5	the dog is running through a field.	a dog runs through a field.	0.4	0.806451612903226	0.284619443134696	0.106510998340016	2.8069995784062
+4.6	5	images	4 5 4 5 5	two brown dogs running together on sand	two brown dogs are running on the sand.	0.49	0.82051282051282	0.674322696484045	0.975970791788525	3.13853245011
+4.6	5	images	5 4 5 5 4	a girl with a black purse sitting on a wooden bench.	a young woman with a black purse sits on a wooden bench.	0.49	0.833333333333333	0.674322696484045	1.17244831390981	3.306691072692
+4.8	5	images	4 5 5 5 5	three people sit at a picnic table outside of a building painted like a union jack.	three people sit at an outdoor table in front of a building painted like the union jack.	0.4	0.830409356725146	0.284619443134696	0.260647336716285	2.89149753866487
+4.6	5	images	3 5 5 5 5	the woman is leading a dog through an obstacle course.	woman leading her small dog through an obstacle course.	0.8	0.862385321100917	2.01860007164186	1.61767719431309	3.37814007869218
+5	5	images	5 5 5 5 5	a black dog with a blue collar is running in the snow.	a black dog wearing a blue collar is running through the snow.	0	0.862068965517241	-1.44936118537247	0.121151661566889	6.32284020571927
+5	5	images	5 5 5 5 5	a man running on a track.	a man running track	0	0.863636363636364	-1.44936118537247	0.0971308986743169	6.31015612086209
+5	5	images	5 5 5 5 5	a girl playing is a pile of colorful balls.	a little girl plays in a pit of colorful balls.	0	0.822222222222222	-1.44936118537247	0.731812833769136	6.70221235123175
+5	5	images	5 5 5 5 5	a man steers a blue boat past brightly colored houses.	a man driving a blue boat passes by some colorful houses.	0	0.720720720720721	-1.44936118537247	2.28734838728432	8.39866989364894
+4.8	5	images	5 5 5 4 5	a young girl is sitting on santa's lap.	a little girl is sitting on santa's lap	0.4	0.846153846153846	0.284619443134696	0.501935521777513	3.0375691407126
+5	5	images	5 5 5 5 5	two boys playing a game of flag football.	two boys are playing flag football.	0	0.815789473684211	-1.44936118537247	0.830396292237008	6.77506288203395
+4.8	5	images	5 5 5 5 4	a dog runs through the grass.	a dog runs across the grass.	0.4	0.842105263157895	0.284619443134696	0.439889988476054	2.99830868404065
+4.8	5	images	5 4 5 5 5	two dogs approach each other in the grass.	two dogs face off of each other on the grass.	0.4	0.804597701149425	0.284619443134696	0.134922653374239	2.82208937948582
+4.6	5	images	5 5 4 5 4	four children are playing on a trampoline.	four kids are jumping on a trampoline.	0.49	0.825	0.674322696484045	1.04473792453097	3.19551842406733
+4.6	5	images	4 5 5 4 5	the man and two young boys jump on a trampoline.	a man and two boys jump on a trampoline.	0.49	0.886363636363636	0.674322696484045	1.98515079177513	4.20767579008854
+5	5	images	5 5 5 5 5	three dogs pulling a man on a bicycle through the snow.	the dogs are pulling a man on a type of bike, through the snow.	0	0.830508474576271	-1.44936118537247	0.604823972013909	6.61351062273815
+4.6	5	images	4 5 5 5 4	a young boy jumping into a lake.	the boy is jumping into a lake.	0.49	0.793650793650794	0.674322696484045	0.564303602582022	2.83548138103722
+4.8	5	images	5 5 5 5 4	four girls in swimsuits are playing volleyball at the beach.	four women in bikinis are playing volleyball on the beach.	0.4	0.796610169491525	0.284619443134696	0.257333546758979	2.88961157165625
+4.6	5	images	5 5 5 4 4	two beige dogs play in the grass.	two tan dogs play in the grass	0.49	0.857142857142857	0.674322696484045	1.53733514070648	3.66639182439084
+4.6	5	images	5 4 5 5 4	two dogs running through tall grass.	two dogs are running through a grassy area.	0.49	0.835443037974684	0.674322696484045	1.20478005805635	3.33598031640656
+4.8	5	images	5 5 5 4 5	a brown dog in running on grass.	a brown dog runs through the grass.	0.4	0.746268656716418	0.284619443134696	1.02882965057041	3.42495991032849
+4.6	5	images	5 3 5 5 5	a white and brown dog is running over grass.	a brown and white dog is running across the grass.	0.8	0.723404255319149	2.01860007164186	0.512241928959932	2.42475029686507
+4.8	5	images	5 5 4 5 5	dalmation running along the beach.	a dalmation runs along a beach.	0.4	0.830769230769231	0.284619443134696	0.266162495231971	2.89464330015857
+4.8	5	images	5 4 5 5 5	a dog leaping over a hurdle.	a dog leaps over the hurdle.	0.4	0.857142857142857	0.284619443134696	0.6703448264529	3.15048192238193
+4.6	5	images	4 5 5 4 5	a black and white spotted dog jumps over a stream.	a black and white spotted dog is jumping over the small stream of water.	0.49	0.80327868852459	0.674322696484045	0.711853466969748	2.9370043471184
+4.6	5	images	5 5 4 4 5	the brown and white dog swims in a swimming pool.	a brown and white dog swims in a backyard swimming pool.	0.49	0.876190476190476	0.674322696484045	1.82924460214382	4.00533379148972
+4.8	5	images	5 4 5 5 5	a bird flies across the water.	a bird flies above the water.	0.4	0.88135593220339	0.284619443134696	1.04141617573765	3.43551958781507
+4.6	5	images	5 4 5 5 4	a woman is eating fish at a restaurant.	a woman eating a large fish in a restaurant.	0.49	0.819277108433735	0.674322696484045	0.957033199294907	3.12318028489602
+4.8	5	images	4 5 5 5 5	three children playing with hay outdoors, throwing some at camera lens.	three young children play in the hay, throwing some at the camera.	0.4	0.788321167883212	0.284619443134696	0.384364541514123	2.96419188216426
+4.8	5	images	5 4 5 5 5	five people standing on a sidewalk	five people on a sidewalk.	0.4	0.833333333333333	0.284619443134696	0.305457999656228	2.9173097114289
+4.6	5	images	5 4 4 5 5	two females jump off of swings.	two girls jump out of swings.	0.49	0.8	0.674322696484045	0.661606756394469	2.90158744178137
+4.8	5	images	4 5 5 5 5	a man is standing on top of a rock or mountain watching the sun set.	a man standing in the mountains watching a sunset.	0.4	0.76271186440678	0.284619443134696	0.776833435757632	3.22694465982463
+4.6	5	images	4 4 5 5 5	a man in a white suit walks down the street holding a newspaper.	a man in a white suit walks outside carrying a newspaper.	0.49	0.809917355371901	0.674322696484045	0.813592674332917	3.01149956415852
+4.6	5	images	5 5 5 4 4	the two dogs are playing in the yard.	two dogs are playing on the grass.	0.49	0.816901408450704	0.674322696484045	0.92062501090929	3.09407048496646
+4.8	5	images	5 5 5 5 4	a man helps a boy ride a bike.	the man helps the boy ride a bike.	0.4	0.875	0.284619443134696	0.944009946550405	3.35550584985645
+4.6	5	images	5 5 3 5 5	hockey goal-keeper laying on the ice in front of net.	a hockey player is laying on the ice in front of the goal.	0.8	0.774774774774775	2.01860007164186	0.275023956112588	2.28025675297389
+4.8	5	images	4 5 5 5 5	one boy is pushing another boy on a swing.	a boy is pushing another boy on the swings.	0.4	0.894117647058824	0.284619443134696	1.23699260453715	3.60843536949967
+4.6	5	images	4 5 5 5 4	a wet child shivers under a towel at a pool.	a wet child is shivering in a towel in front of a pool.	0.49	0.767676767676768	0.674322696484045	0.166245246076561	2.59617644262819
+4.8	5	images	4 5 5 5 5	a black dog running through water.	a black dog is running through some water.	0.4	0.894736842105263	0.284619443134696	1.24648192139501	3.61726302102193
+4.6	5	images	4 5 5 5 4	a white dog is running through the water at a beach	a white dog is running through the water onto the shore.	0.49	0.841121495327103	0.674322696484045	1.29180381800218	3.41720822241858
+5	5	images	5 5 5 5 5	a dog jogs through the grass.	a dog trots through the grass.	0	0.915254237288136	-1.44936118537247	0.693925750482722	6.67515624654312
+4.8	5	images	5 5 5 4 5	the surfer does a flip off of a wave.	a surfer does a flip on a wave.	0.4	0.852941176470588	0.284619443134696	0.605953033488781	3.10618316346442
+4.8	5	images	4 5 5 5 5	two children in a field of red flowers.	two kids are playing in a field of red flowers.	0.4	0.837209302325581	0.284619443134696	0.364858180762663	2.95242954021144
+4.8	5	images	5 5 4 5 5	a man climbing a cliff face.	a man climbs a sheer cliff face.	0.4	0.833333333333333	0.284619443134696	0.305457999656228	2.9173097114289
+4.8	5	images	5 5 5 5 4	a swimmer is doing the backstroke in the swimming pool.	a person doing the back stroke in a swimming pool	0.4	0.846153846153846	0.284619443134696	0.501935521777513	3.0375691407126
+4.6	5	images	3 5 5 5 5	a man in a black leather jacket is sleeping in a subway car.	a man in a black leather jacket falls asleep on public transportation.	0.8	0.738461538461539	2.01860007164186	0.281485349787699	2.28396969891048

@@ -1,0 +1,750 @@
+0	5	headlines	0 0 0 0 0	algerian priest to lecture about christian heritage in n. africa	telstra applies to list china site in ny	0	0.538461538461538	-0.989060169112713	0.560973754628547	5.01248052633057
+0.4	5	headlines	1 0 0 1 0	angela merkel headed for narrow win in german elections	malawi's new president sworn in after disputed elections	0.49	0.522522522522523	0.575398374081694	1.03040471335082	3.23645795440599
+0	5	headlines	0 0 0 0 0	pro-russia rebels to hold vote in ukraine	syria rebels: we killed hezbollah men in lebanon	0	0.51685393258427	-0.989060169112713	0.135297408428815	4.75869571494991
+0.4	5	headlines	0 0 0 0 2	us, china fail to paper over cracks in ties	china: relief in focus as hope for missing fades	0.8	0.527472527472527	1.5656899339301	0.932888124388721	2.80325862312653
+0	5	headlines	0 0 0 0 0	men tried to behead soldier on london street, court hears	australia spied on indonesia president: reports	0	0.5	-0.989060169112713	0.196730141606977	4.79207187338181
+0	5	headlines	0 0 0 0 0	many dead as asylum boat sinks off australia	mandela spends third day in hospital	0	0.5	-0.989060169112713	0.196730141606977	4.79207187338181
+0.4	5	headlines	1 1 0 0 0	iran excluded from syria peace talks: un	many killed in syrian air strike	0.49	0.5	0.575398374081694	1.47410519312838	3.65224778832873
+0.4	5	headlines	1 0 1 0 0	jamaican connection in liverpool's win	japan election: shinzo abe hails landslide win	0.49	0.523809523809524	0.575398374081694	1.00505040022068	3.2153706293265
+0	5	headlines	0 0 0 0 0	food poisoning kills at least 20 children in india	baghdad cafe bombing kills at least 38	0	0.5	-0.989060169112713	0.196730141606977	4.79207187338181
+0	5	headlines	0 0 0 0 0	egyptian military spokesman denounces incitement against army	labor ministry announcement due on monday	0	0.509803921568627	-0.989060169112713	0.00358993276262864	4.69050293355234
+0.4	5	headlines	0 0 2 0 0	no argument with jakarta on boats: abbott	no agreement at iran nuclear talks	0.8	0.506666666666667	1.5656899339301	1.34276985111422	3.16588947485443
+0	5	headlines	0 0 0 0 0	iran dissidents 'killed in iraq'	france loses influence in europe	0	0.5	-0.989060169112713	0.196730141606977	4.79207187338181
+0.4	5	headlines	0 0 0 1 1	obama to sign up for obamacare	obama visits tornado hit oklahoma	0.49	0.507936507936508	0.575398374081694	1.31775359549248	3.49510113770234
+0	5	headlines	0 0 0 0 0	cuba sees "major role" for foreign investment	house set to vote on plan to reopen government	0	0.505494505494505	-0.989060169112713	0.0884867278590457	4.73394305210275
+0	5	headlines	0 0 0 0 0	sony xperia z2 and nokia‚Äôs x series unveiled	court orders political ban on italy‚Äôs berlusconi	0	0.519230769230769	-0.989060169112713	0.182121806510786	4.78404206799232
+0	5	headlines	0 0 0 0 0	italian fugitive arrested in dominican republic	australian icebreaker arrives in east antarctica for new rescue bid	0	0.526315789473684	-0.989060169112713	0.321698840027855	4.86321445333913
+0	5	headlines	0 0 0 0 0	world‚Äôs largest building opened in west china	italy‚Äôs centre-left splinters in presidential vote	0	0.504672897196262	-0.989060169112713	0.104672658886774	4.74243643862938
+0.4	5	headlines	0 0 1 0 1	declines in us stock market moderate	tech sell-off sends asian stock markets lower	0.49	0.617283950617284	0.575398374081694	0.836423971935501	3.08172344481924
+0.2	5	headlines	1 0 0 0 0	news is my business	a new ipad is coming	0.4	0.512820512820513	0.288314882408692	0.582849701955839	3.08785859795982
+0.4	5	headlines	0 0 0 0 2	at least 12 dead in washington ...	at least 150 dead as strong quake hits southwest balochistan	0.8	0.51063829787234	1.5656899339301	1.26452751970153	3.0908096593622
+0.2	5	headlines	0 1 0 0 0	3 dead, 1 hurt in shooting at s carolina oceanfront motel	4 dead, 30 injured in train collision near moscow	0.4	0.566037735849057	0.288314882408692	0.465545626168787	3.01162025801721
+0.4	5	headlines	0 2 0 0 0	a society fraying at the edges	old tv alignments crack at the edges	0.8	0.606060606060606	1.5656899339301	0.615320702551399	2.56918271307035
+0.4	5	headlines	0 0 1 0 1	obama announces creation of twin manufacturing hubs	us stocks retreat on manufacturing data	0.49	0.6	0.575398374081694	0.495924937083982	2.84389258445373
+0.4	5	headlines	0 2 0 0 0	more rain hampers indian flood rescue	us tourist gang-raped in northern india: police	0.8	0.5	1.5656899339301	1.47410519312838	3.29871084792295
+0	5	headlines	0 0 0 0 0	poverty stats doubt modi's development claims	gm to start taking recall compensation claims aug 1	0	0.5	-0.989060169112713	0.196730141606977	4.79207187338181
+0	5	headlines	0 0 0 0 0	italian parliament backs new pm	train derailment kills 4 in new york	0	0.567164179104478	-0.989060169112713	1.12642442346103	5.44501142795677
+0.2	5	headlines	0 0 0 1 0	chinese, russian fms exchange opinions on ukraine crisis	chinese president arrives in argentina for state visit	0.4	0.545454545454545	0.288314882408691	0.0600505736379397	2.78000613386904
+0.4	5	headlines	1 0 0 1 0	3 chinese tourists killed in pakistan	seven kidnappers killed in southern nigeria	0.49	0.5	0.575398374081694	1.47410519312838	3.65224778832873
+0	5	headlines	0 0 0 0 0	iran warns against military intervention in iraq	explosion near damascus military airport	0	0.522727272727273	-0.989060169112713	0.251003978895832	4.82242377968462
+0	5	headlines	0 0 0 0 0	iran threatens to trigger oil price war	man admits threatening to kill prince harry	0	0.634146341463415	-0.989060169112713	2.44599320379985	7.08605936511022
+0	5	headlines	0 0 0 0 0	storm buries northeast; 16 inches of snow in nj	forum urges stable relations for china, japan	0	0.521739130434783	-0.989060169112713	0.231537278004406	4.81144243999582
+0	5	headlines	0 0 0 0 0	5 nations meet on haze	putin's marriage at an end	0	0.5	-0.989060169112713	0.196730141606977	4.79207187338181
+0.2	5	headlines	0 1 0 0 0	fallen us firefighters brought home	wall street ends slightly lower	0.4	0.515151515151515	0.288314882408692	0.53692825369914	3.05747959842519
+0.2	5	headlines	0 0 0 1 0	russian aircraft wreckage found after a year	russia evacuates embassy in libya after attack	0.4	0.555555555555556	0.288314882408691	0.259043516083634	2.88780942069038
+0.2	5	headlines	0 0 0 0 1	italian foreign minister confers with ghana vp	belgian prime minister sends condolences to victims	0.4	0.536082474226804	0.288314882408691	0.124582053373528	2.81379757389421
+0.4	5	headlines	0 1 1 0 0	iran backs proposal for meeting on syria conflict	iran says israel lying about rockets	0.49	0.517647058823529	0.575398374081694	1.12645281720855	3.31881075333742
+0	5	headlines	0 0 0 0 0	ukrainian prime minister resigns amid protests	british prime minister condemns murder of teens	0	0.645161290322581	-0.989060169112713	2.66299101515291	7.47540855219782
+0	5	headlines	0 0 0 0 0	feds move to require car-to-car safety communication	guatemala overturns former dictator's genocide conviction	0	0.513761467889908	-0.989060169112713	0.0743749221837156	4.72659392139369
+0	5	headlines	0 0 0 0 0	rudd sworn in as new australian pm	muslims in hiding as sectarian ...	0	0.5	-0.989060169112713	0.196730141606977	4.79207187338181
+0.4	5	headlines	2 0 0 0 0	eu extends sanctions against russia	nigeria drops arms trafficking charges against russian sailors	0.8	0.536082474226804	1.5656899339301	0.76326957913423	2.67362087810624
+0.4	5	headlines	0 0 0 0 2	five children buried alive in bohol landslide	nine children die in attack in afghanistan attack	0.8	0.51063829787234	1.5656899339301	1.26452751970153	3.0908096593622
+0	5	headlines	0 0 0 0 0	east harlem explosion death toll rises	mexico storm death toll continues to rise	0	0.556962025316456	-0.989060169112713	0.925438919906394	5.27709402880731
+0.4	5	headlines	0 0 0 2 0	prince harry pays tribute to us war dead	us presidents pay tribute to mandela	0.8	0.631578947368421	1.5656899339301	1.11803971504578	2.95790123846882
+0	5	headlines	0 0 0 0 0	italy bus crash death toll rises	starbucks clears college degree path for workers	0	0.525	-0.989060169112713	0.295777390946114	4.84809019976529
+0	5	headlines	0 0 0 0 0	5 things to know about the sochi olympics	7 things to know about ethanol	0	0.732394366197183	-0.989060169112713	4.38150889339359	12.6306631555286
+0	5	headlines	0 0 0 0 0	yemen: fighting in north kills over 120	janet yellen: five things you might not know	0	0.506024096385542	-0.989060169112713	0.0780536277387633	4.72850471954845
+0.2	5	headlines	0 0 0 0 1	lord palumbo offers hope for a relationship with his son james	oscar pistorius sent for mental evaluation: what will it mean?	0.4	0.516129032258065	0.288314882408691	0.517670872172137	3.04494615046967
+0	5	headlines	0 0 0 0 0	suicide bomb kills 4, injures 13 in pakistan	twitter blocks content in pakistan	0	0.564102564102564	-0.989060169112713	1.06610968545223	5.39283657022921
+0.4	5	headlines	0 0 2 0 0	3 dead, 4 missing in central china construction accident	one dead, 8 missing in vietnam boat accident	0.8	0.7	1.5656899339301	2.46595506729634	4.64037534923527
+0.4	5	headlines	1 1 0 0 0	china sacks top economic official	china fm hosts senior asean officials	0.49	0.628571428571429	0.575398374081694	1.05879068857323	3.2603860964178
+0.2	5	headlines	0 0 0 0 1	dozens injured in connecticut train collision	indian minister killed in head-on collision	0.4	0.568181818181818	0.288314882408691	0.507784694140751	3.03855857128503
+0	5	headlines	0 0 0 0 0	red panda‚Äôs short-lived zoo escape	india‚Äôs march to mars	0	0.507462686567164	-0.989060169112713	0.0497129677105318	4.71387433706441
+0	5	headlines	0 0 0 0 0	palestinian president receives jordanian foreign minister	palestinian arrested for sexually harassing young girls	0	0.535714285714286	-0.989060169112713	0.506852047754581	4.97713841800595
+0	5	headlines	0 0 0 0 0	all eyes on new pak army chief raheel sharif	flood alerts in france as river levels rise	0	0.505747126436782	-0.989060169112713	0.0835100191809784	4.73134536615477
+0.4	5	headlines	0 0 0 0 2	philippines defers comment on taiwan fisher attack	bin laden's continuing sway shown in kenya mall attack	0.8	0.5	1.5656899339301	1.47410519312838	3.29871084792295
+0	5	headlines	0 0 0 0 0	two arrests made after protest against nigel farage	kerry vows progress after latest intensive mideast trip	0	0.528301886792453	-0.989060169112713	0.360825555622937	4.88641800514767
+0.2	5	headlines	0 0 0 1 0	obama nominates new transportation secretary	obama to meet embattled veterans secretary	0.4	0.651162790697674	0.288314882408691	2.14253485504636	4.66860241744694
+0	5	headlines	0 0 0 0 0	turkey president appeals for calm	texas house provisionally approves abortion law	0	0.5	-0.989060169112713	0.196730141606977	4.79207187338181
+0	5	headlines	0 0 0 0 0	chinese premier meets indian vice president	hezbollah urges to elect new lebanese president	0	0.533333333333333	-0.989060169112713	0.45994656846381	4.9472727411672
+0	5	headlines	0 0 0 0 0	greek police arrest german on suspicion of spying	israel press bemoans price of talks resumption	0	0.505263157894737	-0.989060169112713	0.0930443452800105	4.73632766259569
+0	6	headlines	0 0 0 0 0	france cleared to impose controversial 'millionaire tax'	manila to increase counter-terror team	0	0.51063829787234	-0.989060169112713	0.0128475318198691	4.69515079779898
+0.4	5	headlines	0 0 2 0 0	syrian forces hit mosque with barrel bomb, kill 5	hunting for clues in boston bombing	0.8	0.5	1.5656899339301	1.47410519312838	3.29871084792295
+0.4	5	headlines	0 0 1 1 0	peace talks with palestinians would take months: israel official	3yo palestinian girl killed in israeli raid	0.49	0.523364485981308	0.575398374081694	1.01381777952736	3.22263229040982
+0.4	5	headlines	0 1 0 0 1	russian coal mines seek new outlets in china	russian foreign minister to meet un chief	0.49	0.588235294117647	0.575398374081694	0.264156686470763	2.70367846730367
+0.4	5	headlines	0 0 2 0 0	at least two killed in southern egypt clash	at least 18 killed in north caucasus train station blast	0.8	0.626262626262626	1.5656899339301	1.01330658744279	2.86867107606349
+0.4	5	headlines	0 0 1 0 1	at least six dead in us shooting rampage	at least 20 dead in somalia attacks	0.49	0.64	0.575398374081694	1.28393698916893	3.46269851487856
+0	5	headlines	0 0 0 0 0	sevens world cup within kenya‚Äôs reach	clash of styles in court opens trial in young man‚Äôs death	0	0.509433962264151	-0.989060169112713	0.0108782425303393	4.69416029539484
+0.4	5	headlines	0 0 0 1 1	kerry call on congress to end shutdown	brazil's congress approves internet legislation	0.49	0.517647058823529	0.575398374081694	1.12645281720855	3.31881075333742
+0	5	headlines	0 0 0 0 0	cameron 'has no concerns' over halal meat	veterans health probe confirms cover-up of care delays	0	0.505263157894737	-0.989060169112713	0.0930443452800105	4.73632766259569
+0.4	5	headlines	0 0 0 2 0	dprk leader calls for better ties with s.korea	north korea urges foreigners to leave south korea	0.8	0.526315789473684	1.5656899339301	0.955676211493549	2.82152820011457
+0.2	5	headlines	0 1 0 0 0	egypt court sentences 10 brotherhood supporters to death - sources	turkish pm tells supporters to prepare for rallies	0.4	0.517241379310345	0.288314882408692	0.495757300089685	3.03082997919241
+0.4	5	headlines	0 1 0 0 1	russia praises idea to render rights assistance to ukraine	russia detains suspected islamist militants in moscow raid	0.49	0.517241379310345	0.575398374081694	1.13444482585039	3.32584309691396
+0.2	5	headlines	1 0 0 0 0	ukrainian president orders 7-day ceasefire in the east	uganda's president museveni agrees to sign anti-gays bill	0.4	0.504504504504504	0.288314882408692	0.746677571412168	3.2021019112614
+0	5	headlines	0 0 0 0 0	poll: cory booker takes early lead for n.j. senate	nigella lawson 'took cocaine every day for a decade'	0	0.509803921568627	-0.989060169112713	0.00358993276262864	4.69050293355234
+0	5	headlines	0 0 0 0 0	thai government says elections feb. 2	philippines government says peace talks with communists have failed	0	0.557692307692308	-0.989060169112713	0.93982570274631	5.28856111725074
+0.4	5	headlines	0 1 1 0 0	yolanda death toll climbs to 3,621	kenya red cross says death toll rises to 68	0.49	0.597402597402597	0.575398374081694	0.444755323312232	2.81152375086748
+0.4	5	headlines	2 0 0 0 0	russian lawmakers pass new bill restricting internet	russia says ballistic 'objects' fired in mediterranean	0.8	0.528301886792453	1.5656899339301	0.916549495898467	2.79028722025304
+0	5	headlines	0 0 0 0 0	nato condemns ukraine crackdown	thai bonds best in region	0	0.5	-0.989060169112713	0.196730141606977	4.79207187338181
+0.4	5	headlines	1 1 0 0 0	james gandolfini dies aged 51	nelson mandela dies aged 95	0.49	0.678571428571429	0.575398374081694	2.04380575367941	4.34095758244191
+0	5	headlines	0 0 0 0 0	blast on indian train kills one	state: no funds for yeshiva that incites violence	0	0.5	-0.989060169112713	0.196730141606977	4.79207187338181
+0	5	headlines	0 0 0 0 0	gm slow on recalls, congress record shows	mobile world congress future smartphone	0	0.55	-0.989060169112713	0.788284923499205	5.17181817558468
+0.2	5	headlines	0 1 0 0 0	hassan rouhani wins iran's presidential election	maduro wins venezuelan presidential vote	0.4	0.590909090909091	0.288314882408692	0.955518814643561	3.36198303391394
+0	5	headlines	0 0 0 0 0	egypt's opposition criticizes president's speech	pakistan's opposition party boycotts presidential elections	0	0.635514018691589	-0.989060169112713	2.47293685727894	7.13213759832602
+0.4	5	headlines	0 0 0 1 1	china's troubled xinjiang hit by more violence	china's online population rises to 618 mln	0.49	0.5	0.575398374081694	1.47410519312838	3.65224778832873
+0	5	headlines	0 0 0 0 0	argentina declares mourning for flood victims	parents demands common forms for nursery admissions	0	0.520833333333333	-0.989060169112713	0.213692802187266	4.8014696773774
+0.2	5	headlines	0 1 0 0 0	french raid wine cellar for austerity auction	us praises ukraine deal; calls for concrete action	0.4	0.547368421052632	0.288314882408692	0.0977544995750199	2.79961698654946
+0.2	5	headlines	0 0 0 1 0	polling stations open at ukrainian presidential election	nominations open for e.tv ghana most influential awards	0.4	0.540540540540541	0.288314882408691	0.0367568037680719	2.76807386675068
+0.4	5	headlines	1 0 0 0 1	france to ban child beauty pageants	facebook to test mobile payments service	0.49	0.506666666666667	0.575398374081694	1.34276985111422	3.51942641526021
+0.4	5	headlines	0 1 0 1 0	obama moves to fill fed board, taps fischer to be no. 2	obama voices willingness to talk with gop on budget	0.49	0.509433962264151	0.575398374081694	1.28825329405174	3.46680390292795
+0.4	5	headlines	0 0 2 0 0	iran ups oil swap with eastern neighbors	iran urges rapid release of diplomat	0.8	0.5	1.5656899339301	1.47410519312838	3.29871084792295
+0.4	5	headlines	0 0 2 0 0	egyptian protesters issue morsi resignation ultimatum	ukraine protesters battle police in new clashes	0.8	0.5	1.5656899339301	1.47410519312838	3.29871084792295
+0	5	headlines	0 0 0 0 0	ukraine hosts ‚Äėunity talks‚Äô	pope hits out at ‚Äėwar to sell arms‚Äô in syria	0	0.505263157894737	-0.989060169112713	0.0930443452800105	4.73632766259569
+0.4	5	headlines	0 0 0 0 2	zoo worker dies after tiger attack	indian-origin teacher dies after attack in new zealand	0.8	0.5	1.5656899339301	1.47410519312838	3.29871084792295
+0	5	headlines	0 0 0 0 0	mumbai indians puts t&t in its place	indonesians vote for president in tight race	0	0.525	-0.989060169112713	0.295777390946114	4.84809019976529
+0	5	headlines	0 0 0 0 0	japan's opposition party chief criticizes abe's economic policies	zimbabwe‚Äôs opposition mdc party challenges robert mugabe‚Äôs election win	0	0.513513513513513	-0.989060169112713	0.0694901462595577	4.7240620904115
+0	5	headlines	0 0 0 0 0	food price hikes raise concerns in iran	american chris horner wins tour of spain	0	0.506329113924051	-0.989060169112713	0.0720446903277131	4.72538536624905
+0.4	5	headlines	0 0 2 0 0	38 killed in rains, flash floods in pakistan	three killed in brazil stadium collapse	0.8	0.506024096385542	1.5656899339301	1.35542867926017	3.17831507621661
+0.4	5	headlines	0 0 0 2 0	puerto rican arrested for production of child pornography	indian guru arrested on suspicion of rape	0.8	0.551020408163265	1.5656899339301	0.468987779754727	2.47321255358613
+0	5	headlines	0 0 0 0 0	china ‚Äėwill protect interests‚Äô of foreign business	obama in ‚Äėdirect‚Äô confrontation with putin on ukraine	0	0.519685039370079	-0.989060169112713	0.191071065127739	4.78895427122329
+0	5	headlines	0 0 0 0 0	global progress seen in ending death penalty	iran diplomat: progress being made in expert-level talks	0	0.52	-0.989060169112713	0.197275884435496	4.79237299137257
+0.2	5	headlines	1 0 0 0 0	israel's peres urges return to peace talks	gonsalves keeps up pressure on dom rep	0.4	0.5	0.288314882408692	0.835417667367679	3.26800402291289
+0.4	5	headlines	1 0 1 0 0	dignitaries pay tribute to paul desmarais	stars pay tribute to james garner	0.49	0.675675675675676	0.575398374081694	1.98675854913658	4.26282502257085
+0	5	headlines	0 0 0 0 0	south africa president: mandela is improving	afghan president delays signing us deal	0	0.578313253012048	-0.989060169112713	1.34606453867981	5.64887844315984
+0.2	5	headlines	0 0 0 1 0	fatah endorses refusal to recognise israel	pakistan denounces latest drone attack	0.4	0.5	0.288314882408691	0.835417667367679	3.26800402291289
+0.2	5	headlines	0 1 0 0 0	israeli doctors could be tried abroad for force-feeding palestinian prisoners	israel's west bank control 'costing palestinian economy billions'	0.4	0.535211267605634	0.288314882408692	0.141745086306989	2.82296994197958
+0.4	5	headlines	2 0 0 0 0	algeria president gets therapy after stroke: state media	bulgarian president tries to break election stalemate	0.8	0.605504587155963	1.5656899339301	0.60436696260026	2.56175322518155
+0.4	5	headlines	0 0 0 0 2	beaten florida teen released in israel	palestinian teen dies of wounds sustained in israeli shooting	0.8	0.505050505050505	1.5656899339301	1.37460872190553	3.19729223894621
+0	6	headlines	0 0 0 0 0	air strikes kills dozens in northern syria	ukraine will not give 'an inch' over crimea	0	0.517647058823529	-0.989060169112713	0.150922234312853	4.76708765162616
+0	5	headlines	0 0 0 0 0	royal hoax dj takes action against station	taliban bombs us base in afghanistan	0	0.512820512820513	-0.989060169112713	0.0558378238048632	4.7170186524073
+0.2	5	headlines	0 1 0 0 0	shankill blast victims to be remembered	crocodile victim's body recovered	0.4	0.527777777777778	0.288314882408692	0.288187075642023	2.90451768158914
+0.4	5	headlines	0 0 2 0 0	birthday of dprk to be celebrated in peru	curiosity rover celebrates 1 year on mars	0.8	0.51219512195122	1.5656899339301	1.23385761627321	3.0621714811212
+0	5	headlines	0 0 0 0 0	moon rocks indicate earth's orb born of collision	indian minister killed in head-on collision	0	0.5	-0.989060169112713	0.196730141606977	4.79207187338181
+0.2	5	headlines	0 0 0 0 1	aso refuses to resign over nazi comments	spanish pm refuses to resign over corruption scandal	0.4	0.652173913043478	0.288314882408691	2.162454269912	4.69782083099073
+0.8	5	headlines	0 0 1 0 3	japan scrambles jets against russian military planes	separatists down ukraine military plane, several dead	1.17	0.552380952380952	1.14818021499651	0.128694454596275	2.38367614425143
+0.8	5	headlines	1 1 1 0 1	russian prime minister on second day of crimea visit	russia warns against setting preconditions for syria	0.4	0.519230769230769	-1.18551804242605	0.255652875730441	5.40873737220066
+0.8	5	headlines	1 1 1 1 0	north korea: experts call for dialogue ‚Äď and say china must play a part	north korea cuts last ties with south by barring joint industrial park	0.4	0.503401360544218	-1.18551804242605	0.439181001103498	5.51794818226802
+1.4	5	headlines	1 4 0 1 1	israel, palestinians seek another meeting monday: u.s. official	palestinians: we don't want kerry mission to fail	1.36	0.535714285714286	1.72773053244016	1.89204882261982	3.75313755623467
+0.6	5	headlines	1 0 0 2 0	glasgow helicopter death toll rises to nine	earthquake death toll rises to 260	0.8	0.623376623376623	0.0328205436379698	1.56099635260725	4.15027150015092
+1	5	headlines	1 0 3 1 0	canada train plot suspects reject charges	canadians released in egypt, not yet heading home	1.1	0.533333333333333	0.932701002840998	0.701315293430094	2.81349055824595
+1.2	5	headlines	1 2 1 2 0	palestinian hunger striker, israel reach deal	palestinian activist detained in israeli raid	0.75	0.6	-0.124553843420991	0.53754299398186	3.44099914776367
+1.2	5	headlines	2 0 2 0 2	5 killed in s china road cave-in	02:41 156 killed in china earthquake	0.98	0.617647058823529	0.58045124131071	0.332940807737089	2.74077435280333
+1	5	headlines	1 2 1 0 1	international forensic teams join kenyan mall carnage probe	arrested briton 'not significant' to kenya attack probe	0.63	0.508771929824561	-0.477494181874382	0.986083248554395	4.24931855412269
+0.6	5	headlines	1 1 0 1 0	iranian president makes debut on world stage	iran presidential candidate says western sanctions should be broken	0.49	0.540540540540541	-0.911702693589685	0.600584545875039	4.83880956914832
+1.4	5	headlines	1 2 2 1 1	iran predicts failure of israeli-palestinian peace talks	tentative deal reached to resume israeli-palestinian talks - us	0.49	0.605042016806723	-0.911702693589685	1.08825451951537	5.21166008055684
+1	5	headlines	2 1 1 1 0	israel approves release of first group of palestinian prisoners ahead of peace talks	syrian opposition confirms participation in peace talks	0.63	0.532374100719424	-0.477494181874382	0.7124367551924	4.03994922300583
+0.6	5	headlines	0 2 0 1 0	taliban kill 15 police in west afghanistan	us drone kills two in eastern afghanistan	0.8	0.650602409638554	0.0328205436379698	1.87665549145461	4.52341626199962
+1.2	5	headlines	3 0 2 1 0	car bomb kills 20 in northwest syria	car bomb kills 40 in northwest pakistan	1.17	0.853333333333333	1.14818021499651	2.39963505744308	4.6367246568582
+0.6	5	headlines	0 1 2 0 0	fourteen killed in brazil bus accident	two killed in arizona skydiving accident	0.8	0.641025641025641	0.0328205436379698	1.76562124971741	4.38539757869748
+1	5	headlines	1 1 1 1 1	ukraine: three killed in parliament protests	ukraine president calls talks to end protests	0	0.629213483146067	-2.40385662849008	0.410331041822395	13.2934990221219
+1.2	5	headlines	2 2 0 1 1	police stop maldives presidential election	keita wins mali presidential election	0.75	0.759493670886076	-0.124553843420991	1.3116463854962	4.05937093739015
+0.6	5	headlines	0 0 0 2 1	typhoon death toll rises to 3633	egyptian death toll rises to 638	0.8	0.8125	0.0328205436379701	3.75371621114496	8.50065896051726
+1.4	5	headlines	1 1 1 1 3	foreign exchange rates in india	foreign exchange rates in singapore	0.8	0.878787878787879	0.0328205436379701	2.08558891790352	4.8048464082594
+1.2	5	headlines	1 2 1 1 1	iran condemns alleged israeli airstrike on syria	democrats face divide over a strike on syria	0.4	0.58695652173913	-1.18551804242605	0.688770696858429	5.6835039194648
+0.6	5	headlines	1 0 1 0 1	syria envoy says no peace talks without opposition	syria: cameron and obama move west closer to intervention	0.49	0.504672897196262	-0.911702693589685	0.184730645399432	4.58532159892016
+1.2	5	headlines	1 1 1 2 1	colourful support at world cup in brazil	merkel to attend world cup final	0.4	0.611111111111111	-1.18551804242605	0.408719395235152	5.49912094427202
+1.2	5	headlines	2 2 2 0 0	death toll 'rises to 17' after typhoon strikes japan	death toll rises to 84 in pakistan floods	0.98	0.580645161290323	0.58045124131071	0.761945391798705	3.02335341393034
+1	5	headlines	1 1 2 0 1	obama signs law aimed at barring iran un envoy	obama urges no new sanctions on iran	0.63	0.51219512195122	-0.477494181874382	0.946394334948221	4.21714771200115
+1.4	5	headlines	0 2 2 3 0	brooks pleads not guilty to hacking charges	dave lee travis pleads not guilty to all charges	1.2	0.725274725274725	1.251159129702	0.3057383977567	2.45134545613404
+1.4	5	headlines	0 2 2 0 3	russia claims to have foiled possible terror act	russia says ballistic 'objects' fired in mediterranean	1.2	0.509803921568627	1.251159129702	2.19245679448715	4.2790297364015
+1	5	headlines	1 1 1 1 1	6.4-magnitude quake strikes off indonesia	6.9-magnitude quake strikes off russia's kuril islands	0	0.736842105263158	-2.40385662849008	1.65819062045697	14.3570156957482
+0.6	5	headlines	0 0 0 0 3	gunmen kill 10 in philippine political violence	five killed in philippines volcano eruption	1.2	0.644444444444444	1.251159129702	1.80525928010101	3.75225238658898
+1.4	5	headlines	1 0 0 3 3	house blaze kills 7 in northern pakistan	us drone strike kills 8 in nw pakistan	1.36	0.666666666666667	1.72773053244016	0.373770694533627	2.38317627259323
+1.2	5	headlines	0 0 2 2 2	coronation street's bill roache arrested	coronation street stars hail 'amazing' new set	0.98	0.627906976744186	0.58045124131071	0.213986048292455	2.67257226512672
+1.4	5	headlines	1 0 1 3 2	syrians protest against erdogan in paris, venezuelans stress support to syria	turkey's erdogan in iran to mend ties after split over syria	1.02	0.525547445255474	0.702309483761673	2.00992443044072	4.22724382166116
+0.6	5	headlines	0 0 3 0 0	india accuses china of crossing de facto border	senate, house on collision course on border money	1.2	0.520833333333333	1.251159129702	0.372096744043885	2.49065341516408
+1.2	5	headlines	2 1 0 1 2	ukraine protest leaders name ministers, russian troops on alert	ukraine refuses to act against russian 'provocation'	0.75	0.591304347826087	-0.124553843420991	0.63836146256624	3.50864299287078
+1	5	headlines	1 1 1 2 0	syrian war seen dragging on for years	syria regime releases hundreds of prisoners	0.63	0.5	-0.477494181874382	1.08778608967022	4.33473025764897
+1.4	5	headlines	2 1 2 1 1	chinese tourist abducted from malaysia	china returns 10 children abducted from vietnam	0.49	0.611764705882353	-0.911702693589685	1.01031082951736	5.14579923719085
+0.8	5	headlines	0 2 0 2 0	seven filipinos slain in yemen attack	syrian soldiers killed in bomb attack	0.98	0.540540540540541	0.58045124131071	0.00858474715697366	2.56394737329583
+1.4	5	headlines	0 0 2 3 2	india, us to hold talks on china next week	egypt to hold more talks with imf on loan next week	1.2	0.623655913978495	1.251159129702	0.872442689682172	2.83302403741739
+1.2	5	headlines	3 1 1 0 1	israel detains 37 palestinians as arrest operation continues	israel criticizes palestinian stance on settlers	0.98	0.611111111111111	0.580451241310709	0.408719395235152	2.78638510360757
+1.4	5	headlines	1 0 3 2 1	118 people killed in twin blasts in nigeria	ten killed in new blast in russia	1.02	0.684210526315789	0.702309483761673	0.170365012301982	2.58435555379204
+1.2	5	headlines	2 0 2 1 1	israeli lightly hurt by stones in west bank	israeli troops kill palestinian in west bank raid	0.75	0.608695652173913	-0.124553843420991	0.43672452539748	3.37668065862932
+1	5	headlines	1 1 2 0 1	google releases nexus 5 phone with kit kat	google redesigns search results on pcs	0.63	0.5	-0.477494181874382	1.08778608967022	4.33473025764897
+0.8	5	headlines	1 0 0 1 2	17 govt employees killed in pakistan bus bombing	at least 78 killed in pakistan church bombing	0.75	0.731182795698925	-0.124553843420991	2.20174517728523	5.13943157332718
+1.4	5	headlines	2 1 1 1 2	ukraine's yanukovych says he does not plan to resign	ukraine opposition demands yanukovich resign	0.49	0.520833333333333	-0.911702693589685	2.06458042808416	6.29604440323828
+0.6	5	headlines	0 0 1 2 0	doha gas blast kills 12, injures dozens	syria missile kills 26, including 8 kids	0.8	0.506329113924051	0.0328205436379698	0.203933027325477	3.07505859625197
+0.8	5	headlines	1 0 1 1 1	suicide bomber kills eight, wounds 13 in afghan capital - police	suicide bomb kills 4 in syrian capital's old city	0.4	0.654867256637168	-1.18551804242605	1.31693336288449	6.20420956961169
+1.4	5	headlines	1 1 2 3 0	ukraine‚Äôs pro-russia protesters demand greater autonomy	sudanese protesters demand the regime's ouster	1.02	0.560747663551402	0.702309483761673	1.60180873866112	3.72299432124297
+1	5	headlines	1 1 1 1 1	china stocks open higher monday	china stocks close lower on thursday	0	0.716417910447761	-2.40385662849008	1.42138997547088	14.1011761082315
+1	5	headlines	1 1 1 1 1	burial of boston bombing suspect appears legal	'ready to go home:' last boston bombing victim leaves the hospital	0	0.535714285714286	-2.40385662849008	0.6737102365558	13.4663068962265
+1	5	headlines	1 0 1 0 3	three bomb attacks kill six soldiers, one civilian	school bomb attack kills two in southern thailand	1.1	0.626262626262626	0.932701002840998	0.376118441542371	2.60039444467821
+0.6	5	headlines	1 0 1 0 1	influential palestinians seek one democratic state	arab league backs palestinian stance in peace talks	0.49	0.554455445544555	-0.911702693589685	0.761915678370247	4.95224207063179
+1.4	5	headlines	4 1 1 0 1	israel ends airstrike case; palestinians critical	israeli gunboats fire at palestinian fishermen	1.36	0.610526315789474	1.72773053244016	1.02466887767489	2.84687046459225
+1.4	5	headlines	2 1 3 0 1	german envoy optimistic about iran-g5+1 talks	iran 'cautiously optimistic' about future nuclear talks	1.02	0.64	0.702309483761673	0.682947331525725	2.90245931143136
+0.8	5	headlines	0 0 0 2 2	one killed, 40 injured in mexico candy factory blast	three killed, 21 injured in two road mishaps	0.98	0.604166666666667	0.58045124131071	0.72910444161218	2.99951489462921
+0.6	5	headlines	1 0 1 1 0	g7 'to intensify russia sanctions'	ukraine fears russian invasion	0.49	0.5	-0.911702693589685	0.130552496393808	4.55601004257629
+1.2	5	headlines	1 1 1 2 1	scores killed in egyptian protests	turkey's pm warns against protests	0.4	0.558823529411765	-1.18551804242605	1.01494809521966	5.93347167179423
+0.8	5	headlines	1 0 1 1 1	obama condemns egypt violence, cancels military exercises	pakistan condemns violence in egypt	0.4	0.521739130434783	-1.18551804242605	0.226570625177255	5.39233303856024
+1.4	5	headlines	4 0 2 1 0	dozens killed in russian plane crash	ten killed in alaska plane crash	1.5	0.794117647058823	2.1547489416481	1.10391176167861	2.85257866438067
+1.2	5	headlines	0 2 3 1 0	protesters gather in brazil despite concessions	protests continue in ukraine despite concessions	1.17	0.8	1.14818021499651	1.78128178345888	3.75390431078725
+1.2	5	headlines	2 1 1 1 1	boston bombing suspect to appear in court	boston bombing suspect buried	0.4	0.714285714285714	-1.18551804242605	0.787499735984277	5.75491128912015
+1	5	headlines	1 0 2 1 1	twelve killed in bomb blast on pakistani train	five killed by bomb blast in east india	0.63	0.705882352941177	-0.477494181874382	1.29923941651878	4.52684238634913
+1.4	5	headlines	2 1 2 1 1	world cup live: france 0-0 germany	world cup live: germany 0-0 ghana	0.49	0.805970149253731	-0.911702693589685	1.24133114049972	5.34872187758942
+1.2	5	headlines	1 1 1 1 2	those refused medical cards urged to contact hse	hse boss defends medical-card plan	0.4	0.536585365853659	-1.18551804242605	1.27278011853624	6.16202865298523
+0.8	5	headlines	1 0 0 1 2	flash floods kill 58 in eastern afghanistan	bomb wounds 16 in eastern afghanistan	0.75	0.7	-0.124553843420991	1.84020798080253	4.6421943498116
+1.4	5	headlines	2 1 2 1 1	pakistan imposes temporary ban on 2 tv channels	pakistan dismisses case against fbi agent	0.49	0.522727272727273	-0.911702693589685	2.04262186011598	6.26538878901138
+1.4	5	headlines	1 1 1 2 2	49 killed, 148 wounded in violent attacks in iraq	2 killed, 11 wounded in attacks in iraq	0.49	0.840909090909091	-0.911702693589685	1.64641755853975	5.76635324840195
+1.4	5	headlines	1 2 2 1 1	egypt's muslim brotherhood refuses to back down	egyptian court sentences muslim brotherhood leader to life in prison	0.49	0.608695652173913	-0.911702693589685	1.04589381842949	5.17554791996626
+1	5	headlines	0 1 1 1 2	iran's nuclear negotiating team leaves for kazakhstan	iran's nuclear quest 'has cost tehran over $100 billion'	0.63	0.532110091743119	-0.477494181874382	0.715497707971016	4.04213629304387
+1	5	headlines	1 2 1 0 1	official of malaysia airlines briefs relatives of missing flight passengers about search progress	malaysia airlines investigating co-pilot on missing flight	0.63	0.529032258064516	-0.477494181874382	0.751182492944948	4.06788181071649
+0.6	5	headlines	1 0 0 2 0	death toll rises to 29 in india's mumbai building collapse	death toll rises to 12 in indonesia mine collapse	0.8	0.803738317757009	0.0328205436379698	3.65213218175942	8.17712349456857
+1.2	5	headlines	0 2 0 4 0	us military presence in east asia	nato ups military presence amid russian threat	1.6	0.683544303797468	2.46949771576602	0.43108001431617	2.32515896738906
+0.8	5	headlines	1 0 0 1 2	muslims prepare for start of ramadan	muslims pray for end to divisions	0.75	0.608695652173913	-0.124553843420991	0.781614060666545	3.61081624748422
+1.2	5	headlines	1 1 1 1 2	boston bombing suspect charged in hospital bed	one week later: boston honors bombing victims; suspect unable to speak	0.4	0.517241379310345	-1.18551804242605	1.49705669499182	6.38626843452242
+1	5	headlines	1 2 0 1 1	palestinian prisoners arrive at muqata in ramallah	pakistani prisoner assaulted in jammu jail	0.63	0.608695652173913	-0.477494181874382	0.172444767634533	3.70207859374082
+1.4	5	headlines	1 3 1 1 1	gunman who held suburban atlanta firefighters hostage now dead, police say	the lede: video: gunman takes firefighters hostage in georgia	0.8	0.577777777777778	0.0328205436379705	1.40435948450729	3.98585916288049
+0.6	5	headlines	0 1 1 0 1	police fire teargas on venezuelan vote protesters	chavez heir maduro wins venezuela's presidency	0.49	0.547368421052632	-0.911702693589685	0.679747838419247	4.89332664154021
+0.8	5	headlines	0 3 1 0 0	donetsk region protesters detain trucks carrying government rocket ammo	come and get me, says thai protest leader as anti-government riots grow	1.17	0.549295774647887	1.14818021499651	0.0929245217450764	2.36477204920873
+0.6	5	headlines	1 1 0 0 1	manchester united ticket sales and profit down	manchester united owner malcolm glazer dies at 85	0.49	0.589473684210526	-0.911702693589685	1.16792147577519	5.28168266524779
+1.2	5	headlines	1 2 1 1 1	snowden 'given refugee document by ecuador'	snowden poised to fly out of moscow	0.4	0.512820512820513	-1.18551804242605	1.54831276876372	6.44114336888999
+1	5	headlines	0 1 2 2 0	thousands of britons claim dole in germany	thousands of white-clad amsterdammers march for mh17	0.89	0.531914893617021	0.320431269560058	0.717760859227546	3.15756153797132
+1.4	5	headlines	0 2 2 2 1	bomb blast rocks shopping mall in nigeria, 12 killed	bomb blasts before indian opposition rally kill 4	0.8	0.534653465346535	0.0328205436379701	1.9043481053856	4.55904944959874
+0.8	5	headlines	0 2 0 1 1	president obama reveals plans to withdraw troops from afghanistan by 2016	us government shutdown: obama tells republicans to lift threat to us economy if they want talks	0.75	0.523809523809524	-0.124553843420991	0.202566227895259	3.23923289264336
+1.4	5	headlines	1 0 2 3 1	eu, myanmar work toward investment protection agreement	china no longer top investment destination: poll	1.02	0.504854368932039	0.702309483761673	2.24984252094199	4.57541409504181
+1.2	5	headlines	2 2 0 1 1	north korea shuns offer of talks	north korea shoots 2 rockets	0.75	0.666666666666667	-0.124553843420991	0.235398598498386	3.25754880467848
+1.3	10	headlines	1 2 1 2 1	the foundations of south africa are built on nelson mandela's memory	australian politicians lament over nelson mandela's death	0.49	0.56	-0.911702693589685	1.30589259598601	5.40974908208888
+1.2	5	headlines	1 0 3 1 1	rebels kill 21 civilians in syria alawite village	bomb kills 18 civilians in afghanistan	0.98	0.620689655172414	0.58045124131071	0.29766456872937	2.72012411681134
+0.6	5	headlines	0 0 0 0 3	implications of palestinian reconciliation	belgian king to address nation amid abdication speculation	1.2	0.52	1.251159129702	0.362434974137882	2.4848487404802
+1	6	headlines	1 1 1 1 1	china manufacturing index at 11-month low: hsbc	china manufacturing expands in september	0	0.64367816091954	-2.40385662849008	0.578036307916521	13.4008867252232
+0.6	5	headlines	0 2 0 1 0	22 killed in mine accident in southwestern china	2 killed, dozens injured by blast in southwest pakistan	0.8	0.640776699029126	0.0328205436379698	1.76273498536909	4.3819110555113
+0.6	5	headlines	1 0 1 1 0	hong kong stocks end higher	indian stocks open higher	0.49	0.730769230769231	-0.911702693589685	2.80611954728697	7.55618313973759
+1.2	5	headlines	3 0 1 1 1	pakistani taliban chief hakimullah mehsud killed in drone strike	pakistani taliban 'elect new chief', vow 'unprecedented' revenge	0.98	0.515625	0.580451241310709	1.51579719696467	3.69343333577802
+1.4	5	headlines	1 2 2 1 1	son of top muslim brotherhood leader killed	egypt arrests muslim brotherhood leader badie	0.49	0.704545454545455	-0.911702693589685	0.0654006648301508	4.5217970407624
+1.2	5	headlines	1 1 2 1 1	syrian civil war in photos	syrian civil war peace talks at risk from iran invitation	0.4	0.530120481927711	-1.18551804242605	1.34773478369007	6.23419137041252
+1	5	headlines	1 1 1 1 1	assad warns turkey of 'heavy price' for backing syrian rebels	cabinet at war over arming syrian rebels	0	0.594059405940594	-2.40385662849008	0.00275031556181324	13.0671468630191
+1.4	5	headlines	1 2 2 1 1	15 dead in iraq attacks, bomb at football pitch	46 dead in iraq attack blitz	0.49	0.666666666666667	-0.911702693589685	0.373770694533627	4.69404524122329
+0.8	5	headlines	1 0 2 0 1	red cross workers released in ukraine	red cross members kidnapped in syria	0.75	0.63013698630137	-0.124553843420991	1.03020754484721	3.80645519252543
+0.8	5	headlines	0 1 1 1 1	u.s factory orders down 0.7 pct in january	german factory orders rebound in january	0.4	0.707317073170732	-1.18551804242605	1.92504303363573	6.89067183458275
+1.2	5	headlines	3 1 1 1 0	two dead, more trapped in latest mumbai building collapse	two are trapped as us building collapses	0.98	0.783505154639175	0.58045124131071	1.59003850284521	3.77412940264083
+0.8	5	headlines	0 1 2 0 1	russia responds to ukraine ceasefire	cyprus probes ukraine assets	0.75	0.59375	-0.124553843420991	0.608332317787142	3.48813726899877
+1.4	5	headlines	1 1 1 3 1	extension likely for iran nuclear talks	oil slips below $108 ahead of iran nuclear talks	0.8	0.620689655172414	0.0328205436379701	0.906833861761382	3.54139237173266
+1.2	5	headlines	0 0 3 3 0	china to investigate eu wine exports	christie investigation heats up	1.47	0.626865671641791	2.0726051762111	0.226059068653999	2.24552247435714
+0.6	5	headlines	0 0 0 0 3	world news update, what you need to know	labour's 50p tax rate: what you need to know	1.2	0.714285714285714	1.251159129702	2.61500761508031	4.98310681931198
+1	5	headlines	1 2 0 1 1	factories that ran on korean cooperation go silent	north and south korea break their silence with talks	0.63	0.529411764705882	-0.477494181874382	0.746782445928932	4.06468242290641
+1	5	headlines	1 1 3 0 0	israeli forces arrest 6 palestinians in overnight west bank raids	israel classifies jerusalem natives as noncitizens	1.1	0.504347826086956	0.932701002840998	1.03737685537803	3.07331245250621
+1.4	5	headlines	1 2 2 1 1	obama condemns killing of 3 israeli teens	bodies of missing israeli teens found in west bank	0.49	0.527472527472527	-0.911702693589685	1.98760478872315	6.19004326373481
+1	5	headlines	1 1 0 2 1	russia says ballistic missiles fired in mediterranean	israel says it carried out joint missile test with us in mediterranean	0.63	0.650406504065041	-0.477494181874382	0.65604555190107	4.00025047316721
+1.4	5	headlines	1 1 2 2 1	philippines holds second senator over corruption	philippines recovering after powerful typhoon	0.49	0.602150537634409	-0.911702693589685	1.12177868725645	5.24078631897912
+1.2	5	headlines	2 1 1 1 1	israel pm accuses iran president of hypocrisy	greek pm accuses coalition of hypocrisy	0.4	0.714285714285714	-1.18551804242605	0.787499735984277	5.75491128912015
+1.2	5	headlines	1 1 1 0 3	us postpones missile test over n korea tensions	embassies staying put in n. korea despite tension	0.98	0.541666666666667	0.580451241310709	1.21386688740208	3.39444203122565
+0.6	5	headlines	1 0 2 0 0	at least 11 killed in india building collapse	at least 66 killed in bomb blasts in iraq	0.8	0.627906976744186	0.0328205436379698	1.61352183080358	4.2083508080899
+0.6	5	headlines	2 1 0 0 0	foreign companies eye new 'opening-up'	more carriers likely in china	0.8	0.507462686567164	0.0328205436379698	0.217075808984881	3.08235936399197
+1.2	5	headlines	2 0 1 2 1	myanmar arrests 44 over sectarian violence	ban warns syria strikes could worsen sectarian violence	0.75	0.65979381443299	-0.124553843420991	0.155713898242691	3.21361101837766
+1	5	headlines	2 1 0 1 1	queen pays tribute to nelson mandela	south africa's rugby fraternity mourns mandela	0.63	0.51219512195122	-0.477494181874382	0.946394334948221	4.21714771200115
+1	5	headlines	2 2 1 0 0	protests for kidnapped girls banned in nigerian capital	scores 'killed' in boko haram raid in nigeria	0.89	0.5	0.320431269560058	1.08778608967022	3.4485363130723
+1.4	5	headlines	1 2 0 1 3	asian markets mixed on china trade data	asian markets slump on central bank stimulus fears	1.02	0.629213483146067	0.702309483761673	0.80800754424163	2.99324936826565
+1	5	headlines	1 1 1 1 1	taiwan's economy grows 2.27% in april-june quarter	china's economic growth rebounds to 7.8% in latest quarter	0	0.62962962962963	-2.40385662849008	0.41515589570804	13.2964644023051
+1.2	5	headlines	1 2 1 1 1	muslim brotherhood banned in egypt	military holds upper hand in egypt	0.4	0.617647058823529	-1.18551804242605	0.332940807737089	5.45351019346777
+1.4	5	headlines	0 4 0 3 0	extremists claim responsibility for niger attacks	greek militant group claims responsibility for golden dawn killings	1.74	0.637931034482759	2.90675814717924	0.706935174050973	2.47864944896702
+0.6	5	headlines	0 0 0 0 3	red-shirt leader calls not to oppose army	oil rig spat: beijing not to send army	1.2	0.506329113924051	1.251159129702	0.203933027325477	2.39351928316972
+1	5	headlines	0 4 0 0 1	10 dead, five injured in sw china road accident	5 hurt in gaza city car accident	1.55	0.531645569620253	2.31474842537778	0.720883435011873	2.53275371529996
+1.4	5	headlines	1 1 2 2 1	us, russia agree on seizure of syria chemical weapons	syrian rebels skeptical of chemical weapons deal	0.49	0.633663366336634	-0.911702693589685	0.756415047246619	4.94822200330107
+1	5	headlines	2 0 1 0 2	abdullah widens lead in afghan presidential poll	explosions heard near afghan presidential palace	0.89	0.6875	0.320431269560058	1.08611213918048	3.44709505873579
+1.4	5	headlines	2 1 3 1 0	search ends for missing asylum-seekers	search narrowed for missing man	1.02	0.666666666666667	0.702309483761673	0.373770694533627	2.70092883590973
+1.4	5	headlines	1 1 1 2 2	fbi audio expert testifies in zimmerman trial	jury selection begins in zimmerman's trial	0.49	0.64367816091954	-0.911702693589685	0.640302278147504	4.86589209459333
+1.2	5	headlines	0 2 2 2 0	russia warns ukraine against eu deal	rebels down ukraine helicopters	0.98	0.507462686567164	0.58045124131071	1.61043207011116	3.7968255301577
+1	5	headlines	0 1 0 2 2	'western' forces attack islamic militant base in somalia	western powers scramble to befriend modi	0.89	0.520833333333333	0.320431269560058	0.84624184202014	3.252554835814
+1.4	5	headlines	2 1 1 0 3	s korea mps to visit kaesong complex	s. korea demands talks with n. korea on closed factory	1.02	0.533333333333333	0.702309483761673	1.91965387949412	4.10668430307794
+0.6	5	headlines	0 0 0 1 2	17:02 23 killed in iraq car bombings	11 children killed in syria bombings	0.8	0.666666666666667	0.0328205436379701	2.06290647759442	4.77285161758617
+2.2	5	headlines	4 2 2 1 2	man dies in co donegal house fire	woman dies in co cork house fire	0.98	0.830769230769231	0.0069389161375008	0.750330405831559	3.44831690585265
+2.2	5	headlines	3 2 1 4 1	trial date set for egypt's muslim brotherhood chief	syria's muslim brotherhood faces uphill battle	1.17	0.597938144329897	0.620300965037526	1.35331856555117	3.50507712674823
+1.6	5	headlines	0 1 2 2 3	nato: 5 americans killed in southern afghanistan	roadside bomb kills 3 policemen in southern afghanistan	1.02	0.640776699029126	0.13859191383433	1.00813128416014	3.52602125493496
+2.2	5	headlines	2 3 1 1 4	bangkok tense on thai election eve	bangladesh: crackdown escalates ahead of election	1.17	0.530120481927711	0.620300965037526	1.96605700153795	4.21032034049166
+2	5	headlines	3 1 1 1 4	china yuan weakens to 6.1535 against usd	china yuan strengthens to new high against usd	1.26	0.720930232558139	0.94515780134425	0.416058841794336	2.61986763505982
+1.6	5	headlines	1 2 2 0 3	three dead, 63 hurt as new york buildings collapse	two dead, nine hurt in french building collapse	1.02	0.721649484536082	0.13859191383433	1.73882388473301	4.25609085395537
+2.4	5	headlines	2 3 1 3 3	gov'ts, groups pledge millions for typhoon relief	canada promises $5-million in typhoon relief	0.8	0.623655913978495	-0.584709392005744	1.77908956560278	5.22849081335926
+2	5	headlines	4 2 2 1 1	ukraine signs eu trade pact as russia finalizes crimea annexation	ukraine's top court dismisses crimea's independence as "unconstitutional"	1.1	0.507246376811594	0.387501905646537	1.51459324687957	3.81125380196186
+1.6	5	headlines	1 1 1 1 4	pakistan fighter jets bomb 'taliban hideouts'	pakistan wants arms supply to syrian sides stopped	1.2	0.505263157894737	0.731557147203451	0.216245261838876	2.59534354125782
+2.2	5	headlines	3 0 3 1 4	israel 'bombs' syria as envoy presses peace talks bid	fierce clashes in east syria as us pushes peace talks	1.47	0.622641509433962	1.61902960941832	1.13012152865378	2.95764552895422
+1.8	5	headlines	1 3 3 1 1	china yuan strengthens to 6.1184 against usd tuesday	china yuan weakens to 6.1510 against usd	0.98	0.760869565217391	0.00693891613750117	1.43504743081196	4.0424372455705
+1.8	5	headlines	2 2 2 2 1	chinese president meets greek pm, calling for stronger partnership	chinese president meets indian vice president	0.4	0.612612612612613	-1.90097593121494	0.0955330617603694	8.74134833533058
+2.4	5	headlines	3 3 2 3 1	mel smith dead at 60 and uk mourns a comedy favourite	griff rhys jones: mel smith was 'a force for life'	0.8	0.466019417475728	-0.584709392005744	3.20334892371399	7.75580245855412
+2.4	5	headlines	4 1 1 3 3	business news and markets: as it happened, april 17, 2013	business news and markets: as it happened, june 20, 2013	1.2	0.884955752212389	0.731557147203452	0.581777036574202	2.81877462677042
+2.2	5	headlines	3 2 2 3 1	49 killed, 148 wounded in violent attacks in iraq	15 killed, 90 wounded in fresh attacks in iraq	0.75	0.8	-0.754733260726406	0.472327748850463	4.39342590224252
+2.2	5	headlines	1 4 2 2 2	prince's christening a blend of old and new	when is prince george's christening? baptism plan, royal baby's godparents and all the details	0.98	0.525547445255474	0.0069389161375008	2.00737478276194	4.7214088027763
+1.6	5	headlines	1 1 1 3 2	pakistani taliban chief killed in us drone strike	funeral for pakistan taliban chief 'set to take place'	0.8	0.58252427184466	-0.584709392005744	0.481815574341556	4.06687312065211
+2.4	5	headlines	3 2 1 2 4	ukraine's opposition chief wants more protests	ukraine protesters topple lenin statue	1.02	0.5	0.13859191383433	2.89633142631982	6.12588513673675
+1.8	5	headlines	2 2 2 1 2	us: assad used chemical weapons on syria rebels	assad agrees to hand over chemical weapons	0.4	0.561797752808989	-1.90097593121494	0.363583584524333	8.89178705128616
+2.4	5	headlines	3 1 2 5 1	quotes from leaders, family at mandela memorial	world unites for mandela memorial	1.5	0.625	1.70777594897132	1.76694563233412	3.60055536802786
+2.33333333333333	6	headlines	2 3 2 3 3	what the papers say, may 20, 2013	what the papers say, nov. 19, 2013	0.49	0.835820895522388	-1.60515177714332	0.357217120027391	7.17416785083117
+2.2	5	headlines	1 3 2 2 3	un inspectors hail progress over syria chemical weapons	u.s. has not concluded syria used chemical weapons -white house	0.75	0.559322033898305	-0.754733260726406	1.70221845787455	5.46928757727312
+2	5	headlines	1 4 2 2 1	earthquake of 6.3 magnitude strikes off indonesia island	earthquake of 6 magnitude strikes thailand	1.1	0.816326530612245	0.387501905646537	1.2779726323634	3.57330976215777
+2.4	5	headlines	1 5 1 1 4	beijing's aircraft carrier returns from south china sea	china sends carrier to south china sea	1.74	0.645161290322581	2.52023035675276	1.58478663330417	3.28911724161014
+1.8	5	headlines	1 1 3 1 3	ships train for syrian chemical weapons transport	un adopts syrian chemical weapons resolution	0.98	0.688172043010753	0.00693891613750117	0.778219040106857	3.46875126007416
+2.4	5	headlines	3 3 2 1 3	egypt poll: 98 per cent vote 'yes' for new constitution	egypt holding key vote on constitution	0.8	0.666666666666667	-0.584709392005744	1.39048370100555	4.7986631532917
+2	5	headlines	2 2 2 1 3	ukraine: nine people die in kyiv clashes	ukraine pressured over kiev clashes	0.63	0.666666666666667	-1.13604233453994	0.0742171617963565	5.15222381781655
+2.2	5	headlines	1 1 3 3 3	china yuan strengthens to new high against usd	china yuan weakens to 6.1705 against usd	0.98	0.720930232558139	0.0069389161375008	0.242074427810262	3.12175201624368
+2.2	5	headlines	3 1 3 3 1	luxembourg pm quits amid spying scandal	luxembourg votes after spying row	0.98	0.638888888888889	0.0069389161375008	0.983325052286667	3.62811734800576
+1.6	5	headlines	2 1 1 1 3	iran's president condemns use of chemical weapons in syria	probe alleged use of chemical weapons in syria	0.8	0.730769230769231	-0.584709392005744	1.82122157945679	5.28030981826906
+2.4	5	headlines	1 2 4 2 3	novice 'steered south korea ferry'	south korea ferry captain arrested	1.02	0.5	0.13859191383433	2.89633142631982	6.12588513673675
+1.8	5	headlines	2 3 1 3 0	suicide bomber kills 13 at restaurant in central somalia	suicide bomber kills at least 4 in kabul	1.17	0.6875	0.620300965037527	0.772147073472525	3.00897541304573
+1.6	5	headlines	1 1 2 3 1	israelis and palestinians aim to negotiate a 'final' peace deal after positive talks	israeli army kills 3 palestinian militants in west bank clashes	0.8	0.517006802721088	-0.584709392005744	0.110140416746914	3.85108421797627
+2.4	5	headlines	3 3 4 1 1	israel sanctions palestinians in new blow to peace talks	israel to release palestinian prisoners as part of deal to revive peace talks	1.2	0.646616541353383	0.731557147203451	1.57163831457719	3.67536277342715
+1.8	5	headlines	0 3 1 2 3	india ink: image of the day: may 21	india ink: image of the day: january 16	1.17	0.891891891891892	0.620300965037527	2.61884546634104	5.241817437948
+2.2	5	headlines	3 3 1 3 1	the note's must-reads for friday may 24, 2013	the note's must-reads for friday, august 23, 2013	0.98	0.893617021276596	0.0069389161375008	1.31816562009082	3.92610367842421
+2.4	5	headlines	3 0 3 3 3	suicide attack kills eight in baghdad	suicide attacks kill 24 people in baghdad	1.2	0.82051282051282	0.731557147203452	0.000470416100070592	2.4813944065086
+2	5	headlines	3 1 2 3 1	deputy speaker faces new sex claims	deputy speaker nigel evans re-arrested	0.89	0.602739726027397	-0.273981012243982	0.651802590684022	3.70046845816922
+2.4	5	headlines	2 2 3 3 2	top diplomats meet in munich at critical time	top diplomats discuss iran's nuclear program	0.49	0.561797752808989	-1.60515177714332	2.33798339333813	9.19736071531779
+1.6	5	headlines	1 3 1 1 2	iran, sextet to resume expert talks	iran upbeat on 'useful' expert-level nuke talks	0.8	0.609756097560976	-0.584709392005744	0.727857471207966	4.23344108575622
+1.8	5	headlines	1 1 2 2 3	russian parliament allows putin to use military in ukraine	russia has no intention to incorporate southeastern ukraine: fm	0.75	0.528925619834711	-0.754733260726406	0.660586144517602	4.51841992386296
+1.8	5	headlines	3 3 1 1 1	faa continues ban on us flights to tel aviv	faa lifts ban on u.s. flights to tel aviv	0.98	0.857142857142857	0.00693891613750117	2.30488493673884	5.15900122654443
+2.4	5	headlines	2 2 4 3 1	cyclone leaves trail of destruction in india	cyclone phailin evacuation kept indian villagers alive	1.02	0.510204081632653	0.13859191383433	2.80413666762711	5.93417938307153
+2	5	headlines	2 1 3 2 2	chinese icebreaker changes course towards suspicious objects	chinese search plane finds 'suspicious objects'	0.63	0.710280373831776	-1.13604233453994	0.319836448566256	5.28783302744359
+1.8	5	headlines	1 2 2 2 2	pro-russia rebels downed malaysian plane: ukraine	russia preparing counterproposals over ukraine	0.4	0.547368421052632	-1.90097593121494	0.493953842943026	8.97257216883283
+2.4	5	headlines	3 2 1 3 3	nigel farage calls on government to let syrian refugees into uk	'no plans' to resettle syrian refugees in the uk	0.8	0.648648648648649	-0.584709392005744	1.55327804968817	4.96862212144051
+2.4	5	headlines	2 2 1 4 3	pakistan's musharraf under arrest in bhutto assassination	pakistan's musharraf arrives at court for first time	1.02	0.642201834862385	0.13859191383433	1.61152556894159	4.10898649598948
+2	5	headlines	2 3 2 1 2	un chemical weapons experts to visit syria	us says chemical weapons used in syria	0.63	0.7	-1.13604233453994	0.226952383266498	5.23458333649137
+2	5	headlines	2 3 2 2 1	car bomb in northern syria kills at least 12	syrian airstrikes kill at least 18 in aleppo	0.63	0.545454545454545	-1.13604233453994	1.1693791438431	5.90885197373696
+2	5	headlines	2 1 3 3 1	the note's must-reads for friday may 24, 2013	the note's must-reads for tuesday october 29, 2013	0.89	0.8	-0.273981012243982	1.13046101845506	4.07504322791641
+2.4	5	headlines	2 2 3 2 3	libya asks un security council for help	kerry calls on un security council to act on syria	0.49	0.606741573033708	-1.60515177714332	1.93191209662416	8.60591346561935
+2.2	5	headlines	2 3 3 2 1	what the papers say, june 25, 2013	what the papers say, aug. 19, 2013	0.75	0.852941176470588	-0.754733260726406	0.950655849832642	4.73558567336104
+2.4	5	headlines	2 3 1 3 3	us makes case for action against syria	saudi urges u.n. action against israel strikes on syria	0.8	0.559139784946237	-0.584709392005744	2.36199836249863	6.05209696033503
+2.4	5	headlines	3 3 3 3 0	chinese president arrives in netherlands for state visit, nuclear summit	chinese president arrives in venezuela for state visit	1.2	0.793650793650794	0.731557147203451	0.243171148385155	2.61044517032301
+1.8	5	headlines	2 1 2 2 2	2 indian traders stranded in china sent back home	46 indian nurses stranded in iraq return home	0.4	0.723404255319149	-1.90097593121494	1.09654512068118	9.42268411279477
+1.8	5	headlines	2 2 2 2 1	obama urges restraint from israelis, palestinians	obama meets israeli, palestinian negotiators	0.4	0.666666666666667	-1.90097593121494	0.583916107808241	9.03146944903753
+2.4	5	headlines	1 3 3 2 3	iran rejects claim on chlorine bombs	iran rejects mko claim on nuclear site	0.8	0.72972972972973	-0.584709392005744	0.820703480616368	4.30181730958729
+1.8	5	headlines	1 2 1 3 2	indian stocks close lower	hong kong stocks close 2.33% higher	0.75	0.6	-0.754733260726406	0.0184229823174671	4.13629812899816
+1.6	5	headlines	1 1 3 2 1	crowds, dignitaries gather for mandela memorial service	obama takes 'selfie' at mandela's funeral service	0.8	0.576923076923077	-0.584709392005744	0.431208294551308	4.03508060516862
+1.6	5	headlines	0 2 2 2 2	death toll in nairobi attack rises to 59	death toll from egypt violence rises to 638	0.8	0.626506024096386	-0.584709392005744	0.879194503843135	4.34655141727374
+1.6	5	headlines	1 2 1 2 2	egypt strongly opposes military action against syria	reactions to the prospect of military action against syria	0.49	0.727272727272727	-1.60515177714332	1.78963036843621	8.42549871036757
+2	5	headlines	3 1 1 2 3	20 killed in bomb attack at pakistani base	8 soldiers killed in bomb attack in nw pakistan	0.89	0.719101123595506	-0.273981012243982	0.399532684369931	3.5363072306977
+2.4	5	headlines	3 2 2 1 4	relief in boston as second suspect captured	police confirm how suspect was captured	1.02	0.609756097560976	0.13859191383433	1.90467560721042	4.46234484101049
+2	5	headlines	2 2 2 2 2	obama made last-minute decision on syria approval	obama mulls limited military action in syria	0	0.559139784946237	-3.21724247042413	1.04573182328943	27.6460545753887
+1.8	5	headlines	3 2 2 1 1	us, russia enter third day of syria talks	us and russia agree syria arms deal in geneva	0.75	0.511627906976744	-0.754733260726406	0.816872473879452	4.63150740200005
+1.6	5	headlines	2 1 3 1 1	'it's either too late or too early to intervene in syria'	un chief: inspectors need 4 days to conclude probe in syria	0.8	0.5	-0.584709392005744	0.263798347901432	3.9354626943223
+1.8	5	headlines	2 1 2 1 3	venezuelan president to visit china	senegalese president to visit china	0.75	0.828571428571429	-0.754733260726406	2.04673961239925	5.90959973769677
+2.4	5	headlines	3 1 1 4 3	attack kills 12 in afghanistan	nato: 3 troops killed in afghanistan attack	1.2	0.63013698630137	0.731557147203451	1.72053251751279	3.84494916050231
+1.6	5	headlines	3 2 1 1 1	singapore stocks end up 0.11 pct	singapore stocks end down 0.45%	0.8	0.761904761904762	-0.584709392005744	2.10253379187814	5.65574318162858
+1.8	5	headlines	1 3 1 2 2	egypt courts hear cases against mubarak, islamists	egypt court temporarily releases mubarak over illicit gains	0.75	0.623853211009174	-0.754733260726406	0.197092838920172	4.23060971161212
+1.6	5	headlines	2 1 1 1 3	chinese shares close higher tuesday	chinese stocks close lower thursday	0.8	0.742857142857143	-0.584709392005744	1.93043690898508	5.4198305384639
+2.2	5	headlines	3 1 3 1 3	singapore shares open 0.31% higher on monday	singapore shares open lower on monday	0.98	0.839506172839506	0.0069389161375008	0.829269431887918	3.50690276878074
+1.8	5	headlines	0 3 3 2 1	thai junta amasses security force to smother bangkok protests	thai junta security forces stay in barracks as protests dwindle	1.17	0.661290322580645	0.620300965037526	0.535340374733587	2.84469859099647
+2.4	5	headlines	3 2 3 1 3	egypt forces set to block access to morsi protest camps	egyptian forces move to clear pro-morsi protest camps	0.8	0.759259259259259	-0.584709392005744	0.553901631386511	4.11357091304579
+2.2	5	headlines	2 3 1 2 3	china stock index futures close lower -- april 23	china stock index futures close higher -- dec. 4	0.75	0.804123711340206	-0.754733260726406	0.509585836899475	4.41723849923321
+2.2	5	headlines	1 2 1 3 4	canadian freight train blast death toll hits three, to rise	canadian government 'monitoring' train blast situation	1.17	0.530973451327434	0.620300965037526	1.95835034935594	4.20004199655419
+2.2	5	headlines	3 3 2 1 2	no update on nelson mandela's condition	nelson mandela's condition improves	0.75	0.702702702702703	-0.754733260726406	0.406761734035706	4.35258322829668
+2	5	headlines	2 1 1 4 2	vietnam detects signals from missing plane	china expands search area for missing plane	1.1	0.611764705882353	0.387501905646537	0.570261118370468	3.00868599289422
+1.6	5	headlines	4 1 1 1 1	china yuan weakens to 6.1059 against usd	china yuan strengthens to 6.1070 against usd friday	1.2	0.769230769230769	0.731557147203452	2.16872490068316	4.43871280102223
+2.2	5	headlines	3 1 3 2 2	at least 6 dead in canada bus, train crash	at least 6 dead in paris train crash	0.75	0.846153846153846	-0.754733260726406	0.889331734322106	4.6870129533999
+1.8	5	headlines	1 3 1 3 1	chinese shares close higher on tuesday	chinese shares close lower on wednesday	0.98	0.831168831168831	0.00693891613750117	2.07020736915739	4.80848323641491
+2.4	5	headlines	1 4 2 2 3	morsi's supporters reject plan	morsi supporters march in egypt	1.02	0.688524590163934	0.13859191383433	1.19299547473483	3.68633165263034
+2	5	headlines	2 3 1 3 1	headlines in major iranian newspapers on dec 14	headlines in major iranian newspapers on july 29	0.89	0.884210526315789	-0.273981012243982	1.89131039545595	4.88968946192104
+2.2	5	headlines	3 1 2 4 1	powerful 7.6 quake strikes off solomons	powerful 6.9 quake strikes off california coast	1.17	0.767441860465116	0.620300965037526	0.178162146696047	2.63095183911512
+2.2	5	headlines	2 0 4 1 4	obama to meet with china‚Äôs xi in california june 7-8	obama to meet ukrainian prime minister at white house	1.6	0.504504504504504	2.04782368641265	2.19749956954457	4.12942789286671
+2.4	5	headlines	1 3 3 2 3	gunmen kill 15 libyan soldiers	gunmen kill 3 lebanese troops near syria	0.8	0.628571428571429	-0.584709392005744	1.73467746679167	5.17503651504532
+2.2	5	headlines	4 3 1 2 1	rescuers scour debris after india buildings collapse	select images from bangladesh building collapse	1.17	0.606060606060606	0.620300965037526	1.27993142242433	3.43419841187717
+2	5	headlines	1 4 2 1 2	6.3-magnitude quake hits honshu, japan: cenc	6.7-magnitude earthquake jolts taiwan: cenc	1.1	0.71264367816092	0.387501905646537	0.341189107255857	2.86476012895248
+1.8	5	headlines	2 2 2 1 2	wave of attacks kills at least 95 in iraq	suicide attack kills at least 12 in northern iraq	0.4	0.711111111111111	-1.90097593121494	0.98547550122538	9.32921381796909
+2	5	headlines	2 3 2 2 1	quotes from leaders, family at mandela memorial	obama shakes hands with cuba's castro at mandela memorial	0.63	0.557692307692308	-1.13604233453994	1.05880990527107	5.81233978136722
+1.8	5	headlines	1 0 2 3 3	ankara protesters clash with police	peru protesters clash with police	1.17	0.882352941176471	0.620300965037527	2.53266022292083	5.08559113945417
+2	5	headlines	0 4 3 0 3	police: explosion in belfast cathedral quarter	explosion in kabul a suicide attack in diplomatic area	1.67	0.52	2.28909551767927	1.39936316007291	3.11446968749768
+2	5	headlines	3 2 2 1 2	us, afghan govt to hold peace talks with taliban	pakistan holds direct talks with taliban	0.63	0.681818181818182	-1.13604233453994	0.0626780859594862	5.14625339831756
+1.6	5	headlines	2 1 2 0 3	protesters swamp streets to reclaim revolution	egypt: protesters storm muslim brotherhood's hq	1.02	0.494623655913978	0.13859191383433	0.312374080976086	3.03962807030872
+1.6	5	headlines	3 1 1 1 2	chinese president meets indian vice president	chinese president meets u.s. state secretary	0.8	0.674157303370786	-0.584709392005744	1.30972792686517	4.7193500681077
+2	5	headlines	2 2 2 1 3	explosions kill 29 outside two mosques in lebanon's tripoli	2 explosions rock city in northern lebanon	0.63	0.534653465346535	-1.13604233453994	1.26696783531261	5.99858154529875
+2.2	5	headlines	3 1 1 3 3	four morsi supporters killed in egypt clashes	thousands of morsi supporters gather in egypt	0.98	0.666666666666667	0.0069389161375008	0.732350431400955	3.43529302054252
+1.6	5	headlines	1 2 1 3 1	didier reynders on syria	obama's day: prime time on syria	0.8	0.5	-0.584709392005744	0.263798347901432	3.9354626943223
+1.6	5	headlines	1 0 2 1 4	classic crossword - saturday 1st june	classic crossword - saturday 20th april	1.36	0.815789473684211	1.24643453690739	2.58938681585192	4.93740492169568
+2.2	5	headlines	1 3 3 3 1	suspected u.s. drone strike kills 5 in pakistan	suspected us drone targets islamic seminary in pakistan	0.98	0.745098039215686	0.0069389161375008	0.0237162077236504	3.00501379245945
+2.4	5	headlines	1 3 1 3 4	u.s. resumes search for missing british sailors after public	us coast guard suspends search for missing british sailors	1.2	0.728813559322034	0.731557147203451	0.828981159362942	2.99475865672504
+1.8	5	headlines	2 3 1 1 2	germany welcomes iran nuclear agreement	syria welcomes iran's nuclear deal	0.75	0.712328767123288	-0.754733260726406	0.996477128442288	4.77286379175689
+1.8	5	headlines	2 0 3 1 3	philip leaves hospital after 11 days	mandela leaves hospital after 10 days	1.17	0.821917808219178	0.620300965037527	1.986623577964	4.23794460747419
+2	5	headlines	5 1 2 1 1	twelve killed in bomb blast on pakistani train	gunmen kill nine in southwest pakistan: police	1.55	0.543478260869565	1.88063591510315	1.1872350457243	2.96301930515209
+1.6	5	headlines	4 1 1 1 1	radio: israel set to increase palestinian prisoner release	us: israel to delay palestinian prisoner release	1.2	0.811320754716981	0.731557147203452	2.5490115541007	5.05809234151797
+2	5	headlines	1 2 3 3 1	bangladesh garment factory fire 'kills 8'	bangladesh garment factory collapse kills 149	0.89	0.813953488372093	-0.273981012243982	1.25653199080695	4.18954744453
+2.2	5	headlines	2 4 1 3 1	syria opposition unity take face specter of collapse	syria divided opposition struggles within wider syrian struggle	1.17	0.521739130434783	0.620300965037526	2.04178323602206	4.3134510565004
+2.2	5	headlines	1 3 2 1 4	chinese shares close higher tuesday	chinese shares close lower on wednesday	1.17	0.783783783783784	0.620300965037526	0.325812835036101	2.71470910431547
+1.8	5	headlines	1 1 1 3 3	tokyo stocks close up 0.13pc	tokyo stocks close 0.75pc down	0.98	0.793103448275862	0.00693891613750117	1.72628334770183	4.36368175097322
+1.8	5	headlines	0 3 1 2 3	all eyes on khurshid‚Äôs trip ...	eu finance ministers‚Äô talks b...	1.17	0.506666666666667	0.620300965037527	0.861697708493458	3.07634554460825
+2.4	5	headlines	3 3 3 1 2	4 killed, 6 injured in attacks in iraq	43 killed, 86 wounded in attacks in iraq	0.8	0.871794871794872	-0.584709392005744	0.46286734553509	4.05487514728032
+2.2	5	headlines	2 3 2 1 3	at least 20 dead in somalia attacks	at least 60 die in iraq prison attack	0.75	0.722222222222222	-0.754733260726406	0.230401189629531	4.24914258362493
+1.6	5	headlines	2 1 2 1 2	egypt arrests muslim brotherhood leader badie	egypt braces for more violence as muslim brotherhood calls 'march of anger'	0.49	0.616666666666667	-1.60515177714332	0.790295059818558	7.46321838352925
+1.8	5	headlines	2 0 3 1 3	iran warns of spillover of possible war on syria	iranian delegation heads to lebanon, syria	1.17	0.533333333333333	0.620300965037527	0.620762072443175	2.90172728696342
+2.2	5	headlines	2 3 2 2 2	stars pay tribute to cory monteith	stars pay tribute to james garner	0.4	0.716417910447761	-1.90097593121494	0.282843647725053	8.84433304919492
+1.8	5	headlines	3 3 1 0 2	colombia strike three times	colombia too slick for greece	1.17	0.607142857142857	0.620300965037526	0.0461133487674299	2.56110709367899
+1.8	5	headlines	2 0 2 3 2	six killed in drone strike in n waziristan	12 killed in bus accident in pakistan	0.98	0.607594936708861	0.0069389161375008	0.0501979266841962	3.01850169671087
+2.2	5	headlines	3 3 2 0 3	gunmen 'kill 10 tourists' in kashmir	gunmen kill four in kenya church attack	1.17	0.613333333333333	0.620300965037526	1.21422170350152	3.37290435292772
+2.4	5	headlines	0 4 1 3 4	car bombs kill 58 in iraqi capital	car bombings kill 13 civilians in iraqi capital	1.62	0.790123456790123	2.12945748721225	0.275040941513499	2.26632697648895
+2.2	5	headlines	0 4 2 3 2	headlines in major iranian newspapers on dec 30	headlines in major iranian newspapers on july 6	1.33	0.893617021276596	1.14831976423239	1.31816562009082	3.25018781688778
+1.8	5	headlines	2 1 2 2 2	shenzhen stock indices close higher monday	shenzhen stock indices close lower -- oct. 31	0.4	0.758620689655172	-1.90097593121494	1.41472864591267	9.72105997359888
+2.2	5	headlines	4 3 1 3 0	arsenal v stoke city ‚Äď live!	tottenham v manchester city ‚Äď live!	1.47	0.746666666666667	1.61902960941832	0.0095435232501041	2.2028739959337
+1.6	5	headlines	1 3 2 1 1	russia warns it may not sign landmark un arms treaty	un closes in on landmark arms treaty	0.8	0.659090909090909	-0.584709392005744	1.17360175353492	4.59269587836942
+2.4	5	headlines	1 2 3 3 3	suicide bomber kills 23 iraqi army recruits	suicide bomber kills 13 iraqi army recruits in baghdad	0.8	0.865979381443299	-0.584709392005744	0.410323888030072	4.02219329409678
+1.8	5	headlines	1 0 3 2 3	today in history, dec. 2	today in history, april 23	1.17	0.8	0.620300965037527	1.78859428805966	3.98339882873786
+1.6	5	headlines	1 3 2 1 1	a look at major terror attacks in east africa	un security council slams deadly terrorist attack in kenyan capital	0.8	0.535714285714286	-0.584709392005744	0.0588833075230546	3.82434876683175
+2.2	5	headlines	1 3 1 2 4	na president‚Äôs message on the world press freedom day	pakistan marks world press freedom day	1.17	0.618556701030928	0.620300965037526	1.1670281253061	3.33010828168243
+3	5	headlines	3 3 3 3 3	bomb attacks kill 20 in baghdad's christian areas	bombs kill 35 in baghdad christian area	0	0.840909090909091	-1.87762040597399	1.25669310402389	9.41243733397422
+3.2	5	headlines	3 4 3 3 3	islamists still holding some 30 hostages as kenya mall standoff continues	death toll rises as kenya mall siege continues	0.4	0.621848739495798	-0.907512449746894	1.15029696140086	5.25554475233629
+3	5	headlines	3 3 3 3 3	headlines in major iranian newspapers on sept 30	headlines in major iranian newspapers on nov 21	0	0.884210526315789	-1.87762040597399	1.6366002428721	9.8045722630426
+3.4	5	headlines	3 4 3 3 4	kerry's plan for restarting talks calls for release of 103 palestinian inmates	kerry plan to include prisoner release, settlement freeze	0.49	0.503703703703704	-0.68948566188868	2.67190185509794	6.7963015389221
+2.8	5	headlines	3 3 3 2 3	death toll in lebanon bombings rises to 47	1 suspect arrested after lebanon car bombings kill 45	0.4	0.547368421052632	-0.907512449746894	0.833645511049092	4.9952839218024
+3.2	5	headlines	3 3 3 3 4	army jets kill 38 militants in nw pakistan air raids	u.s. drone kills 4 militants in pakistan	0.4	0.652173913043478	-0.907512449746894	0.884237653912114	5.03415096051323
+3	5	headlines	4 2 3 3 3	7 killed by shiite al-houthi fighters in northern yemen	at least 5 killed in sectarian conflict in north yemen	0.63	0.587155963302752	-0.343745047009718	0.96962165384202	4.03408683782405
+2.8	5	headlines	2 2 2 5 3	19 killed, 42 wounded in violent attacks in iraq	43 killed, 86 wounded in attacks in iraq	1.17	0.818181818181818	0.950706006809444	1.54234830760384	3.54877171891336
+3	5	headlines	3 3 3 3 3	7 killed in attacks in iraq	16 killed in series of attacks in iraq	0	0.8	-1.87762040597399	0.897775309863419	9.10449737201872
+3.2	5	headlines	3 3 3 3 4	two blasts near iranian embassy in beirut, 7 killed	blast near iran embassy in beirut	0.4	0.785714285714286	-0.907512449746894	0.287384959185899	4.63267934894229
+2.6	5	headlines	1 4 2 2 4	ukrainian protesters back in streets for anti-government rally	ukraine protesters topple lenin statue in kiev	1.2	0.537037037037037	1.03270346270729	0.439234406661149	2.60164293686968
+2.8	5	headlines	3 3 2 3 3	israeli teens missing in west bank	israel finds bodies of three missing teens in west bank	0.4	0.719101123595506	-0.907512449746894	0.673059268064126	4.87823069492748
+3.2	5	headlines	3 3 3 4 3	bangladesh factory owners arrested as death toll nears 350	bangladesh factory owners arrested	0.4	0.739130434782609	-0.907512449746894	0.121320603522711	4.54068824686392
+3.2	5	headlines	3 3 3 3 4	fire at south korean bus terminal kills 5	s korea bus station fire kills seven	0.4	0.571428571428571	-0.907512449746894	1.5926606292737	5.69553919667901
+3.2	5	headlines	4 3 2 3 4	china yuan strengthens to 6.1184 against usd tuesday	china yuan strengthens to 6.168 against usd monday	0.75	0.901960784313726	-0.0627146057813519	1.30727897122608	3.9872480442933
+3.2	5	headlines	3 3 3 3 4	israel forces kill 2 palestinian militants	israeli army kills palestinian militant in raid	0.4	0.764044943820225	-0.907512449746894	0.0972679895663884	4.52798637119407
+3	5	headlines	4 1 4 4 2	iran nuclear talks expected to resume this week	uk: iran nuclear talks at a serious point	1.26	0.613636363636364	1.19013031195455	0.737294641312053	2.74995924082958
+2.8	5	headlines	1 3 5 1 4	east ukraine separatists ask to join russia	crimean parliament votes to join russia	1.6	0.634146341463415	2.00281141893438	0.0722954276438	2.17176431960632
+3	5	headlines	4 5 1 2 3	missing plane search turns to vietnamese islands	missing malaysia airlines plane 'crashes off vietnam'	1.41	0.534653465346535	1.55222916568201	1.4302547389486	3.25622243070869
+3	5	headlines	4 3 2 3 3	suicide bomber kills 20 in iraq	suicide bomber attacks primary school in iraq, kills 15	0.63	0.604651162790698	-0.343745047009718	0.81612671496487	3.91412149173141
+2.8	5	headlines	4 2 1 4 3	police clash with youth in cairo after anti-morsi protest	egypt: police clash with pro-morsi protesters	1.17	0.666666666666667	0.950706006809444	0.213023144046546	2.49885887700387
+3	5	headlines	3 3 3 3 3	man who set himself on fire on national mall has died	man sets himself on fire on national mall, flown to hospital	0	0.778761061946903	-1.87762040597399	0.711434508175387	8.96513267609292
+3	5	headlines	3 3 3 3 3	suicide bomber kills 14 in afghanistan	suicide blast kills 1 in afghan capital	0	0.779220779220779	-1.87762040597399	0.715467858861276	8.96801378727506
+3.4	5	headlines	4 4 2 4 3	president mourns death of mandela	world mourns passing of mandela	0.8	0.6875	0.0625955064801972	1.05935658030496	3.63770918033525
+3	5	headlines	4 4 3 3 1	tamerlan tsarnaev buried in virginia	boston bomb suspect buried in virginia cemetery	1.1	0.578313253012048	0.779129648230075	1.04720358004499	3.14690204305985
+3	5	headlines	3 3 3 3 3	volcano erupts in indonesia -100,000 evacuated and airports closed	volcanic eruption closes 3 airports	0	0.554455445544555	-1.87762040597399	1.25652115321636	9.41227617926713
+3.4	5	headlines	3 5 3 3 3	bangla militants escape from prison van in bomb ambush	bangladesh prison van ambushed	0.8	0.619047619047619	0.0625955064801975	1.65992669884067	4.23255803740592
+3	5	headlines	3 4 3 2 3	winter storm ion: state-by-state...	winter storm janus: state-by-state...	0.63	0.916666666666667	-0.343745047009718	1.92135568580253	5.02368644358004
+3	5	headlines	4 2 5 1 3	jal's first order from airbus is blow to boeing	japan airlines orders 31 airbus a350s valued at $9.5 bn	1.41	0.568627450980392	1.55222916568201	1.13218241048643	2.97314411414618
+3.2	5	headlines	3 4 2 4 3	man held after teen shot in belfast	man, 40, arrested after shooting	0.75	0.567164179104478	-0.0627146057813519	1.63007447183011	4.32398272648704
+3.4	5	headlines	3 4 3 4 3	death toll in bangladesh collapse at 194	at least 200 killed in bangladesh building collapse	0.49	0.637362637362637	-0.68948566188868	1.49923904170737	5.1088850484957
+3.2	5	headlines	4 4 3 1 4	gunmen kill nine tourists in pakistan	gunmen attack hotel in remote pakistani province	1.17	0.564705882352941	0.950706006809444	1.65164245165675	3.67022355244592
+2.8	5	headlines	3 3 4 3 1	'trayvon could have been me'	trayvon martin could have been ...	0.98	0.774193548387097	0.498649082196627	1.15641519560334	3.39019058531626
+3	5	headlines	3 3 3 3 3	police fire tear gas at protesters in bangkok	police fire tear gas at protesters	0	0.860759493670886	-1.87762040597399	1.4308515273507	9.58298592896734
+2.6	5	headlines	3 3 3 3 1	georgians vote for new president	ally of georgia's billionaire pm to be president -exit polls	0.8	0.543478260869565	0.0625955064801972	0.382722032558231	3.15021987360214
+3.4	5	headlines	4 3 4 3 3	philippines typhoon death toll at 4,460: un	philippines typhoon death toll rises above 5,000	0.49	0.769230769230769	-0.68948566188868	0.342287910347615	4.17935191582661
+2.8	5	headlines	3 2 2 3 4	at least 22 dead after china earthquake	at least 89 dead in china earthquakes	0.75	0.842105263157895	-0.0627146057813519	1.75224175448131	4.46628857628058
+2.8	5	headlines	3 4 3 1 3	hot-air balloon catches fire in virginia	hot air balloon 'catches fire and crashes'	0.98	0.780487804878049	0.498649082196627	1.21163814496276	3.44010333810054
+3.4	5	headlines	4 3 3 3 4	hernandez double gives mexico victory	hernandez double gives mexico victory over japan	0.49	0.870588235294118	-0.68948566188868	0.546976488658314	4.3072322588277
+2.6	5	headlines	3 1 4 4 1	iran official: us visa denial to iranian envoy will not affect nuke talks	iranian negotiator upbeat about latest nuclear talks	1.36	0.512	1.4121757332197	0.658898004799195	2.63381458941942
+2.6	5	headlines	4 3 1 1 4	us, nato raise doubts russia pulled back from ukraine border	no sign of russian withdrawal from ukraine border, official says	1.36	0.580645161290323	1.4121757332197	0.0566365190853402	2.27233570319743
+3	5	headlines	3 2 2 4 4	prime minister to seek nuclear deal, investments during japan visit	manmohan hopes to clinch nuclear deal with japan	0.89	0.521739130434783	0.291606929663181	1.54355925138267	3.91067537762036
+2.6	5	headlines	1 2 5 4 1	moscow's crimea success could lead to it redrawing ukraine's eastern border	merkel: russian actions could lead to a catastrophe	1.62	0.507936507936508	2.06297674054191	0.694549239661837	2.54228045207449
+2.6	5	headlines	2 3 4 1 3	france says won't 'shirk responsibilities' in syria	france urges eu to be united on syria	1.02	0.545454545454545	0.595679293572792	0.365383008685745	2.75163203937502
+3	5	headlines	3 3 3 3 3	japanese politician apologizes for sex comment	japan mayor apologizes to u.s., denies wrong words on "comfort women"	0	0.521739130434783	-1.87762040597399	1.54355925138267	9.70154197235789
+2.6	5	headlines	3 3 3 1 3	china stocks open lower on wednesday	china's stocks close lower on monday	0.8	0.805555555555556	0.0625955064801972	1.91662518875428	4.54661654527182
+2.6	5	headlines	2 3 3 3 2	gunmen kill 10 foreign tourists in northern pakistan	islamic militants kill 9 foreign tourists, 1 pakistani	0.49	0.660377358490566	-0.68948566188868	0.642897587069033	4.37181473716125
+2.8	5	headlines	3 1 3 3 4	international weapons experts leave syria, obama to make statement	weapons experts leave syria, u.s. prepares attack	0.98	0.626086956521739	0.498649082196627	0.143004812801842	2.6814713219446
+3.4	5	headlines	3 4 3 3 4	egypt policeman killed in sinai attack	egyptian soldiers killed in sinai attack	0.49	0.846153846153846	-0.68948566188868	0.332600249612241	4.1736178272003
+3	5	headlines	4 4 3 2 2	sienna miller testifies at uk phone hacking trial	sienna miller attacks press for ‚Äėtitillating‚Äô reports at hacking trial	0.89	0.595419847328244	0.291606929663181	0.897118086548904	3.31311606913474
+3.2	5	headlines	0 3 4 5 4	hassoun to mauritanian delegation: conspiracy imposed on syria targets its stances, particularly over palestine	mufti : conspiracy aginst syria targets its stances, particularly towards palestine	1.72	0.752577319587629	2.29497168583171	0.00334374006043137	2.10243751466783
+3.2	5	headlines	4 3 3 3 3	bangladesh collapse search over; death toll 1,127	bangladesh collapse deaths top 620	0.4	0.72289156626506	-0.907512449746894	0.263793064740009	4.61914059384788
+2.6	5	headlines	3 3 4 1 2	india ink: image of the day: april 21	india ink: image of the day: may 2	1.02	0.901408450704225	0.595679293572792	2.75759498119252	5.52131266385785
+3.4	5	headlines	4 4 1 3 5	super typhoon haiyan, strongest of season, slams the philippines	super typhoon haiyan closes in on the philippines	1.36	0.778761061946903	1.4121757332197	0.258673448051704	2.38168594621677
+3.2	5	headlines	3 3 3 3 4	us government shutdown begins - live updates	government shutdown begins over health care feud	0.4	0.717391304347826	-0.907512449746894	0.312049866120061	4.64700568211319
+3.4	5	headlines	3 4 3 3 4	four civilians, three nato soldiers killed in afghanistan	three nato soldiers killed in afghanistan	0.49	0.836734693877551	-0.68948566188868	0.249960883086545	4.12581664367701
+2.8	5	headlines	2 3 3 3 3	egypt's presidential election begins	egypt issues long-waited presidential election law	0.4	0.674418604651163	-0.907512449746894	0.281035129158779	4.62901963016852
+2.8	5	headlines	4 3 3 1 3	glasgow helicopter crash search ends	glasgow helicopter crash: woman pc is victim	0.98	0.725	0.498649082196627	0.724813332016104	3.04413370050553
+2.8	5	headlines	3 4 3 1 3	bangladesh honors factory victims	retailers back bangladesh factory safety pact	0.98	0.538461538461538	0.498649082196627	0.91179045588655	3.18493563575845
+3.2	5	headlines	3 3 3 4 3	iraq army fights to retake tikrit	iraq army claims victory in tikrit	0.4	0.686567164179104	-0.907512449746894	0.582486880250633	4.81624062541737
+2.8	5	headlines	3 4 3 4 0	what the papers say, nov. 20, 2013	what the papers say, oct. 10, 2013	1.47	0.911764705882353	1.68678382628193	2.36340208509511	4.4450286690601
+3.4	5	headlines	3 4 2 4 4	firefighters battle forest fire in sw china	firefighters battling scrub fire in hokianga	0.8	0.758620689655172	0.0625955064801972	0.435375932411044	3.18252243402496
+3	5	headlines	3 4 2 3 3	u.s., allies to add sanctions against russia over ukraine	eu slaps new sanctions on russia over ukraine	0.63	0.725490196078431	-0.343745047009718	0.244060111784655	3.54000710816541
+3	5	headlines	3 3 3 3 3	britain's prince philip set for 'exploratory' surgery	uk's prince philip hospitalized	0	0.5	-1.87762040597399	1.73428851398002	9.91803289419743
+2.6	5	headlines	4 3 2 1 3	turkish pm, president clash over reply to protests	turkish president calls for calm amid nationwide protests	1.02	0.710280373831776	0.595679293572792	1.08072399167004	3.2678161821585
+2.66666666666667	6	headlines	3 4 3 2 3	what the papers say, aug. 19, 2013	what the papers say, dec. 30, 2013	0.63	0.852941176470588	-0.343745047009718	2.17068045798581	5.37066592738129
+3.2	5	headlines	3 3 3 3 4	elbaradei to become egyptian pm	liberal elbaradei named egypt pm, islamists cry foul	0.4	0.506024096385542	-0.907512449746894	2.1664898048678	6.43240060477834
+2.8	5	headlines	3 3 3 2 3	death toll in building collapse in south india mounts to 47	4 killed in building collapse in southern india	0.4	0.735849056603774	-0.907512449746894	0.819998030048178	4.98496663718049
+2.8	5	headlines	2 4 1 4 3	more deaths expected in canada oil train explosion	five dead in canada train crash	1.17	0.592592592592593	0.950706006809444	0.436869158137021	2.63059569999727
+2.8	5	headlines	2 3 4 2 3	air strike kills one man in syria's hama	us drone strike kills eleven in pakistan	0.75	0.6	-0.0627146057813519	0.371879927918664	3.26907288390205
+2.8	5	headlines	5 2 2 3 2	saudi arabia gets a seat at the un security council	saudi arabia rejects seat on un security council	1.17	0.848484848484849	0.950706006809444	1.8082133403153	3.85619273657722
+3.4	5	headlines	3 3 3 3 5	pakistanis vote in landmark election	pakistan holds landmark election as 29 killed in attacks	0.8	0.608695652173913	0.0625955064801972	1.75075015722036	4.33909857660378
+2.8	5	headlines	3 2 2 4 3	us drone strike kills six in pakistan officials	u.s. drone kills 4 militants in pakistan	0.75	0.64367816091954	-0.0627146057813519	0.011332429575784	3.07040522824351
+2.6	5	headlines	1 3 3 3 3	israelis attack 2 palestinians in jerusalem area	settlers beat up palestinian in jerusalem	0.8	0.741573033707865	0.0625955064801975	1.35527158504235	3.9085399349236
+3	5	headlines	3 3 3 3 3	boston bomb suspect charged; religious motive seen	boston bombing suspect charged in hospital bed	0	0.708333333333333	-1.87762040597399	0.0935335859112559	8.58580632911077
+3	5	headlines	3 3 3 3 3	workers killed in india building collapse	76 killed in bangladesh building collapse	0	0.75609756097561	-1.87762040597399	0.512595238081451	8.83006595633085
+3	5	headlines	3 3 3 3 3	news of terrorism and the israeli-palestinian conflict (january 22 ‚Äď 28, 2014)	news of terrorism and the israeli-palestinian conflict (july 31 ‚Äď august 6, 2013)	0	0.87719298245614	-1.87762040597399	1.57503149845471	9.73585815145531
+2.6	5	headlines	4 3 1 2 3	north korea's kim hails execution of powerful uncle	north korean intrigue: the execution of power	1.02	0.708333333333333	0.595679293572792	1.06364154213835	3.2532165134704
+3.4	5	headlines	3 3 4 4 3	ftse bursa malaysia update: 11.30am	ftse bursa malaysia update: 3.00pm	0.49	0.898550724637681	-0.68948566188868	0.792306677410985	4.47878752932684
+3.4	5	headlines	3 3 3 4 4	n korea test-fires 30 short-range missiles	n. korea fires short-range missiles	0.49	0.883116883116883	-0.68948566188868	0.6568971576449	4.38150217718101
+3.2	5	headlines	3 1 4 4 4	quotations in the news	quotations of the day	1.17	0.744186046511628	0.950706006809444	0.07696496105821	2.42570059941504
+2.6	5	headlines	3 3 3 1 3	israel agrees to extend gaza truce by four hours	israel, hamas reportedly agree to 12-hour truce	0.8	0.526315789473684	0.0625955064801972	0.533297766187719	3.24490530100945
+3.4	5	headlines	3 3 3 4 4	uk vote rejects military action	britain rejects syria military action	0.49	0.735294117647059	-0.68948566188868	0.640032686800493	4.36984062449855
+3.4	5	headlines	3 4 3 3 4	boston bombing suspect identified on surveillance video, no arrest	boston bombing suspect was under fbi surveillance, says mother	0.49	0.703125	-0.68948566188868	0.922269922813118	4.57856322149958
+2.6	5	headlines	3 3 3 2 2	car bombs kill at least 16 in iraqi capital	car bombs kill at least 47 in baghdad area	0.49	0.752941176470588	-0.68948566188868	1.45501050940919	5.06260061514817
+3.4	5	headlines	3 4 4 2 4	china sends largest fleet yet to disputed islands	china ships enter waters off disputed islands	0.8	0.702127659574468	0.0625955064801972	0.931020134993448	3.53214977777332
+3	5	headlines	3 3 3 3 3	6 killed by hot lava as indonesia volcano erupts	five dead in indonesian eruption	0	0.55	-1.87762040597399	1.29561121000612	9.44927070541682
+3.4	5	headlines	3 5 4 2 3	syria agrees to surrender chemical weapons	syria fm: we will stop producing chemical weapons	1.02	0.659340659340659	0.595679293572792	1.30641385314741	3.47288170860192
+3.4	5	headlines	2 4 4 4 3	malaysians vote in polls for stability or change	malaysia elections: malaysians vote with power at stake for first time	0.8	0.508474576271186	0.0625955064801972	2.63004438478781	5.66415699437219
+3	5	headlines	3 3 3 3 3	turkish riot police tear gas taksim square protest	turkish riot police enter taksim square	0	0.831460674157303	-1.87762040597399	1.17379698427397	9.33633071974626
+3	5	headlines	5 3 2 2 3	former pakistan president pervez musharraf arrested again	former pakistan military ruler pervez musharraf granted bail	1.1	0.735042735042735	0.779129648230075	0.327869752563984	2.63694274735728
+3.2	5	headlines	4 3 3 3 3	death toll in india building collapse hits 42	toll from india building collapse hits 25	0.4	0.837209302325581	-0.907512449746894	0.739178860288594	4.92529067672149
+3.4	5	headlines	3 4 3 3 4	us military deaths in afghanistan at 2,153	u.s. military deaths in afghanistan	0.49	0.857142857142857	-0.68948566188868	0.429012843892221	4.23194043237459
+3	6	headlines	2 3 3 4 2	syrian opposition agree to landmark peace talks	syria opposition pressed to attend talks	0.75	0.758620689655172	-0.0627146057813519	0.534732023816047	3.37124149027642
+2.6	5	headlines	2 3 2 2 4	latest anti-muslim violence in burma kills 1, injures 10	world briefing | asia: myanmar: deadly anti-muslim violence flares up	0.8	0.48	0.0625955064801972	0.939651479342496	3.53903874905776
+3	5	headlines	3 3 3 2 4	india ink: image of the day: july 2	india ink: image of the day: march 4	0.63	0.845070422535211	-0.343745047009718	1.29320273879764	4.31926071382861
+3.2	5	headlines	3 3 3 4 3	4 egyptian soldiers killed in sinai ambush	3 egyptian soldiers killed in sinai car bombing	0.4	0.853932584269663	-0.907512449746894	0.885901345025098	5.03544585121829
+3.4	5	headlines	4 3 3 4 3	ukraine protesters rebuild barricades	putin speaks on ukraine, protesters rebuild barricades	0.49	0.813186813186813	-0.68948566188868	0.0433624667723027	4.01460833223985
+3	5	headlines	3 3 3 3 3	iraqi bomb attacks kill at least 13	iraqi car bomb near church kills at least 14	0	0.734177215189873	-1.87762040597399	0.320276074252199	8.71160159120846
+3	5	headlines	2 3 3 4 3	bomber strikes near pakistan army hq	bombing outside restaurant in pakistan wounds 15	0.63	0.547619047619048	-0.343745047009718	1.31650060543345	4.34162904351731
+3.4	5	headlines	3 3 4 4 3	‚Äėglee‚Äô star cory monteith found dead in hotel room	cory monteith found dead: canadian ‚Äėglee‚Äô star was 31	0.49	0.488188976377953	-0.68948566188868	2.80802103020095	7.06418641660408
+3.4	5	headlines	4 3 3 2 5	top chinese political advisor meets greek pm	top chinese political advisor meets yemeni president	1.02	0.833333333333333	0.595679293572792	0.220118889618932	2.66753244955789
+3.2	5	headlines	4 3 3 3 3	tornadoes level homes in oklahoma, 1 dead	tornadoes hit kan., okla.; no injuries reported	0.4	0.522727272727273	-0.907512449746894	2.01994371755998	6.22367408778796
+2.8	5	headlines	3 3 1 3 4	north korea test fires 30 missiles into the sea	n korea 'fires 100 shells' into the sea	0.98	0.744186046511628	0.498649082196627	0.893142995168882	3.17029501679393
+3.2	5	headlines	4 3 3 4 2	china's anger at n. korea overcomes worry over us	china's anger at north korea overcomes worry over u.s. stealth flights	0.75	0.80672268907563	-0.0627146057813519	0.471703154132919	3.33070932490491
+2.8	5	headlines	4 3 3 3 1	hague 'concerns over conduct' of zimbabwe election	zimbabwe: 'grave concerns' over election	0.98	0.577777777777778	0.498649082196627	0.566847618573734	2.93501830699103
+3.4	5	headlines	5 2 3 3 4	us delays missile test as tensions rise	william hague: us decision to halt missile test 'sensible'	1.02	0.536082474226804	0.595679293572792	2.38782521991667	4.85115548725331
+2.8	5	headlines	3 3 2 3 3	four more people arrested over australia's largest illegal tobacco importation syndicate	police target illegal tobacco syndicate	0.4	0.582677165354331	-0.907512449746894	0.523862615909624	4.77758761460543
+3.4	5	headlines	3 5 3 3 3	wreckage of air algerie plane carrying 116 people found in mali	wreckage from airalgerie flight ah5017 found in mali	0.8	0.71304347826087	0.0625955064801975	0.835249696753076	3.45767430278014
+2.6	5	headlines	3 3 2 2 3	car bomb kills 37 in northwest pakistan	bomb kills three in northwest pakistan	0.49	0.857142857142857	-0.68948566188868	2.3692287563464	6.26211616941857
+2.6	5	headlines	1 3 3 2 4	feds drop 'morning-after pill' appeal	us to allow morning-after pill for girls of any age	1.02	0.568181818181818	0.595679293572792	0.16598423415215	2.63772126364506
+2.8	5	headlines	3 3 3 1 4	islamic militants kill 9 foreign tourists, 1 pakistani	gunmen kill 11 foreign tourists in pakistan	0.98	0.721649484536082	0.498649082196627	0.69541743020342	3.02317036923009
+3	5	headlines	3 3 3 3 3	gunmen kill eight in second kenya attack	gunmen 'kill 15' in second kenya attack	0	0.886075949367089	-1.87762040597399	1.6529666179704	9.82319673208455
+3	5	headlines	3 3 3 3 3	hijacker arrested after plane lands at geneva airport	hijacked aircraft lands in geneva	0	0.651162790697674	-1.87762040597399	0.408054804291467	8.7642604780852
+3.2	5	headlines	4 4 1 5 2	chinese news agency slams delays in search for jet	ten chinese vessels on standby for jet search	1.47	0.568421052631579	1.68678382628193	1.61904723402401	3.43195130275801
+3.2	5	headlines	4 3 3 3 3	one dead in philadelphia building collapse, others pulled from rubble	six confirmed dead after philadelphia building collapse	0.4	0.645161290322581	-0.907512449746894	0.945763222491905	5.08276174003208
+2.8	5	headlines	3 4 3 3 1	tokyo stocks open down 0.24%	tokyo stocks open up 0.52%	0.98	0.851851851851852	0.498649082196627	1.83775389950546	4.11382449904351
+3.4	5	headlines	4 3 4 3 3	austrian found hoarding 56 stolen skulls in home museum	stolen skulls found in home museum	0.49	0.629213483146067	-0.68948566188868	1.57073602173522	5.1859042718213
+3	5	headlines	4 2 3 2 4	headlines in major iranian newspapers on april 5	headlines in major iranian newspapers on august 18	0.89	0.877551020408163	0.291606929663181	1.57817276092499	3.94844640577062
+3.2	5	headlines	3 4 3 3 3	chinese envoy rebuts vietnamese, philippine accusations over south china sea	china's xi tells vietnam wants peace in south china sea	0.4	0.625954198473282	-0.907512449746894	1.11427752788449	5.22382090851989
+3.2	5	headlines	3 3 4 3 3	death toll from egypt protests rises to 49	death toll from egypt violence rises to 638	0.4	0.8	-0.907512449746894	0.412721331749873	4.70734678951848
+2.6	5	headlines	3 3 2 3 2	one dead in us building collapse	six killed in us building collapse	0.49	0.818181818181818	-0.68948566188868	2.02740228571739	5.74847205810741
+2.6	5	headlines	4 4 3 1 1	tropical storm karen targets us gulf coast	tropical storm karen weakens as it nears u.s. gulf coast	1.36	0.795918367346939	1.4121757332197	1.83207287392937	3.74297701349948
+3.2	5	headlines	3 4 3 3 3	china sets bo xilai trial date	china bo xilai trial in fourth day	0.4	0.71875	-0.907512449746894	0.300129287207727	4.64005968655454
+2.8	5	headlines	1 5 4 2 2	pregnant sudan woman who married a christian man sentenced to death for 'apostasy'	sudan frees christian woman sentenced to death for apostasy	1.47	0.765957446808511	1.68678382628193	1.08415537888835	2.90468982409308
+2.8	5	headlines	3 1 3 3 4	philippine quake death toll climbs to 73	death toll in philippines quake jumps to 85	0.98	0.55421686746988	0.498649082196627	0.77356035083453	3.07958340921461
+3.2	5	headlines	3 4 3 3 3	us drone strike kills 11 in pakistan	us drone kills 16 in pakistan	0.4	0.861538461538462	-0.907512449746894	0.952631859717758	5.08828196051489
+3	5	headlines	4 4 3 3 1	singapore stocks end up 0.37 pct	singapore stocks close 0.41 pct higher	1.1	0.714285714285714	0.779129648230075	0.145757074479578	2.53440504311232
+4.2	5	headlines	3 5 4 4 5	imran blames rival for colleague murder	pakistans imran blames rival for killing party member	0.75	0.652173913043478	0.131490724321839	1.37095429494877	3.86150602101443
+4	5	headlines	4 4 4 4 4	palestinian diplomat injured in explosion in prague	palestinian ambassador injured in apartment blast	0	0.6	-2.67828417885944	1.10066325602812	17.2939172502008
+3.6	5	headlines	3 4 3 4 4	transcript reveals confusion over evacuation of south korean ferry	transcript reveals confusion over ferry evacuation	0.49	0.758620689655172	-0.838854724628665	1.86251988836834	5.85142014756599
+4.4	5	headlines	5 4 5 5 3	iranian nuclear talks to be extended to november	iran nuclear talks extended to november 24	0.8	0.866666666666667	0.325491541614922	0.145880783475794	2.79783870504958
+3.6	5	headlines	4 5 1 4 4	putin signs crimea annexe treaty	09:32 putin signs off crimea annexation	1.36	0.732394366197183	2.4148653540298	1.62090952295315	3.33830985379355
+4.2	5	headlines	5 3 5 4 4	tehelka editor embroiled in sex assault scam	tehelka editor steps down after allegations of sexual misconduct	0.75	0.555555555555556	0.131490724321839	2.26105224161163	4.97407302583379
+4.4	5	headlines	4 3 5 5 5	supreme court takes on affirmative action in michigan ban case	supreme court to hear michigan affirmative action case	0.8	0.724137931034483	0.325491541614922	1.45892871996674	3.7961416977423
+4	5	headlines	4 4 4 4 4	stocks to watch at close on monday	stocks to watch on monday	0	0.847457627118644	-2.67828417885944	1.17904353584011	17.3632152382819
+4.2	5	headlines	4 4 5 4 4	belgian king albert ii to step down in favor of son	belgium king albert ii 'to abdicate'	0.4	0.620689655172414	-1.17639631862226	1.66100345343029	6.53713722955363
+4.4	5	headlines	4 4 5 4 5	pictures show completed costa concordia operation	timelapse of costa concordia operation	0.49	0.71264367816092	-0.838854724628665	1.56481968258698	5.50045122409542
+4	5	headlines	3 5 3 4 5	australia leader ousted in snap leadership vote	australian pm gillard ousted in leadership vote	0.89	0.829787234042553	0.6800391712126	1.01625479669475	3.16877283381861
+4.2	5	headlines	4 5 4 4 4	body of missing south korean shipping tycoon found in field	sewol ferry disaster: body of south korean shipping tycoon found	0.4	0.682926829268293	-1.17639631862226	1.08764263143778	5.96524439242544
+4	5	headlines	4 4 3 4 5	17 killed in us drone attack on yemen wedding party	u.s. drone mistakenly kills 14 in yemen wedding convoy	0.63	0.571428571428571	-0.303590964606376	1.36387793454129	4.33242354587574
+3.6	5	headlines	3 4 4 4 3	mandela remains in hospital	mandela remains in 'intensive care'	0.49	0.709677419354839	-0.838854724628665	1.41162933785636	5.33921173900296
+4	5	headlines	5 3 5 4 3	powerful quake strikes off eastern indonesia	6.6-mag quake strikes off eastern indonesia	0.89	0.827586206896552	0.6800391712126	0.995977803852581	3.15200601038625
+3.6	5	headlines	3 5 3 4 3	fire kills 38 in russian psychiatric institution	38 feared dead in russian psychiatric hospital fire	0.8	0.646464646464647	0.325491541614922	0.829280798558746	3.23599855843593
+3.8	5	headlines	3 3 3 5 5	australia cuts rates to record low	australia cuts interest rate to record low 2.75%	0.98	0.804878048780488	1.00057472960211	1.53772251513607	3.52497630681158
+4.4	5	headlines	4 5 5 5 3	stocks rise in early trading	stocks inch higher in early trading	0.8	0.825396825396825	0.325491541614922	0.526079763550362	3.02305088791661
+4	5	headlines	4 4 4 5 3	uk's ex-premier margaret thatcher dies at 87	former british pm margaret thatcher dies	0.63	0.642857142857143	-0.303590964606376	0.70584123825838	3.77793297908969
+3.8	5	headlines	4 4 3 4 4	hong kong set for huge democracy rally on handover anniversary	hong kong set for huge democracy rally	0.4	0.76	-1.17639631862226	1.12428287376418	5.99709305321303
+4.4	5	headlines	5 5 4 4 4	19 hurt in new orleans shooting	police: 19 hurt in nola mother's day shooting	0.49	0.657894736842105	-0.838854724628665	2.06919505717285	6.12768908109725
+4.4	5	headlines	5 4 5 4 4	david beckham to retire at end of season	david beckham retires from football	0.49	0.64	-0.838854724628665	2.23405056634688	6.36946629413299
+4.2	5	headlines	4 5 5 3 4	soccer ref punched by player dies	police: utah soccer referee punched by player dies	0.75	0.795180722891566	0.131490724321839	0.0535020931712588	2.90389947577342
+4.2	5	headlines	5 5 4 4 3	russia releases greenpeace doctor	russian court releases greenpeace ship doctor on bail	0.75	0.767441860465116	0.131490724321839	0.309046744627719	3.04388896350048
+3.8	5	headlines	5 3 2 4 5	obama lashes north korea as pariah state	obama lashes north korea as weak ‚Äėpariah state‚Äô	1.17	0.808080808080808	1.70043375338813	1.56722797922168	3.37197464843553
+3.6	5	headlines	4 3 4 4 3	corpses of 53 men found south of baghdad	iraqi officials: 50 bodies found south of baghdad	0.49	0.696629213483146	-0.838854724628665	1.29142256187717	5.22105882105817
+3.8	5	headlines	3 5 3 4 4	pro-russians forces enter ukrainian naval base in crimea	crimean forces storm ukrainian navy headquarters	0.75	0.615384615384615	0.131490724321839	0.207988345171675	2.98638139673091
+3.8	5	headlines	4 4 3 4 4	manchester city wins second premier league title in three years	manchester city win english premier league title	0.4	0.774774774774775	-1.17639631862226	1.26039568949981	6.12064967272409
+3.6	5	headlines	5 3 3 3 4	eu foreign ministers to discuss syria arms embargo	eu foreign ministers seek solution on syria arms	0.8	0.714285714285714	0.325491541614922	1.45408331826171	3.79112317193485
+4.4	5	headlines	5 5 4 4 4	ride operator charged in n.c. fair accident	n.c. state fair ride operator arrested after accident	0.49	0.625	-0.838854724628665	2.37223827256629	6.58806483202478
+3.8	5	headlines	3 3 3 5 5	new coronavirus can probably can be passed person to person- who	who: new virus can probably pass person to person	0.98	0.778761061946903	1.00057472960211	1.29711941487636	3.28045194640512
+3.8	5	headlines	3 5 4 3 4	margaret thatcher, former u.k. pm, dead at 87	margaret thatcher dies at 87	0.75	0.712328767123288	0.131490724321839	0.685110985505228	3.28532992329275
+4.2	5	headlines	4 4 5 3 5	us flying surveillance missions to help find kidnapped nigerian girls	us surveillance aircraft join hunt for kidnapped nigerian girls	0.75	0.727272727272727	0.131490724321839	0.679105436406266	3.28110673149534
+4	5	headlines	4 4 4 4 4	china's peace ark departs for the philippines thursday	china sends aid team to philippines	0	0.584269662921348	-2.67828417885944	1.24557920262526	17.4242102914132
+4.4	5	headlines	5 4 4 4 5	kl shares remain higher mid-afternoon	kl shares continue uptrend mid-afternoon	0.49	0.727272727272727	-0.838854724628665	1.43004936652486	5.3579527573674
+3.8	5	headlines	4 4 3 4 4	state dept. issues wide travel alert, says terror attack possible	us issues global travel alert, cites al-qaida threat	0.4	0.52991452991453	-1.17639631862226	0.995382682604211	5.88758690769732
+3.6	5	headlines	2 5 3 4 4	iran 'thwarts nuclear sabotage attempts'	iran says detects sabotage at nuclear facility	1.02	0.534883720930233	1.15079357442931	0.198660011937219	2.42081630236445
+4.2	5	headlines	4 5 4 4 4	queen to name biggest ever carrier	queen names giant aircraft carrier	0.4	0.676470588235294	-1.17639631862226	1.14712084071443	6.01724162786958
+3.8	5	headlines	4 4 4 4 3	kerry pursuing 'quiet strategy' in mideast peace process	kerry meets israeli leaders to push mideast peace	0.4	0.533333333333333	-1.17639631862226	0.96388690910691	5.86188580461037
+4.2	5	headlines	5 3 4 5 4	iran, world powers begin new round of nuclear talks	iran, world powers pledge new nuclear talks	0.75	0.829787234042553	0.131490724321839	0.265310866576162	3.01864389270239
+4	5	headlines	4 4 4 4 4	u.s. retailers agree to bangladesh plant safety pact	70 retailers agree to new bangladesh factory safety pact	0	0.833333333333333	-2.67828417885944	1.0489232851627	17.2496383640026
+3.8	5	headlines	3 3 5 4 4	tropical storm karen targets us gulf coast	tropical storm karen poised to make landfall	0.75	0.651162790697674	0.131490724321839	0.121618586776828	2.93948363956176
+3.6	5	headlines	3 4 4 3 4	indian army kill 3 militants in indian-controlled kashmir	indian troops kill militant commander in indian-controlled kashmir	0.49	0.829268292682927	-0.838854724628665	2.51336190252199	6.82745545561815
+3.8	5	headlines	3 5 5 3 3	italian pilgrims die in bus plunge	passengers dead in italy bus plunge	0.98	0.63768115942029	1.00057472960211	0.00258112671101463	2.3689594672036
+3.6	5	headlines	4 2 4 3 5	ukraine rebels 'flee eastern stronghold'	ukraine claims rebels flushed from main stronghold	1.02	0.711111111111111	1.15079357442931	1.42483724287135	3.3553022616653
+4.2	5	headlines	5 4 4 4 4	uganda's president signs anti-gay bill	uganda's president signs harsh anti-gay law	0.4	0.864197530864197	-1.17639631862226	0.582316199116968	5.58064368197464
+3.8	5	headlines	5 3 4 4 3	another migrant ship capsizes off italy	another migrant boat capsizes off italy, 27 dead	0.75	0.804597701149425	0.131490724321839	1.5351398087307	4.03131159507889
+3.5	6	headlines	4 3 4 4 4	kim jong-un executed his 'worse than a dog' uncle	nkorea executes kim jong un' uncle	0.4	0.55421686746988	-1.17639631862226	0.354918831409913	5.43684717329671
+3.8	5	headlines	4 4 4 4 3	prince george is christened at st james's palace	prince george christened in london	0.4	0.658536585365854	-1.17639631862226	0.189549771532068	5.34207891544122
+3.8	5	headlines	3 4 4 4 4	rosberg emulates father with monaco win	formula 1: rosberg stays modest despite monaco win	0.4	0.584269662921348	-1.17639631862226	0.494635272506666	5.52325338997713
+3.6	5	headlines	3 3 4 5 3	japan starts hearing on sales tax, ex-bank deputy urges gradual rise	japan starts hearings on proposed tax hike	0.8	0.6	0.325491541614922	0.401224604209057	2.94432314329822
+3.8	5	headlines	4 4 3 4 4	india, china ink border pact; 8 other agreements	india, china ink agreement on trans-border rivers	0.4	0.597938144329897	-1.17639631862226	0.368714199616668	5.44511272068078
+3.6	5	headlines	3 5 1 4 5	cairo protesters defy crackdown threat	in cairo camps, protesters dig in and live on	1.5	0.55421686746988	2.94126562750312	0.0205531336493827	2.06312841482492
+3.8	5	headlines	5 3 3 5 3	suspected u.s. drone strike kills 5 in pakistan	u.s. drone strike kills 5 in pakistan	0.98	0.880952380952381	1.00057472960211	2.23855834613656	4.43031384059908
+3.6	5	headlines	3 3 4 3 5	death toll from philippine earthquake rises to 185	death toll from philippines quake rises to 144	0.8	0.895833333333333	0.325491541614922	3.12659325464742	6.49670748121779
+4.2	5	headlines	5 5 3 3 5	easy rider star karen black dies aged 74	easy rider actress karen black dies of cancer	0.98	0.776470588235294	1.00057472960211	0.225869465918361	2.487226930983
+4	5	headlines	3 5 3 4 5	crash of malaysia airlines flight mh17 in eastern ukraine	malaysia airlines plane crashes on ukraine-russia border	0.89	0.584070796460177	0.6800391712126	1.24741126263281	3.37242647066956
+4.4	5	headlines	5 5 3 5 4	neymar powers brazil into last 16	neymar powers brazil into world cup last 16	0.8	0.868421052631579	0.325491541614922	0.12971847865481	2.78918110958537
+4.4	5	headlines	4 5 5 3 5	son of us evangelist kills himself the son of popular us evangelist rick warren has killed himself.	son of popular us evangelist warren kills himself	0.8	0.648648648648649	0.325491541614922	2.15437477176992	4.65858122891812
+4	5	headlines	4 4 4 4 4	china launches probe and rover to moon	china launches first moon rover mission	0	0.727272727272727	-2.67828417885944	0.0718384937123256	16.5966614784098
+4.2	5	headlines	4 5 4 4 4	amazon launches new device for streaming video	amazon unveils new fire tv streaming video box	0.4	0.760869565217391	-1.17639631862226	0.369594104953041	5.44564185601691
+4.2	5	headlines	4 3 5 4 5	nearly nine million people in 'severe debt'	britain's debt timebomb: nine million are in 'serious debt'	0.75	0.607843137254902	0.131490724321839	1.77935217635879	4.31112841964073
+4.2	5	headlines	3 5 3 5 5	india and china troops retreat to de facto border in face-off deal	india says china agrees retreat to de facto border in faceoff deal	0.98	0.893939393939394	1.00057472960211	0.856313521587179	2.90209467075948
+3.6	5	headlines	4 0 5 5 4	southwest jet hit nose first	southwest jet's nose gear landed first	1.85	0.727272727272727	4.28568334056856	1.57372635394951	3.21025980328288
+4.2	5	headlines	4 4 4 4 5	mers respiratory illness found in u.s., officials confirm	first case of mers, a sars-like respiratory illness, reported in north america	0.4	0.518518518518518	-1.17639631862226	2.60225645449907	7.91610638561725
+4.4	5	headlines	5 4 5 4 4	new zealand set to legalise gay marriage	new zealand votes to legalise same-sex marriage	0.49	0.827586206896552	-0.838854724628665	0.505910056384602	4.60154097698767
+4.4	5	headlines	5 3 5 5 4	woman remanded over child's death a woman has been remanded in custody charged with murder after an eight-year-old girl was found dead in a block of flats.	mother held over daughter's death a mother has been remanded in custody charged with murder after her eight-year-old daughter was found dead in a block of flats.	0.8	0.841772151898734	0.325491541614922	0.375221843024182	2.92853634237652
+3.6	5	headlines	3 4 3 4 4	california governor declares drought emergency	california governor declares drought emergency as wildfires continue to burn	0.49	0.754098360655738	-0.838854724628665	1.82085787028824	5.79910399249066
+3.6	5	headlines	3 4 4 3 4	algerian president in france for medical tests	algerian president in france for medical tests after minor stroke	0.49	0.828828828828829	-0.838854724628665	2.50931333572438	6.82034984470721
+4	5	headlines	3 5 5 4 3	cricket-england v australia fourth test scoreboard	cricket-england 155-4 v australia, fourth test - tea	0.89	0.823529411764706	0.6800391712126	0.958604522927791	3.12154434605021
+4	5	headlines	3 5 4 5 3	gang violence kills 16 in venezuelan prison	sixteen killed in venezuela prison	0.89	0.727272727272727	0.6800391712126	0.0718384937123256	2.54316928460455
+3.8	5	headlines	4 4 4 4 3	brahimi apologises to syria over lack of peace progress	mediator apologizes to syrians for lack of peace progress	0.4	0.839285714285714	-1.17639631862226	1.8547036066382	6.77047375948835
+4.2	5	headlines	4 5 4 3 5	north korea blocks access to joint industrial zone	north korea blocks access to key industrial zone	0.75	0.918367346938776	0.131490724321839	1.08135637442852	3.59395843871378
+4.2	5	headlines	5 3 4 5 4	senate confirms janet yellen as chair of us federal reserve	us senate confirms janet yellen as new central bank chief	0.75	0.672413793103448	0.131490724321839	1.18449412163922	3.6848340528197
+3.8	5	headlines	4 4 4 4 3	relatives scuffle with police after china fire kills 120	angry families demand answers after china plant fire kills 119	0.4	0.593220338983051	-1.17639631862226	0.412177046234689	5.4715295631886
+4.4	5	headlines	5 5 4 4 4	olivia colman wins second bafta award	baftas 2013: olivia colman picks up two awards	0.49	0.602409638554217	-0.838854724628665	2.58035228795697	6.9471421228795
+3.8	5	headlines	3 5 4 4 3	india minister's wife died 'unnatural death' after affair rumours	minister's wife's death 'unnatural'	0.75	0.6	0.131490724321839	0.349719325909532	3.06786646026601
+3.8	5	headlines	4 3 5 5 2	afghanistan: suicide bomber kills eight in military bus blast	roadside bomb 'kills eight afghan soldiers'	1.17	0.557692307692308	1.70043375338813	0.739479522938637	2.62996220899135
+4.4	5	headlines	4 5 4 4 5	glee star cory monteith found dead in hotel room in canada	'glee' star cory monteith found dead	0.49	0.723404255319149	-0.838854724628665	1.4656877175808	5.39470586029215
+4.2	5	headlines	5 5 4 4 3	margaret thatcher dies after stroke	margaret thatcher dies at 87	0.75	0.825396825396825	0.131490724321839	0.224864166568229	2.99578366367905
+4.4	5	headlines	5 5 4 5 3	france warns of extremists benefiting from egypt violence	france fears extremists will benefit from egypt violence	0.8	0.867256637168142	0.325491541614922	0.140445672120065	2.79491949003344
+4.4	5	headlines	5 4 3 5 5	china-eu 2020 strategic agenda for cooperation released at 16th china-eu summit	full text: china-eu 2020 strategic agenda for cooperation	0.8	0.676470588235294	0.325491541614922	1.89806477083302	4.3053811876736
+3.6	5	headlines	5 4 3 4 2	iran nuclear deal agreed at talks	iran nuclear deal sealed after decades-long dispute	1.02	0.666666666666667	1.15079357442931	1.01539218740644	2.97784453056513
+4.2	5	headlines	5 4 4 3 5	british nobel-winning author doris lessing dies	nobel prize winning author doris lessing dies	0.75	0.826086956521739	0.131490724321839	0.231222009044393	2.99934652466873
+3.8	5	headlines	4 3 5 4 3	two skydivers dead after colliding during us jump	two skydivers dead after colliding during jump in arizona	0.75	0.867924528301887	0.131490724321839	2.11853907448748	4.76105078051888
+3.8	5	headlines	4 4 4 3 4	israel frees second group of palestinian prisoners	israel releases 26 palestinian prisoners	0.4	0.777777777777778	-1.17639631862226	1.28806089595014	6.14680755255694
+3.6	5	headlines	3 3 4 4 4	shooting, protests mar thai voting	thai protesters disrupt advance voting	0.49	0.611111111111111	-0.838854724628665	0.503585868075288	4.60004527190834
+4	5	headlines	4 3 4 5 4	record-setting southwest heat wave turns fatal	at least 1 dead, 40 hospitalized in southwest heat wave	0.63	0.514851485148515	-0.303590964606376	1.88509511971586	4.921226254942
+3.8	5	headlines	4 4 3 4 4	world powers, iran under rouhani revive nuclear talks	world powers seek rare progress in iran nuclear talks	0.4	0.679245283018868	-1.17639631862226	0.380328933362822	5.45211607659576
+3.8	5	headlines	3 4 4 4 4	us drone strike 'kills 4 militants in pakistan'	us drone strike kills 10 in pakistan	0.4	0.819277108433735	-1.17639631862226	1.67037405014931	6.54791272793292
+4.2	5	headlines	3 5 5 3 5	queen visits london soldier attack scene	queen elizabeth ii visits barracks of uk soldier slain last week	0.98	0.538461538461538	1.00057472960211	2.41853110909814	4.71869067594444
+4.4	5	headlines	5 4 4 5 4	clashes continue between police and protesters in turkey	turkish police fight protesters, clear square	0.49	0.514851485148515	-0.838854724628665	3.38698297995305	8.75215145655528
+4.4	5	headlines	4 4 5 4 5	red sox beat tigers to reach world series	red sox beat tigers 5-2 to advance to world series	0.49	0.835164835164835	-0.838854724628665	0.436091839272357	4.55735979128568
+4	5	headlines	3 5 4 4 4	egyptian police fire tear gas at protesters in cairo	police fire tear gas at protesters in cairo	0.63	0.905263157894737	-0.303590964606376	1.71157778282303	4.70794490794735
+3.6	5	headlines	5 3 3 4 3	iran says ready for fresh round of nuclear talks	iran's khamenei renews support for nuclear talks	0.8	0.604166666666667	0.325491541614922	0.439610078158893	2.9680061066525
+3.8	5	headlines	3 3 4 5 4	protesters clash with police in caracas	protesters clash with police in brazil	0.75	0.883116883116883	0.131490724321839	2.25849885208453	4.97012126063987
+4.4	5	headlines	5 4 5 4 4	fire destroys ancient tibetan town in china	fire destroys tibetan town in china	0.49	0.897435897435897	-0.838854724628665	0.137581177999919	4.38492747940128
+3.6	5	headlines	3 5 3 4 3	4 foreigners among 9 killed in kabul hotel attack	foreigners among dead in kabul hotel attack	0.8	0.891304347826087	0.325491541614922	3.0848699133976	6.39813447440856
+3.8	5	headlines	3 4 4 4 4	'iron man' jetpacks spark concerns in hawaii	'iron man' jetpacks spark concerns	0.4	0.871794871794872	-1.17639631862226	2.15419466712593	7.17881210304368
+4	5	headlines	4 4 3 5 4	us seeks to reassure wary gulf allies over iran deal	hagel seeks to reassure jittery gulf allies after iran deal	0.63	0.828828828828829	-0.303590964606376	1.0074254754872	4.00956873423852
+3.8	5	headlines	4 4 4 4 3	conmen dressed as women steal cash	cctv: york conmen dress as women to trick pensioners	0.4	0.604651162790698	-1.17639631862226	0.306870424756227	5.40849983449072
+4.2	5	headlines	5 4 4 5 3	southwest grounds flights due to computer glitch	southwest flights delayed, canceled after computer glitch	0.75	0.723809523809524	0.131490724321839	0.711010245923013	3.30368864075017
+3.8	5	headlines	5 5 3 3 3	ehud olmert, former israeli prime minister, sentenced to six years in jail for corruption	ehud olmert sentenced to six years in israel	0.98	0.601503759398496	1.00057472960211	0.335865921777261	2.55052538099961
+4.4	5	headlines	5 5 5 3 4	strong new quake hits shattered pak region	6.8 quake in shattered pakistan region	0.8	0.725	0.325491541614922	1.45098689777022	3.78792247929132
+3.6	5	headlines	3 4 4 4 3	conan o'brien at the white house correspondents' dinner	obama and o'brien cast their versions of d.c. white house correspondents' dinner	0.49	0.785185185185185	-0.838854724628665	2.10724566864622	6.18173830780743
+4	5	headlines	3 5 5 4 3	egyptian court considers mubarak‚Äôs release	egypt court orders mubarak release	0.89	0.804878048780488	0.6800391712126	0.786778585017478	2.98859235463093
+3.8	5	headlines	3 3 5 4 4	titanic violin nabs record $1.4 million	titanic violin sells for $1.7 million	0.75	0.815789473684211	0.131490724321839	1.63824416707145	4.14529481096428
+4.2	5	headlines	5 4 3 4 5	fire in russian psychiatric hospital kills 38	38 feared dead in russian psychiatric hospital fire	0.75	0.770833333333333	0.131490724321839	0.277802754203433	3.02579818354055
+4.4	5	headlines	5 5 5 3 4	south korea ferry crew members stand trial	sewol ferry crew faces trial	0.8	0.628571428571429	0.325491541614922	2.33933643775214	4.94309610815799
+3.8	5	headlines	5 4 3 2 5	indian rape accused face verdicts	indian rape accused found guilty	1.17	0.738461538461539	1.70043375338813	0.925859500731176	2.77132603301296
+3.6	5	headlines	3 5 3 5 2	north korea says to restart nuclear reactor	north korea offers talks: complex may re-open	1.2	0.590909090909091	1.8273794018521	0.317474479227597	2.33286444175455
+4	5	headlines	4 4 4 4 4	u.s. fast-food workers plan nationwide strikes over minimum wage	fast-food workers strike for higher pay	0	0.601941747572815	-2.67828417885944	1.08277487981849	17.2784787127593
+4	5	headlines	3 4 4 5 4	faa lifts ban on u.s. flights to tel aviv	faa lifts ban on u.s. flights to israel	0.63	0.875	-0.303590964606376	1.43277802466106	4.40174287209802
+3.6	5	headlines	4 3 3 5 3	vatican embassy in syria hit by mortar fire	vatican embassy in syria hit by mortar; no injuries	0.8	0.893617021276596	0.325491541614922	3.10617544935496	6.44821267680788
+4.33333333333333	6	headlines	4 4 5 5 4	icc champions trophy: india vs south africa	champions trophy: india v south africalive	0.49	0.894117647058824	-0.838854724628665	0.357326394154826	4.50933360600397
+4.4	5	headlines	4 5 5 4 4	protesters topple lenin statue in kiev	ukraine protesters topple lenin statue in kiev	0.49	0.904761904761905	-0.838854724628665	0.205072121208422	4.42169287280849
+3.6	5	headlines	4 3 5 4 2	china yuan weakens to 6.1559 against usd	china yuan weakens to 6.1818 against usd tuesday	1.02	0.840909090909091	1.15079357442931	2.62060291621776	5.02367673096032
+4	5	headlines	4 4 5 4 3	malaysia airlines loses contact with plane carrying 239 to beijing	malaysia airlines plane vanishes on flight to beijing	0.63	0.672268907563025	-0.303590964606376	0.434884951553654	3.59760874738083
+4	5	headlines	5 4 4 4 3	monty python to reunite for new show	monty python to reunite on stage	0.63	0.823529411764706	-0.303590964606376	0.958604522927791	3.96966201453526
+3.8	5	headlines	4 3 4 4 4	north korea fires three short-range missiles	n. korea fires short-range missiles	0.4	0.860759493670886	-1.17639631862226	2.05253109444477	7.0332924756606
+4	5	headlines	4 5 3 4 4	police helicopter crashes into pub in glasgow - several casualties	helicopter crashes into roof of glasgow club	0.63	0.654545454545455	-0.303590964606376	0.59816250613936	3.7033340149083
+4	5	headlines	3 5 4 4 4	world powers and iran to resume expert nuclear talks on dec. 30	iran nuclear experts, world powers to resume talks next week	0.63	0.520325203252033	-0.303590964606376	1.83466841643475	4.85732486882257
+4.2	5	headlines	5 4 4 5 3	bombing aimed at hezbollah hits southern beirut	explosion hits hezbollah area south of beirut	0.75	0.652173913043478	0.131490724321839	1.37095429494877	3.86150602101443
+3.6	5	headlines	3 4 3 4 4	asian muslims celebrate eid as 14 killed in afghanistan	asian muslims celebrate eid as 52 die in pakistan, afghanistan	0.49	0.837606837606838	-0.838854724628665	2.59018086227151	6.96504177007261
+4.2	5	headlines	5 4 4 5 3	greece suspends state broadcaster	greece to close state broadcaster to save money	0.75	0.675	0.131490724321839	1.16066865504966	3.66342306028402
+4.4	5	headlines	5 4 4 5 4	bradley manning acquitted of aiding the enemy	wikileaks soldier bradley manning acquitted of aiding the enemy	0.49	0.833333333333333	-0.838854724628665	0.452964575074483	4.5678960123034
+3.6	5	headlines	4 5 3 3 3	malala, snowden, belarusians short-listed for sakharov prize	fugitive snowden short-listed for european rights prize	0.8	0.591304347826087	0.325491541614922	0.3211157890094	2.89633803756895
+3.6	5	headlines	3 4 3 4 4	colorado wildfire destroys more than 90 homes as winds worsen	colorado wildfire may be biggest property destroyer in state history	0.49	0.573643410852713	-0.838854724628665	0.158414164340327	4.39614406778537
+4.8	5	headlines	5 4 5 5 5	ukraine to implement unilateral ceasefire	ukraine offers unilateral ceasefire	0.4	0.815789473684211	0.509079056951884	0.203527392710134	2.70817067966279
+4.8	5	headlines	5 5 4 5 5	tokyo to host 2020 games	tokyo wins race to host 2020 olympic games	0.4	0.727272727272727	0.509079056951884	0.654018275724623	2.98786300540933
+5	5	headlines	5 5 5 5 5	two french journalists killed in mali	france confirms two french journalists killed in mali	0	0.822222222222222	-1.02748791786087	0.502435959032218	5.07962844413094
+5	5	headlines	5 5 5 5 5	bradley manning-wikileaks case turns to sentencing	manning wikileaks case turns to sentencing phase	0	0.836734693877551	-1.02748791786087	0.361839883025803	4.99235739781896
+4.8	5	headlines	5 5 5 5 4	syria regime agrees to attend peace conference	russia: syria agrees to participate in conference	0.4	0.694736842105263	0.509079056951884	0.96922425114929	3.22459401082616
+5	5	headlines	5 5 5 5 5	world sends emergency relief to battered philippines	typhoon haiyan: world sends relief to battered philippines	0	0.763636363636364	-1.02748791786087	1.07001273177402	5.50149726970289
+4.6	5	headlines	5 4 4 5 5	michelle obama to star in parks and recreation	michelle obama to appear on 'parks and recreation'	0.49	0.895833333333333	0.854414604090741	1.74727165911776	3.8211372732978
+5	5	headlines	5 5 5 5 5	india starts voting in world's largest election	india voters kick off world‚Äôs biggest election	0	0.666666666666667	-1.02748791786087	2.00945014872597	6.5251944627051
+5	5	headlines	5 5 5 5 5	un invites iran to syrian peace conference	un: iran invited to attend syrian peace conference	0	0.782608695652174	-1.02748791786087	0.886209758892118	5.35157383724662
+5	5	headlines	5 5 5 5 5	cuba's 'ladies' to pick up eu prize 8 years late	cuba's 'ladies' to pick up eu prize 8 years later	0	0.989690721649485	-1.02748791786087	1.11999021573381	5.54470209378567
+5	5	headlines	5 5 5 5 5	japan defends dolphin hunt after us criticism	japan defends dolphin hunts after criticism from us	0	0.875	-1.02748791786087	0.00887242675673383	4.79848422593135
+4.6	5	headlines	5 5 4 4 5	iran, six global powers sign landmark nuclear deal	iran, world powers agree nuclear deal	0.49	0.71264367816092	0.854414604090741	0.027460260703236	2.43935704447547
+5	5	headlines	5 5 5 5 5	yahoo agrees to buy tumblr for $1.1 billion cash	yahoo to buy tumblr for $1.1 billion	0	0.857142857142857	-1.02748791786087	0.164126651141784	4.87956270710633
+5	5	headlines	5 5 5 5 5	microsoft says to cut up to 18,000 jobs	microsoft to cut 18,000 jobs in overhaul	0	0.708860759493671	-1.02748791786087	1.60067595622315	6.02033139772941
+4.6	5	headlines	4 5 4 5 5	syrian opposition offers assad truce in homs for duration of ramadan	syrian opposition offers assad's forces truce for duration of ramadan	0.49	0.875912408759124	0.854414604090741	1.55427877051321	3.60077305389608
+5	5	headlines	5 5 5 5 5	outrage after reports emerge about 6-year-old indian girl raped at school	outrage after indian girl, 6, raped at her school	0	0.672131147540984	-1.02748791786087	1.95651054018872	6.45384969648808
+5	5	headlines	5 5 5 5 5	pcb appoints waqar younis as head coach	waqar younis back as pakistan coach	0	0.621621621621622	-1.02748791786087	2.44584421910061	7.19113810046486
+5	5	headlines	5 5 5 5 5	egypt launches offensive against sinai militants	egypt launches offensive against sinai insurgents	0	0.88659793814433	-1.02748791786087	0.121232652608348	4.85652934404628
+5	5	headlines	5 5 5 5 5	heavy smog hits north china city, flights cancelled	heavy smog hits north china city, flights canceled	0	0.99009900990099	-1.02748791786087	1.12394569123134	5.54816787400939
+4.6	5	headlines	4 5 5 5 4	deaf customers sue starbucks, say they're mocked	deaf ny starbucks patrons sue, say they're mocked	0.49	0.721649484536082	0.854414604090741	0.0597875264203673	2.45587729059319
+4.6	5	headlines	3 5 5 5 5	obama to meet privately with family of nelson mandela	obama to meet with mandela family	0.8	0.604651162790698	2.04564603176464	1.07368617312667	2.83989475228119
+5	5	headlines	5 5 5 5 5	investigators probe motives of lax airport shooter	investigators probe motives of los angeles airport shooter	0	0.907407407407407	-1.02748791786087	0.322833716276266	4.96921290587146
+5	5	headlines	5 5 5 5 5	astrazeneca pays $4.1bn to buy bristol-myers squibb out of diabetes alliance	astrazeneca to buy bristol out of diabetes venture for up to $4.1 billion	0	0.630872483221476	-1.02748791786087	2.35622234961428	7.04227121849776
+5	5	headlines	5 5 5 5 5	d.c. votes to decriminalize marijuana	dc votes to decriminalize pot	0	0.787878787878788	-1.02748791786087	0.835153377536034	5.31231599228209
+5	5	headlines	5 5 5 5 5	russia finds dead lawyer magnitsky guilty in posthumous trial	russia convicts dead lawyer magnitsky in posthumous trial	0	0.864406779661017	-1.02748791786087	0.0937541448779797	4.84203133190779
+5	5	headlines	5 5 5 5 5	protesters gather in brazil despite concessions	protests sweep brazil despite concession	0	0.827586206896552	-1.02748791786087	0.450469952491054	5.04665517484888
+4.6	5	headlines	4 5 5 4 5	bangladesh islamists rally against atheist bloggers	bangladeshi islamists rally to demand action against atheist bloggers	0.49	0.85	0.854414604090741	1.30324069251157	3.34417940743666
+4.6	5	headlines	5 5 4 4 5	detroit eligible for bankruptcy protection: u.s. judge	detroit eligible for bankruptcy protection	0.49	0.875	0.854414604090741	1.54543940156949	3.59118038966276
+4.8	5	headlines	5 5 5 4 5	nypd twitter outreach backfires badly	nypd's twitter campaign backfires	0.4	0.685714285714286	0.509079056951884	1.05663431156117	3.29712453028325
+4.6	5	headlines	4 5 4 5 5	syrian army retakes crusader castle from rebels	syrian army retakes historic crusader castle	0.49	0.769230769230769	0.854414604090741	0.520752555555197	2.72295040746753
+5	5	headlines	5 5 5 5 5	venezuela expels three u.s. diplomats	venezuela expels 3 u.s. diplomats	0	0.914285714285714	-1.02748791786087	0.389470398133472	5.00902737160256
+5	5	headlines	5 5 5 5 5	general electric posts 9% profit drop for third quarter	ge posts 9% profit drop for third quarter	0	0.854166666666667	-1.02748791786087	0.192959830791537	4.89532561999034
+4.8	5	headlines	5 5 5 4 5	nazi gestapo chief 'buried in jewish cemetery'	nazi chief buried in jewish cemetary	0.4	0.853658536585366	0.509079056951884	0.570400918625861	2.93107747379349
+4.8	5	headlines	4 5 5 5 5	seamus heaney, irish poet of soil and strife, dies at 74	seamus heaney, irish poet and nobel winner, dies at 74	0.4	0.8	0.509079056951884	0.0505597869893398	2.62665099549236
+5	5	headlines	5 5 5 5 5	iran nuclear talks enter third day	iran nuclear talks enter crucial third day	0	0.894736842105263	-1.02748791786087	0.200081933907727	4.89925435248057
+4.6	5	headlines	4 5 4 5 5	south korean president sorry for ferry response	s. korean president 'sorry' for ferry disaster	0.49	0.817204301075269	0.854414604090741	0.985517654822678	3.06235793929445
+4.6	5	headlines	5 5 5 3 5	swiss vote on highest minimum wage	swiss cast ballots on world's highest minimum wage	0.8	0.761904761904762	2.04564603176464	0.449778574878881	2.38148070927004
+4.6	5	headlines	5 5 4 4 5	georgian pm's ally to become president - exit poll	ally of georgia's billionaire pm to be president -exit polls	0.49	0.709090909090909	0.854414604090741	0.0618793039967342	2.45695548068252
+4.8	5	headlines	5 4 5 5 5	rogers, videotron extend reach with network-sharing deal	rogers, videotron reach network-sharing, spectrum deal	0.4	0.8	0.509079056951884	0.0505597869893398	2.62665099549236
+5	5	headlines	5 5 5 5 5	egypt votes on new constitution	egyptians voting on new constitution	0	0.865671641791045	-1.02748791786087	0.0815002258768206	4.83562995070147
+5	5	headlines	5 5 5 5 5	snowden sees 'no chance' for us fair trial	snowden sees "no chance" to get fair trial in u.s.	0	0.782608695652174	-1.02748791786087	0.886209758892118	5.35157383724662
+5	5	headlines	5 5 5 5 5	queen visits britain's new prince	queen meets britain's new baby prince	0	0.828571428571429	-1.02748791786087	0.440925175779411	5.04069144192711
+4.8	5	headlines	5 5 5 4 5	world's oldest person dies in japan at 116	jiroemon kimura: world's oldest person dies aged 116	0.4	0.680851063829787	0.509079056951884	1.10374895405268	3.33755386353838
+5	5	headlines	5 5 5 5 5	rio airport workers strike on eve of fifa world cup	rio de janeiro airport workers strike on eve of world cup	0	0.851851851851852	-1.02748791786087	0.215385637185789	4.90774374117957
+5	5	headlines	5 5 5 5 5	anthony weiner slips to fourth place in new poll	weiner falls to fourth in new nyc mayoral poll	0	0.659574468085106	-1.02748791786087	2.07815900235943	6.62065207967468
+4.8	5	headlines	5 5 5 4 5	eu declares hezbollah's military wing terror group	eu puts hezbollah military wing on terror list	0.4	0.75	0.509079056951884	0.43383763112651	2.84329210299575
+5	5	headlines	5 5 5 5 5	blackberry loses us$965m in q2	blackberry loses $965m in 2nd quarter	0	0.805970149253731	-1.02748791786087	0.659885202731566	5.18492644907576
+4.6	5	headlines	4 5 5 5 4	world's oldest man dies at 116	japan: world's oldest man ever dies aged 116	0.49	0.783783783783784	0.854414604090741	0.661741409060849	2.81771200113942
+5	5	headlines	5 5 5 5 5	saudi to give lebanese army $3 billion	saudi arabia to grant lebanese army $3 billion	0	0.833333333333333	-1.02748791786087	0.394792088339807	5.01226457463994
+5	5	headlines	5 5 5 5 5	nobel author doris lessing dies at 94	nobel laureate doris lessing dies at 94	0	0.894736842105263	-1.02748791786087	0.200081933907727	4.89925435248057
+5	5	headlines	5 5 5 5 5	los angeles airport worker charged with making 9/11 threats	los angeles airport worker charged over 9/11 threats	0	0.864864864864865	-1.02748791786087	0.0893162390775595	4.83970846253709
+4.8	5	headlines	4 5 5 5 5	gunmen kill nine foreigners in pakistan	gunmen kill nine tourists in pakistan	0.4	0.868421052631579	0.509079056951884	0.713419411779449	3.02966994513474
+5	5	headlines	5 5 5 5 5	protests continue in tense ukraine capital	protests continue in ukraine's capital	0	0.9	-1.02748791786087	0.251071135814659	4.92779365154521
+5	5	headlines	5 5 5 5 5	palestinian diplomat dies in prague blast	palestinian diplomat killed in explosion in prague	0	0.769230769230769	-1.02748791786087	1.01581441925756	5.45584789181415
+4.6	5	headlines	5 5 4 5 4	australia returns asylum seekers to sri lanka in sea transfer	australia: australia hands asylum-seekers back to sri lanka	0.49	0.683333333333333	0.854414604090741	0.311417367874596	2.59401797784047
+4.6	5	headlines	5 4 5 5 4	n. korea's kim hails execution of powerful uncle	north korea's kim seen behind sacking of powerful uncle	0.49	0.737864077669903	0.854414604090741	0.216873667416799	2.54006672830988
+4.6	5	headlines	5 4 4 5 5	iron lady margaret thatcher dies at 87	former british pm margaret thatcher dies at 87	0.49	0.738095238095238	0.854414604090741	0.219113137680858	2.54131541071764
+4.8	5	headlines	4 5 5 5 5	thousands evacuated in moscow metro fire	thousands evacuated after fire breaks out in moscow metro	0.4	0.721649484536082	0.509079056951884	0.708495960986012	3.02615739755442
+5	5	headlines	5 5 5 5 5	updated - two explosions near finish line of boston marathon	report of two explosions at finish line of boston marathon	0	0.864406779661017	-1.02748791786087	0.0937541448779797	4.84203133190779
+4.6	5	headlines	5 4 4 5 5	floods in central europe continue to create havoc	europe floods continue to create havoc	0.49	0.71264367816092	0.854414604090741	0.027460260703236	2.43935704447547
+4.8	5	headlines	5 5 5 5 4	assad says syria will comply with un arms resolution	syria's assad vows to comply with u.n. resolution	0.4	0.693069306930693	0.509079056951884	0.985379245812874	3.23776130026419
+4.6	5	headlines	5 4 5 4 5	janet yellen to become first woman to lead the federal reserve	us senate confirms janet yellen as us federal reserve chief	0.49	0.59504132231405	0.854414604090741	1.16678581143454	3.21764080566301
+4.6	5	headlines	5 4 4 5 5	u.n. condemns ethnic killings in south sudan oil town	un condemns ethnic killings in south sudan	0.49	0.884210526315789	0.854414604090741	1.63467050490662	3.68998980578443
+4.6	5	headlines	5 5 4 5 4	thousands rally to support embattled tunisia government	thousands gather to support islamist government in tunisia	0.49	0.654867256637168	0.854414604090741	0.587195248984799	2.76677633430117
+4.8	5	headlines	5 5 4 5 5	'fast &amp; furious' star paul walker dies in car crash	paul walker dead: fast and furious star, 40, killed in car crash	0.4	0.621848739495798	0.509079056951884	1.67536042545705	3.91204858176944
+4.8	5	headlines	4 5 5 5 5	bodies of mh17 crash victims flown to netherlands	mh17 dead flown back to netherlands	0.4	0.642857142857143	0.509079056951884	1.47183209851762	3.68844212778813
+5	5	headlines	5 5 5 5 5	snowden hits hurdles in search for asylum	snowden's hits hurdles in search for asylum	0	0.976190476190476	-1.02748791786087	0.989200534848333	5.43388076750876
+4.6	5	headlines	5 5 3 5 5	australia cuts rates to record low	australia cuts interest rates to record low	0.8	0.883116883116883	2.04564603176464	1.62407534606882	3.38178979137633
+4.8	5	headlines	5 5 5 4 5	south africa's mandela taken to hospital	nelson mandela taken to hospital	0.4	0.777777777777778	0.509079056951884	0.164727954395482	2.68689981867265
+5	5	headlines	5 5 5 5 5	ukraine leader pledges crisis talks	ukraine leader pledges crisis talks	0	1	-1.02748791786087	1.21986597204636	5.63434622627851
+5	5	headlines	5 5 5 5 5	israel expands subsidies to settlements	israel widens settlement subsidies	0	0.63013698630137	-1.02748791786087	2.36334780579691	7.05386442913543
+5	5	headlines	5 5 5 5 5	turkish search ends as last missing miners found	turkish search ends as last missing miners found	0	1	-1.02748791786087	1.21986597204636	5.63434622627851
+5	5	headlines	5 5 5 5 5	colorado governor visits school shooting victim	colorado governor visits school shooting victim	0	1	-1.02748791786087	1.21986597204636	5.63434622627851
+4.6	5	headlines	5 5 4 4 5	us believes syria has probably used chemical weapons	us believes syrian government used chemical weapons	0.49	0.796116504854369	0.854414604090741	0.781220173959536	2.90341437856755
+5	5	headlines	5 5 5 5 5	rock bands' plane makes emergency landing in ill.	rock bands' plane makes emergency landing in ill.	0	1	-1.02748791786087	1.21986597204636	5.63434622627851
+5	5	headlines	5 5 5 5 5	mandela back in hospital in ‚Äėserious but stable‚Äô condition	nelson mandela returns to hospital in ‚Äėserious but stable‚Äô condition	0	0.853333333333333	-1.02748791786087	0.201033121093467	4.89978011123524
+5	5	headlines	5 5 5 5 5	us top diplomat kerry's wife rushed to hospital	us secretary of state john kerry‚Äôs wife rushed to hospital	0	0.702702702702703	-1.02748791786087	1.66033489242626	6.08774093794633
+5	5	headlines	5 5 5 5 5	chicago shooting shows gap in stepped-up policing	chicago shooting shows gap in stepped-up policing	0	1	-1.02748791786087	1.21986597204636	5.63434622627851
+5	5	headlines	5 5 5 5 5	us believes syrian government used chemical weapons	us suspects syria used chemical weapons	0	0.733333333333333	-1.02748791786087	1.36358692457151	5.77145914188576
+4.8	5	headlines	5 5 5 4 5	polar bear dna 'may help fight obesity'	polar bear study may boost fight against obesity	0.4	0.71264367816092	0.509079056951884	0.795743748109616	3.08970213834898
+4.8	5	headlines	5 5 4 5 5	israel carrying out ground offensive in gaza	israel launches ground offensive in gaza	0.4	0.80952380952381	0.509079056951884	0.142825961868549	2.6750735417802
+4.6	5	headlines	5 5 4 5 4	australian pm kevin rudd calls election for 7 september	australian pm rudd calls sept. 7 poll	0.49	0.673913043478261	0.854414604090741	0.402680649548597	2.6485731551403
+5	5	headlines	5 5 5 5 5	google unveils prototype self-driving car	google unveils concept self-driving car	0	0.85	-1.02748791786087	0.233326282301191	4.91777898187629
+5	5	headlines	5 5 5 5 5	fire in beijing kills 10	fire in beijing kills ten	0	0.897959183673469	-1.02748791786087	0.231299812626257	4.91664094517183
+5	5	headlines	5 5 5 5 5	cleveland kidnapper ariel castro found hanged in prison cell	cleveland kidnapper ariel castro found hanging in his cell	0	0.915254237288136	-1.02748791786087	0.398853398968646	5.01474088600356
+5	5	headlines	5 5 5 5 5	british teenager killed in fall from magaluf hotel	british teenager killed in magaluf hotel fall	0	0.842105263157895	-1.02748791786087	0.309810085161589	4.96158524657429
+5	5	headlines	5 5 5 5 5	greek far-right leader imprisoned pending trial	greek far-right leader imprisoned pending trial	0	1	-1.02748791786087	1.21986597204636	5.63434622627851
+5	5	headlines	5 5 5 5 5	ankeet chavan granted conditional bail for marriage	ankeet chavan granted bail to get married	0	0.760869565217391	-1.02748791786087	1.09681733198597	5.52453518482151
+4.6	5	headlines	5 5 3 5 5	world's oldest man dies at 116	world's oldest ever man dies aged 116	0.8	0.865671641791045	2.04564603176464	1.45506674893594	3.19926510158287
+5	5	headlines	5 5 5 5 5	car bomb at swedish consulate in libya's benghazi, no casualties	car bomb hits swedish consulate in benghazi, none hurt	0	0.796610169491525	-1.02748791786087	0.750564203340149	5.24944008601824
+4.6	5	headlines	5 4 5 4 5	bone fragment 'could be king alfred'	remains in winchester could be king alfred the great	0.49	0.568181818181818	0.854414604090741	1.42699930050504	3.466654209925
+5	5	headlines	5 5 5 5 5	prominent aids researchers killed in malaysian plane crash	top aids researcher killed in malaysia plane crash	0	0.888888888888889	-1.02748791786087	0.143427265122247	4.86838579981681
+4.8	5	headlines	5 5 4 5 5	canada approves oil pipeline to the pacific coast	canadian government approves controversial oil pipeline to pacific	0.4	0.678260869565217	0.509079056951884	1.12884262233621	3.35947876025562
+5	5	headlines	5 5 5 5 5	washington pot shops prepare for historic sales	washington pot shops prepare for historic sales	0	1	-1.02748791786087	1.21986597204636	5.63434622627851
+5	5	headlines	5 5 5 5 5	cia chief visits israel for syria talks	cia chief in israel to discuss situation in syria	0	0.590909090909091	-1.02748791786087	2.74338563071968	7.73605631736607
+5	5	headlines	5 5 5 5 5	on war criminals and heroes: the whitewashing of ariel sharon ŔÄ	on war criminals and heroes: the whitewashing of ariel sharon	0	0.960629921259842	-1.02748791786087	0.838450682191357	5.31482116908298
+4.8	5	headlines	5 5 5 5 4	3 suspects taken into custody in boston bombing case	boston police say 3 taken into custody in marathon bombing	0.4	0.690909090909091	0.509079056951884	1.0063073070816	3.25497782947284
+4.6	5	headlines	5 5 3 5 5	major fire breaks out in jk secretariat in srinagar	fire breaks out near secretariat in srinagar	0.8	0.863157894736842	2.04564603176464	1.4307136972789	3.17421291092271
+5	5	headlines	5 5 5 5 5	iran, six global powers sign landmark nuclear deal	iran, six world powers clinch breakthrough nuclear deal	0	0.723809523809524	-1.02748791786087	1.45585309945072	5.86482064671756
+5	5	headlines	5 5 5 5 5	kevin rudd sworn in as australian prime minister	rudd sworn in as australia's new prime minister	0	0.884210526315789	-1.02748791786087	0.0981035300938637	4.84431287484439
+5	5	headlines	5 5 5 5 5	guatemalan court finds former dictator guilty of genocide	guatemala's former leader found guilty of genocide	0	0.728971962616822	-1.02748791786087	1.40583965886199	5.81367927227232
+4.6	5	headlines	4 4 5 5 5	israel frees palestinian prisoners	israel releases 26 palestinian prisoners	0.49	0.891891891891892	0.854414604090741	1.70908717795998	3.77583365527342
+5	5	headlines	5 5 5 5 5	israel downs drone from lebanon	israel shoots down drone from lebanon	0	0.882352941176471	-1.02748791786087	0.080107341185535	4.83490479461416
+4.6	5	headlines	5 5 5 4 4	lebanon's pm forms 'unity cabinet' lebanon's prime minister has formed a cabinet more than 10 months after taking office, taking in a wide range of political groups after bridging serious divisions am	beirut: lebanon's prime minister formed a cabinet more than 10 months after taking office yesterday, including a wide range of political groups after bridging serious divisions among them mostly over	0.49	0.81203007518797	0.854414604090741	0.935390021611562	3.02184269399874
+5	6	headlines	5 5 5 5 5	prince charles 'compares putin to hitler'	prince charles 'compares vladimir putin to adolf hitler'	0	0.845360824742268	-1.02748791786087	0.278270372641837	4.94331761435525
+4.8	5	headlines	5 5 5 4 5	cristiano ronaldo hat-trick fires portugal to 2014 world cup finals	ronaldo hat-trick fires portugal to world cup	0.4	0.803571428571429	0.509079056951884	0.0851596025690432	2.6445481814079
+4.6	5	headlines	4 5 5 5 4	two french journalists killed after mali kidnapping	two french journalists abducted, killed in northern mali	0.49	0.710280373831776	0.854414604090741	0.0503558310084222	2.45102977921629
+4.6	5	headlines	4 5 5 5 4	judge oks force-feeding california inmates	u.s. judge approves force-feeding californian inmates on hunger strik	0.49	0.738738738738739	0.854414604090741	0.22534733868621	2.54479884534033
+4.8	5	headlines	5 5 5 5 4	uk sky news cameraman killed in egypt	sky news cameraman killed in egypt	0.4	0.957746478873239	0.509079056951884	1.57879952865061	3.80312312172916
+5	5	headlines	5 5 5 5 5	gunmen surround libya's foreign ministry to push demands	gunmen surround libyan foreign ministry to push demands	0	0.972972972972973	-1.02748791786087	0.958029529821574	5.4085211310712
+4.6	5	headlines	4 5 4 5 5	israel and hamas to observe brief gaza truce	israel and hamas 'accept temporary truce'	0.49	0.658823529411765	0.854414604090741	0.548867082637267	2.74131734882549
+4.6	5	headlines	3 5 5 5 5	deadly clashes as egypt marks anniversary	violent clashes mark anniversary of egypt uprising	0.8	0.571428571428571	2.04564603176464	1.39554492270531	3.13856862108721
+4.6	5	headlines	5 5 5 4 4	teenage girl killed in east london shereka marsh was shot in the neck, police say	hackney shooting: teenager shereka marsh 'bled to death after being shot in neck'	0.49	0.469135802469136	0.854414604090741	2.38655198622274	4.72339954375169
+4.8	5	headlines	4 5 5 5 5	israeli government authorises new settlements ahead of talks	israel approves new settlement homes ahead of peace talks	0.4	0.717948717948718	0.509079056951884	0.744348796585388	3.05193484704021
+4.8	5	headlines	5 4 5 5 5	u.n. security council calls for humanitarian ceasefire in gaza	u.n. security council calls for unconditional cease-fire in gaza	0.4	0.888888888888889	0.509079056951884	0.911710752528627	3.17857103688715
+4.8	5	headlines	5 4 5 5 5	hong kong set for democracy march	hong kong set for huge democracy rally	0.4	0.816901408450704	0.509079056951884	0.21429975931019	2.71414992895276
+4.8	5	headlines	4 5 5 5 5	the new cold war	a new cold war?	0.4	0.838709677419355	0.509079056951884	0.425577142949997	2.83817191625695
+4.6	5	headlines	4 5 5 4 5	renowned spanish flamenco guitarist paco de lucia dies	spanish flamenco guitarist paco de lucia dies at 66	0.49	0.857142857142857	0.854414604090741	1.37244032367097	3.41172605854332
+4.8	5	headlines	5 5 5 4 5	five charged with terrorism offences	five people charged with terror offences	0.4	0.868421052631579	0.509079056951884	0.713419411779449	3.02966994513474
+5	5	headlines	5 5 5 5 5	stones add second hyde park concert	rolling stones add second hyde park date	0	0.773333333333333	-1.02748791786087	0.976068990078827	5.42314920324455
+5	5	headlines	5 5 5 5 5	nelson mandela dies aged 95	nelson mandela dies at age 95	0	0.928571428571429	-1.02748791786087	0.527869660452287	5.09608149765738
+5	5	headlines	5 5 5 5 5	strong new quake hits shattered pak region	powerful new earthquake hits shattered pakistan region	0	0.770833333333333	-1.02748791786087	1.00028886098462	5.44299757151356
+4.6	5	headlines	4 4 5 5 5	westgate mall attackers spent four months planning in nairobi	westgate attackers spent four months planning in nairobi, says official	0.49	0.848484848484849	0.854414604090741	1.28856198287169	3.33014932383551
+4.8	5	headlines	5 4 5 5 5	pakistan's musharraf charged over bhutto murder	pakistan's musharraf charged in bhutto death	0.4	0.857142857142857	0.509079056951884	0.604156836264595	2.95371615196371
+4.8	5	headlines	5 5 5 5 4	croatia begins countdown to historic eu entry	croatia countdowns to joining eu	0.4	0.675324675324675	0.509079056951884	1.15728832052031	3.38466734553574
+5	5	headlines	5 5 5 5 5	matt smith quits bbc‚Äôs doctor who	matt smith quits bbc's doctor who	0	0.888888888888889	-1.02748791786087	0.143427265122247	4.86838579981681
+5	5	headlines	5 5 5 5 5	updated - two explosions near finish line of boston marathon	two explosions at boston marathon finish line	0	0.60952380952381	-1.02748791786087	2.56304719800123	7.39616189690999
