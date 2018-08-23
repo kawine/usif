@@ -10,4 +10,4 @@ This is an implementation of *unsupervised smoothed inverse frequency* (uSIF), a
 
 ### Embedding Individual Sentences
 
-If you don't have a sizable list of related sentences to embed, then there is not much point to doing piecewise common component removal, so you can set `m = 0` when initializing uSIF. Even for STS tasks, setting `m = 0` only decreases performance by 1-4%. 
+If you don't have a sizable list of related sentences to embed, then there is not much point to doing piecewise common component removal, in which case you can set `m = 0` when initializing uSIF. Even for STS tasks, setting `m = 0` only decreases performance by 1-4%. 
