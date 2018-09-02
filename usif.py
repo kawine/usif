@@ -141,6 +141,9 @@ class uSIF(object):
 			sentences: a list of sentences (strings)
 		"""
 		vectors = map(self._to_vec, sentences)
+                if self.m == 0:
+                    return vectors
+
 		proj = lambda a, b: a.dot(b.transpose()) * b
 		svd = TruncatedSVD(n_components=self.m, random_state=0).fit(vectors)	
 	
