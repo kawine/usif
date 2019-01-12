@@ -5,11 +5,9 @@ from sklearn.decomposition import TruncatedSVD
 from scipy.spatial.distance import cosine
 from scipy.stats import pearsonr
 from scipy.linalg import svd
-import nltk
+from nltk import word_tokenize
 import sys
-
-reload(sys)
-sys.setdefaultencoding('utf8')
+from functools import reduce
 
 
 class word2prob(object):
@@ -50,7 +48,7 @@ class word2prob(object):
 
 class word2vec(object):
 	"""Map words to their embeddings."""
-        def __init__(self, vector_fn):
+	def __init__(self, vector_fn):
 		"""Initialize a word2vec object.
 
 		Args:
@@ -59,17 +57,17 @@ class word2vec(object):
 		self.vectors = {}
     
 		for line in open(vector_fn):
-        		line = line.split()
+			line = line.split()
 
 			# skip first line if needed
 			if len(line) == 2:
 				continue
 
-        		word = line[0]
-        		embedding = np.array([float(val) for val in line[1:]])
-        		self.vectors[word] = embedding
+			word = line[0]
+			embedding = np.array([float(val) for val in line[1:]])
+			self.vectors[word] = embedding
 
-        def __getitem__(self, w):
+	def __getitem__(self, w):
 		return self.vectors[w]
 
 	def __contains__(self, w):
@@ -119,19 +117,23 @@ class uSIF(object):
 		def preprocess(t):
 			t = t.lower().strip("';.:()").strip('"')
 			t = 'not' if t == "n't" else t
-			return t
+			return re.split(r'[-]', t)
+
+		tokens = []
+
+		for token in word_tokenize(sentence):
+			if not_punc.match(token):
+				tokens = tokens + preprocess(token)
 		
-		tokens = map(preprocess, filter(lambda t: not_punc.match(t), nltk.word_tokenize(sentence)))
-		tokens = reduce(lambda a,b: a + b, [[]] + map(lambda t: re.split(r'[-]', t), tokens))
-		tokens = filter(lambda t: t in self.vec, tokens)
+		tokens = list(filter(lambda t: t in self.vec, tokens))
 
 		# if no parseable tokens, return a vector of a's        
 		if tokens == []:
 			return np.zeros(300) + self.a
 		else:
-			v_t = np.array(map(lambda (i,t): self.vec[t], enumerate(tokens)))
+			v_t = np.array([ self.vec[t] for t in tokens ])
 			v_t = v_t * (1.0 / np.linalg.norm(v_t, axis=0))
-			v_t = np.array(map(lambda (i,t): self.weight(t) * v_t[i,:], enumerate(tokens)))
+			v_t = np.array([ self.weight(t) * v_t[i,:] for i,t in enumerate(tokens) ])
 			return np.mean(v_t, axis=0) 
 
 	def embed(self, sentences):
@@ -140,7 +142,8 @@ class uSIF(object):
 		Args:
 			sentences: a list of sentences (strings)
 		"""
-		vectors = map(self._to_vec, sentences)
+		vectors = [ self._to_vec(s) for s in sentences ]
+
 		if self.m == 0:
 			return vectors
 
@@ -151,7 +154,7 @@ class uSIF(object):
 		for i in range(self.m):
 			lambda_i = (svd.singular_values_[i] ** 2) / (svd.singular_values_ ** 2).sum()
 			pc = svd.components_[i]
-			vectors = map(lambda v_s: v_s - lambda_i * proj(v_s, pc), vectors)
+			vectors = [ v_s - lambda_i * proj(v_s, pc) for v_s in vectors ]
 
 		return vectors
 
@@ -187,14 +190,44 @@ def test_STS(model):
 			sentences = re.split(r'\t|\n', open(td + fn).read().strip())
 			vectors = model.embed(sentences)
 			y_hat = [ 1 - cosine(vectors[i], vectors[i+1]) for i in range(0, len(vectors), 2) ]
-			y = map(float, open(td + fn.replace('input', 'gs')).read().strip().split('\n'))
+			y = list(map(float, open(td + fn.replace('input', 'gs')).read().strip().split('\n')))
 
 			score = pearsonr(y, y_hat)[0]
 			scores.append(score)
 
-			print fn, "\t", score
+			print(fn, "\t", score)
 		
-		print td, np.mean(scores), "\n"
+		print(td, np.mean(scores), "\n")
+
+
+def test_STS_benchmark(model):
+	"""
+	Test the performance on the STS benchmark (train and test) and print out the results.
+
+	Expected results:
+		STSBenchmark/sts-dev.csv 	 0.842
+		STSBenchmark/sts-test.csv 	 0.795
+
+	Args:
+		model: a uSIF object
+	"""
+	test_fns = [ 'STSBenchmark/sts-dev.csv', 'STSBenchmark/sts-test.csv' ]
+
+	for fn in test_fns:
+		y, y_hat = [], []
+		sentences = []
+
+		for line in open(fn):
+			similarity, s1, s2 = line.strip().split('\t')[-3:]
+			sentences.append(s1)
+			sentences.append(s2)
+			y.append(float(similarity))
+		
+		vectors = model.embed(sentences)
+		y_hat = [ 1 - cosine(vectors[i], vectors[i+1]) for i in range(0, len(vectors), 2) ]
+
+		score = pearsonr(y, y_hat)[0]
+		print(fn, "\t", score)
 
 
 def get_paranmt_usif():
