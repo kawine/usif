@@ -2,6 +2,8 @@
 
 This is an implementation of *unsupervised smoothed inverse frequency* (uSIF), a simple but effective way to create sentence embeddings without any labelled data (Best Paper, Repl4NLP @ ACL 2018). See [the paper](http://aclweb.org/anthology/W18-3012) for more details.
 
+\*01/11/18 Code now works for Python3 instead of Python2. 
+
 ### Setup
 
 1. Unzip the pre-trained ParaNMT word vectors (thanks to John Wieting for providing this).
