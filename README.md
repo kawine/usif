@@ -13,3 +13,16 @@ This is an implementation of *unsupervised smoothed inverse frequency* (uSIF), a
 ### Embedding Individual Sentences
 
 If you don't have a sizable list of related sentences to embed, then there is not much point to doing piecewise common component removal, in which case you can set `m = 0` when initializing uSIF. Even for STS tasks, setting `m = 0` only decreases performance by 1 - 4%. 
+
+### Reference
+
+If you use this code, please cite
+```
+@article{ethayarajh2018unsupervised,
+  title={Unsupervised Random Walk Sentence Embeddings: A Strong but Simple Baseline},
+  author={Ethayarajh, Kawin},
+  journal={ACL 2018},
+  pages={91},
+  year={2018}
+}
+```
